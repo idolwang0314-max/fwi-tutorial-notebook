@@ -7,11 +7,6 @@ for differentiable wave-equation simulation in PyTorch.
 > Audience: anyone who has heard "FWI" and wants to see it work end-to-end in
 > ~100 lines of Python. Runs on CPU in a couple of minutes; faster on a GPU.
 
-> **Status: v0.1 placeholder.** The notebook itself (`notebooks/01-fwi-quickstart.ipynb`)
-> is being extracted from internal research scripts and will land in v0.2.
-> The README below describes the intended scope; track progress via
-> [issues](../../issues) once they're open.
-
 ## What you'll learn
 
 In one notebook you will:
