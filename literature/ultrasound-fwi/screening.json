@@ -1,0 +1,546 @@
+[
+  {
+    "doi": "10.1016/j.ultras.2026.108280",
+    "title": "Simultaneous multiparameter visco-acoustic full waveform inversion for breast ultrasound imaging.",
+    "year": "2027",
+    "decision": "included",
+    "library_id": "UFWI-098",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultras.2026.108221",
+    "title": "Reconstructing effective ultrasound transducer models via distributed source inversion.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-043",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1088/1361-6560/ae7cd6",
+    "title": "Quantitative&lt;i&gt;in-vivo&lt;/i&gt;full-waveform ultrasound tomography workflow integrating reflection imaging and resolution analysis.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-040",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/ojuffc.2025.3570253",
+    "title": "3D Frequency-Domain Full Waveform Inversion for Whole-Breast Imaging With a Multi-Row Ring Array.",
+    "year": "2025",
+    "decision": "included",
+    "library_id": "UFWI-014",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1088/1361-6560/ae6af4",
+    "title": "Proof of concept for full-waveform inversion in ultrasound time-harmonic shear-wave elastography.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-135",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultras.2026.108001",
+    "title": "Waveform inversion of sound speed and acoustic attenuation for ring-array ultrasound tomography based on optimal transport framework.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-099",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.20944/preprints202601.0884.v1",
+    "title": "Graph Neural Networks for Full Waveform Inversion",
+    "year": "2026",
+    "decision": "version_link",
+    "library_id": "UFWI-120",
+    "reason": "Broad brain-ultrasound review or non-FWI plane-wave correction; retains screening trace."
+  },
+  {
+    "doi": "10.1109/rbme.2026.3686264",
+    "title": "Review of Current Advances in Ultrasound Computed Tomography for Medical Imaging.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-136",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultras.2026.108189",
+    "title": "Ultrasonic forward modeling of industrial oil-water two-phase flow.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-137",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.media.2026.104141",
+    "title": "High-fidelity three-dimensional reconstruction of musculoskeletal tissues via diffusion based ultrasonic computed tomography.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-138",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultrasmedbio.2026.02.020",
+    "title": "Implementation and Validation of the Multi-scale Gradient Smoothing Strategy for Breast Full Waveform Inversion.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-032",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultrasmedbio.2026.05.003",
+    "title": "Automatic Skull-Template Alignment Without a Guidance Image.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-134",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1121/10.0036366",
+    "title": "Vortex-encoded full-waveform inversion-based ultrasound computed tomography.",
+    "year": "2025",
+    "decision": "included",
+    "library_id": "UFWI-022",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultras.2025.107705",
+    "title": "Quantitative comparison of the total focusing method, reverse time migration, and full waveform inversion for ultrasonic imaging.",
+    "year": "2025",
+    "decision": "included",
+    "library_id": "UFWI-100",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/tuson.2026.3687801",
+    "title": "Frequency-Domain Reconstruction of the Speed of Sound in Ring-Array Ultrasound Computed Tomography With Stochastic Phase Encoding.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-034",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.pacs.2026.100847",
+    "title": "Hybrid three-dimensional full-view multi-wavelength photoacoustic and ultrasound breast tomography.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-029",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1121/10.0034763",
+    "title": "Frequency-differencing strategy to kickstart full-waveform inversion without cycle skipping.",
+    "year": "2025",
+    "decision": "included",
+    "library_id": "UFWI-097",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/tuson.2026.3678152",
+    "title": "Deep-Learning Inversion for Bone Ultrasound Tomography.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-101",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1121/10.0036372",
+    "title": "Estimation of shear viscoelasticity via time-domain elastic full waveform inversion in ultrasound shear wave elastography.",
+    "year": "2025",
+    "decision": "included",
+    "library_id": "UFWI-139",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/tbme.2024.3477708",
+    "title": "Full-Waveform Inversion Imaging of Cortical Bone Using Phased Array Tomography.",
+    "year": "2025",
+    "decision": "included",
+    "library_id": "UFWI-102",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultras.2026.107977",
+    "title": "LSWNet: A physics-informed neural network for ultrasonic wavefield prediction and elastic constant inversion in unidirectional CFRP.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-140",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1088/1361-6560/ae7eea",
+    "title": "Cross-plane shear wave elastography for viscoelasticity imaging.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-141",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "",
+    "title": "Learned Full Waveform Inversion Incorporating Task Information for Ultrasound Computed Tomography",
+    "year": "2023",
+    "decision": "version_link",
+    "library_id": "UFWI-018",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultrasmedbio.2025.04.003",
+    "title": "Full-Waveform Inversion With Low-frequency Extrapolation Based on Sparse Deconvolution for Ultrasound Computed Tomography.",
+    "year": "2025",
+    "decision": "included",
+    "library_id": "UFWI-033",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1088/1361-6560/ae5374",
+    "title": "SSI-Net: a hybrid physics-constrained deep learning framework for quantitative ultrasound speed-of-sound reconstruction.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-142",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultras.2024.107560",
+    "title": "Guided wave tomography of pipe bends based on full waveform inversion.",
+    "year": "2025",
+    "decision": "included",
+    "library_id": "UFWI-103",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.3390/s24124017",
+    "title": "Detection of Multi-Layered Bond Delamination Defects Based on Full Waveform Inversion.",
+    "year": "2024",
+    "decision": "included",
+    "library_id": "UFWI-143",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1038/s41598-024-65149-3",
+    "title": "Comparison of methods for estimating Young's moduli of mortar specimens.",
+    "year": "2024",
+    "decision": "included",
+    "library_id": "UFWI-144",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.3390/s23249902",
+    "title": "High-Precision Corrosion Detection via SH1 Guided Wave Based on Full Waveform Inversion.",
+    "year": "2023",
+    "decision": "included",
+    "library_id": "UFWI-145",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultras.2024.107505",
+    "title": "Optimal transport assisted full waveform inversion for multiparameter imaging of soft tissues in ultrasound computed tomography.",
+    "year": "2025",
+    "decision": "included",
+    "library_id": "UFWI-104",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultras.2023.107165",
+    "title": "Estimating Young's moduli based on ultrasound and full-waveform inversion.",
+    "year": "2024",
+    "decision": "included",
+    "library_id": "UFWI-064",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.3390/s26092801",
+    "title": "CUCT-Net: End-to-End Signal-to-Image Learning for Quantized Speed-of-Sound Estimation and Tissue Segmentation in Ultrasound Computed Tomography.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-146",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1121/10.0020151",
+    "title": "Frequency-domain full-waveform inversion-based musculoskeletal ultrasound computed tomography.",
+    "year": "2023",
+    "decision": "included",
+    "library_id": "UFWI-069",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultras.2025.107860",
+    "title": "High-precision wavefield simulation and deep learning-based sound speed reconstruction for transcranial ultrasound imaging.",
+    "year": "2026",
+    "decision": "included",
+    "library_id": "UFWI-105",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultras.2024.107392",
+    "title": "Cross-correlation adjustment full-waveform inversion with source encoding in ultrasound computed tomography.",
+    "year": "2024",
+    "decision": "included",
+    "library_id": "UFWI-019",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultras.2023.107004",
+    "title": "Ultrasound computed tomography based on full waveform inversion with source directivity calibration.",
+    "year": "2023",
+    "decision": "included",
+    "library_id": "UFWI-037",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/tuffc.2023.3313549",
+    "title": "A Forward Model Incorporating Elevation-Focused Transducer Properties for 3-D Full-Waveform Inversion in Ultrasound Computed Tomography.",
+    "year": "2023",
+    "decision": "included",
+    "library_id": "UFWI-026",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1088/1361-6560/ad3c8f",
+    "title": "Full waveform inversion using frequency shift envelope-based global correlation norm for ultrasound computed tomography.",
+    "year": "2024",
+    "decision": "included",
+    "library_id": "UFWI-084",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.cmpb.2025.108807",
+    "title": "A multi-task neural network for full waveform ultrasonic bone imaging.",
+    "year": "2025",
+    "decision": "included",
+    "library_id": "UFWI-106",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultrasmedbio.2022.05.023",
+    "title": "Design and Construction of a Low-Frequency Ultrasound Acquisition Device for 2-D Brain Imaging Using Full-Waveform Inversion.",
+    "year": "2022",
+    "decision": "included",
+    "library_id": "UFWI-126",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/embc53108.2024.10781688",
+    "title": "The influence of ignoring the acoustic attenuation parameter during full waveform inversion of transcranial ultrasound data - Preliminary Study.",
+    "year": "2024",
+    "decision": "included",
+    "library_id": "UFWI-147",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/tci.2024.3351529",
+    "title": "Learned Full Waveform Inversion Incorporating Task Information for Ultrasound Computed Tomography.",
+    "year": "2024",
+    "decision": "included",
+    "library_id": "UFWI-018",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/tuffc.2022.3217512",
+    "title": "Transcranial Ultrasound Imaging With Decomposition Descent Learning-Based Full Waveform Inversion.",
+    "year": "2022",
+    "decision": "included",
+    "library_id": "UFWI-107",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultras.2023.107043",
+    "title": "Full waveform inversion guided wave tomography with a recurrent neural network.",
+    "year": "2023",
+    "decision": "included",
+    "library_id": "UFWI-108",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultrasmedbio.2023.06.001",
+    "title": "Dual-Probe Transcranial Full-Waveform Inversion: A Brain Phantom Feasibility Study.",
+    "year": "2023",
+    "decision": "included",
+    "library_id": "UFWI-039",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/embc48229.2022.9871930",
+    "title": "Cross-correlation Full Waveform Inversion for Sound Speed Reconstruction in Ultrasound Computed Tomography.",
+    "year": "2022",
+    "decision": "included",
+    "library_id": "UFWI-148",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultrasmedbio.2022.12.004",
+    "title": "Full-Waveform Inversion for Breast Ultrasound Tomography Using Line-Shape Modeled Elements.",
+    "year": "2023",
+    "decision": "included",
+    "library_id": "UFWI-038",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/tmi.2024.3363144",
+    "title": "Deep Learning With Physics-Embedded Neural Network for Full Waveform Ultrasonic Brain Imaging.",
+    "year": "2024",
+    "decision": "included",
+    "library_id": "UFWI-082",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.ultras.2024.107465",
+    "title": "Unveiling the potential of ultrasound in brain imaging: Innovations, challenges, and prospects.",
+    "year": "2025",
+    "decision": "excluded_scope",
+    "library_id": null,
+    "reason": "Broad brain-ultrasound review or non-FWI plane-wave correction; retains screening trace."
+  },
+  {
+    "doi": "10.1109/tuffc.2024.3459391",
+    "title": "Investigating the Use of Traveltime and Reflection Tomography for Deep Learning-Based Sound-Speed Estimation in Ultrasound Computed Tomography.",
+    "year": "2024",
+    "decision": "included",
+    "library_id": "UFWI-109",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1002/mp.17710",
+    "title": "Breast cancer detection from ultrasound computed tomography imaging using radiomic analysis: in silico trial.",
+    "year": "2025",
+    "decision": "included",
+    "library_id": "UFWI-149",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1002/mp.18090",
+    "title": "Transcranial ultrasound tomography for brain imaging: Ex vivo results and potential for stroke imaging.",
+    "year": "2025",
+    "decision": "included",
+    "library_id": "UFWI-127",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/tmi.2024.3358307",
+    "title": "Improved Transcranial Plane-Wave Imaging With Learned Speed-of-Sound Maps.",
+    "year": "2024",
+    "decision": "excluded_scope",
+    "library_id": null,
+    "reason": "Broad brain-ultrasound review or non-FWI plane-wave correction; retains screening trace."
+  },
+  {
+    "doi": "10.1177/0161734621990011",
+    "title": "Ultrasonic Imaging of High-contrasted Objects Based on Full-waveform Inversion: Limits under Fluid Modeling.",
+    "year": "2021",
+    "decision": "included",
+    "library_id": "UFWI-110",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.cmpb.2023.107404",
+    "title": "Application of full waveform inversion algorithm in Laplace-Fourier domain for high-contrast ultrasonic bone quantitative imaging.",
+    "year": "2023",
+    "decision": "included",
+    "library_id": "UFWI-061",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1088/1361-6560/ad94c9",
+    "title": "Multi-acquisition multi-resolution full-waveform shear wave elastography for reconstructing tissue viscoelasticity.",
+    "year": "2024",
+    "decision": "included",
+    "library_id": "UFWI-150",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1088/1361-6420/ac55ee",
+    "title": "A probabilistic approach to tomography and adjoint state methods, with an application to full waveform inversion in medical ultrasound.",
+    "year": "2022",
+    "decision": "included",
+    "library_id": "UFWI-125",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.3390/s21134570",
+    "title": "Deep-Learning-Driven Full-Waveform Inversion for Ultrasound Breast Imaging.",
+    "year": "2021",
+    "decision": "included",
+    "library_id": "UFWI-074",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/tuffc.2023.3280635",
+    "title": "open-UST: An Open-Source Ultrasound Tomography Transducer Array System.",
+    "year": "2023",
+    "decision": "included",
+    "library_id": "UFWI-151",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1007/978-3-030-91979-5_11",
+    "title": "Ultrasound Computed Tomography.",
+    "year": "2022",
+    "decision": "included",
+    "library_id": "UFWI-046",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1038/s41746-020-0240-8",
+    "title": "Full-waveform inversion imaging of the human brain.",
+    "year": "2020",
+    "decision": "included",
+    "library_id": "UFWI-124",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/tuffc.2021.3114432",
+    "title": "Modeling the Effect of Anisotropy in Ultrasonic-Guided Wave Tomography.",
+    "year": "2022",
+    "decision": "included",
+    "library_id": "UFWI-111",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/tmi.2021.3115790",
+    "title": "Quantitative Sound Speed Imaging of Cortical Bone and Soft Tissue: Results From Observational Data Sets.",
+    "year": "2022",
+    "decision": "included",
+    "library_id": "UFWI-152",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1088/1361-6560/ac5296",
+    "title": "DeepUCT: Complex cascaded deep learning network for improved ultrasound tomography.",
+    "year": "2022",
+    "decision": "included",
+    "library_id": "UFWI-153",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1016/j.cmpb.2022.106855",
+    "title": "Stride: A flexible software platform for high-performance ultrasound computed tomography.",
+    "year": "2022",
+    "decision": "included",
+    "library_id": "UFWI-041",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/tuffc.2021.3097080",
+    "title": "Guided Wave Tomography Based on Supervised Descent Method for Quantitative Corrosion Imaging.",
+    "year": "2021",
+    "decision": "included",
+    "library_id": "UFWI-112",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/tuffc.2021.3104342",
+    "title": "Spatial Response Identification Enables Robust Experimental Ultrasound Computed Tomography.",
+    "year": "2022",
+    "decision": "included",
+    "library_id": "UFWI-035",
+    "reason": "Matched final record"
+  },
+  {
+    "doi": "10.1109/tuffc.2020.3015583",
+    "title": "Spatial Response Identification for Flexible and Accurate Ultrasound Transducer Calibration and its Application to Brain Imaging.",
+    "year": "2021",
+    "decision": "included",
+    "library_id": "UFWI-036",
+    "reason": "Matched final record"
+  }
+]

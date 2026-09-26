@@ -21,6 +21,22 @@ In one notebook you will:
 
 No prior FWI knowledge required — concepts are introduced as they show up.
 
+## Ultrasound FWI literature library / 超声 FWI 文献库
+
+[Browse the literature library](literature/ultrasound-fwi/README.md): **151 records**
+with contributions, methods, validation evidence, limitations, and public sources.
+The Chinese research review combines earlier literature work with searches through
+**September 26, 2026**, focusing on Ultrasonics, IEEE TUFFC/TUSON, Geophysics/GJI,
+Imperial College, and Yubing Li.
+
+- [研究综述](literature/ultrasound-fwi/REVIEW_CN.md) · [26 篇精读排序](literature/ultrasound-fwi/READING_RANKING.md)
+- [总索引](literature/ultrasound-fwi/INDEX.md) · [分类](literature/ultrasound-fwi/CLASSIFICATION.md) · [作者路线](literature/ultrasound-fwi/AUTHOR_MAP.md)
+- [CSV](literature/ultrasound-fwi/library.csv) · [BibTeX](literature/ultrasound-fwi/references.bib) · [JSON](literature/ultrasound-fwi/library.json)
+
+The library also includes a standalone HTML search interface for offline use and
+standard-library Python scripts for rebuilding the catalog. See its
+[README](literature/ultrasound-fwi/README.md) for instructions and evidence levels.
+
 ## Setup
 
 ```bash
@@ -49,8 +65,10 @@ fwi-tutorial-notebook/
 ├── README.md                      # You are here
 ├── LICENSE                        # MIT
 ├── requirements.txt
-└── notebooks/
-    └── 01-fwi-quickstart.ipynb    # The tutorial
+├── notebooks/
+│   └── 01-fwi-quickstart.ipynb     # The tutorial
+└── literature/
+    └── ultrasound-fwi/            # Curated literature, indexes and exports
 ```
 
 ## References

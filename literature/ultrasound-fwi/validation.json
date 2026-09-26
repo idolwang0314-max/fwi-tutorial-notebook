@@ -1,0 +1,18 @@
+{
+  "records": 151,
+  "csv_rows": 151,
+  "unique_doi": 150,
+  "ranked": 26,
+  "bibtex_entries": 149,
+  "screened": 68,
+  "checks_passed": true,
+  "errors": [],
+  "warnings": [],
+  "js_smoke": {
+    "initial": 151,
+    "geophysical": 27,
+    "search": true,
+    "reset": true,
+    "withdrawn": true
+  }
+}

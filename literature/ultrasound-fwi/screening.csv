@@ -1,0 +1,69 @@
+﻿doi,title,year,decision,library_id,reason
+10.1016/j.ultras.2026.108280,Simultaneous multiparameter visco-acoustic full waveform inversion for breast ultrasound imaging.,2027,included,UFWI-098,Matched final record
+10.1016/j.ultras.2026.108221,Reconstructing effective ultrasound transducer models via distributed source inversion.,2026,included,UFWI-043,Matched final record
+10.1088/1361-6560/ae7cd6,Quantitative&lt;i&gt;in-vivo&lt;/i&gt;full-waveform ultrasound tomography workflow integrating reflection imaging and resolution analysis.,2026,included,UFWI-040,Matched final record
+10.1109/ojuffc.2025.3570253,3D Frequency-Domain Full Waveform Inversion for Whole-Breast Imaging With a Multi-Row Ring Array.,2025,included,UFWI-014,Matched final record
+10.1088/1361-6560/ae6af4,Proof of concept for full-waveform inversion in ultrasound time-harmonic shear-wave elastography.,2026,included,UFWI-135,Matched final record
+10.1016/j.ultras.2026.108001,Waveform inversion of sound speed and acoustic attenuation for ring-array ultrasound tomography based on optimal transport framework.,2026,included,UFWI-099,Matched final record
+10.20944/preprints202601.0884.v1,Graph Neural Networks for Full Waveform Inversion,2026,version_link,UFWI-120,Broad brain-ultrasound review or non-FWI plane-wave correction; retains screening trace.
+10.1109/rbme.2026.3686264,Review of Current Advances in Ultrasound Computed Tomography for Medical Imaging.,2026,included,UFWI-136,Matched final record
+10.1016/j.ultras.2026.108189,Ultrasonic forward modeling of industrial oil-water two-phase flow.,2026,included,UFWI-137,Matched final record
+10.1016/j.media.2026.104141,High-fidelity three-dimensional reconstruction of musculoskeletal tissues via diffusion based ultrasonic computed tomography.,2026,included,UFWI-138,Matched final record
+10.1016/j.ultrasmedbio.2026.02.020,Implementation and Validation of the Multi-scale Gradient Smoothing Strategy for Breast Full Waveform Inversion.,2026,included,UFWI-032,Matched final record
+10.1016/j.ultrasmedbio.2026.05.003,Automatic Skull-Template Alignment Without a Guidance Image.,2026,included,UFWI-134,Matched final record
+10.1121/10.0036366,Vortex-encoded full-waveform inversion-based ultrasound computed tomography.,2025,included,UFWI-022,Matched final record
+10.1016/j.ultras.2025.107705,"Quantitative comparison of the total focusing method, reverse time migration, and full waveform inversion for ultrasonic imaging.",2025,included,UFWI-100,Matched final record
+10.1109/tuson.2026.3687801,Frequency-Domain Reconstruction of the Speed of Sound in Ring-Array Ultrasound Computed Tomography With Stochastic Phase Encoding.,2026,included,UFWI-034,Matched final record
+10.1016/j.pacs.2026.100847,Hybrid three-dimensional full-view multi-wavelength photoacoustic and ultrasound breast tomography.,2026,included,UFWI-029,Matched final record
+10.1121/10.0034763,Frequency-differencing strategy to kickstart full-waveform inversion without cycle skipping.,2025,included,UFWI-097,Matched final record
+10.1109/tuson.2026.3678152,Deep-Learning Inversion for Bone Ultrasound Tomography.,2026,included,UFWI-101,Matched final record
+10.1121/10.0036372,Estimation of shear viscoelasticity via time-domain elastic full waveform inversion in ultrasound shear wave elastography.,2025,included,UFWI-139,Matched final record
+10.1109/tbme.2024.3477708,Full-Waveform Inversion Imaging of Cortical Bone Using Phased Array Tomography.,2025,included,UFWI-102,Matched final record
+10.1016/j.ultras.2026.107977,LSWNet: A physics-informed neural network for ultrasonic wavefield prediction and elastic constant inversion in unidirectional CFRP.,2026,included,UFWI-140,Matched final record
+10.1088/1361-6560/ae7eea,Cross-plane shear wave elastography for viscoelasticity imaging.,2026,included,UFWI-141,Matched final record
+,Learned Full Waveform Inversion Incorporating Task Information for Ultrasound Computed Tomography,2023,version_link,UFWI-018,Matched final record
+10.1016/j.ultrasmedbio.2025.04.003,Full-Waveform Inversion With Low-frequency Extrapolation Based on Sparse Deconvolution for Ultrasound Computed Tomography.,2025,included,UFWI-033,Matched final record
+10.1088/1361-6560/ae5374,SSI-Net: a hybrid physics-constrained deep learning framework for quantitative ultrasound speed-of-sound reconstruction.,2026,included,UFWI-142,Matched final record
+10.1016/j.ultras.2024.107560,Guided wave tomography of pipe bends based on full waveform inversion.,2025,included,UFWI-103,Matched final record
+10.3390/s24124017,Detection of Multi-Layered Bond Delamination Defects Based on Full Waveform Inversion.,2024,included,UFWI-143,Matched final record
+10.1038/s41598-024-65149-3,Comparison of methods for estimating Young's moduli of mortar specimens.,2024,included,UFWI-144,Matched final record
+10.3390/s23249902,High-Precision Corrosion Detection via SH1 Guided Wave Based on Full Waveform Inversion.,2023,included,UFWI-145,Matched final record
+10.1016/j.ultras.2024.107505,Optimal transport assisted full waveform inversion for multiparameter imaging of soft tissues in ultrasound computed tomography.,2025,included,UFWI-104,Matched final record
+10.1016/j.ultras.2023.107165,Estimating Young's moduli based on ultrasound and full-waveform inversion.,2024,included,UFWI-064,Matched final record
+10.3390/s26092801,CUCT-Net: End-to-End Signal-to-Image Learning for Quantized Speed-of-Sound Estimation and Tissue Segmentation in Ultrasound Computed Tomography.,2026,included,UFWI-146,Matched final record
+10.1121/10.0020151,Frequency-domain full-waveform inversion-based musculoskeletal ultrasound computed tomography.,2023,included,UFWI-069,Matched final record
+10.1016/j.ultras.2025.107860,High-precision wavefield simulation and deep learning-based sound speed reconstruction for transcranial ultrasound imaging.,2026,included,UFWI-105,Matched final record
+10.1016/j.ultras.2024.107392,Cross-correlation adjustment full-waveform inversion with source encoding in ultrasound computed tomography.,2024,included,UFWI-019,Matched final record
+10.1016/j.ultras.2023.107004,Ultrasound computed tomography based on full waveform inversion with source directivity calibration.,2023,included,UFWI-037,Matched final record
+10.1109/tuffc.2023.3313549,A Forward Model Incorporating Elevation-Focused Transducer Properties for 3-D Full-Waveform Inversion in Ultrasound Computed Tomography.,2023,included,UFWI-026,Matched final record
+10.1088/1361-6560/ad3c8f,Full waveform inversion using frequency shift envelope-based global correlation norm for ultrasound computed tomography.,2024,included,UFWI-084,Matched final record
+10.1016/j.cmpb.2025.108807,A multi-task neural network for full waveform ultrasonic bone imaging.,2025,included,UFWI-106,Matched final record
+10.1016/j.ultrasmedbio.2022.05.023,Design and Construction of a Low-Frequency Ultrasound Acquisition Device for 2-D Brain Imaging Using Full-Waveform Inversion.,2022,included,UFWI-126,Matched final record
+10.1109/embc53108.2024.10781688,The influence of ignoring the acoustic attenuation parameter during full waveform inversion of transcranial ultrasound data - Preliminary Study.,2024,included,UFWI-147,Matched final record
+10.1109/tci.2024.3351529,Learned Full Waveform Inversion Incorporating Task Information for Ultrasound Computed Tomography.,2024,included,UFWI-018,Matched final record
+10.1109/tuffc.2022.3217512,Transcranial Ultrasound Imaging With Decomposition Descent Learning-Based Full Waveform Inversion.,2022,included,UFWI-107,Matched final record
+10.1016/j.ultras.2023.107043,Full waveform inversion guided wave tomography with a recurrent neural network.,2023,included,UFWI-108,Matched final record
+10.1016/j.ultrasmedbio.2023.06.001,Dual-Probe Transcranial Full-Waveform Inversion: A Brain Phantom Feasibility Study.,2023,included,UFWI-039,Matched final record
+10.1109/embc48229.2022.9871930,Cross-correlation Full Waveform Inversion for Sound Speed Reconstruction in Ultrasound Computed Tomography.,2022,included,UFWI-148,Matched final record
+10.1016/j.ultrasmedbio.2022.12.004,Full-Waveform Inversion for Breast Ultrasound Tomography Using Line-Shape Modeled Elements.,2023,included,UFWI-038,Matched final record
+10.1109/tmi.2024.3363144,Deep Learning With Physics-Embedded Neural Network for Full Waveform Ultrasonic Brain Imaging.,2024,included,UFWI-082,Matched final record
+10.1016/j.ultras.2024.107465,"Unveiling the potential of ultrasound in brain imaging: Innovations, challenges, and prospects.",2025,excluded_scope,,Broad brain-ultrasound review or non-FWI plane-wave correction; retains screening trace.
+10.1109/tuffc.2024.3459391,Investigating the Use of Traveltime and Reflection Tomography for Deep Learning-Based Sound-Speed Estimation in Ultrasound Computed Tomography.,2024,included,UFWI-109,Matched final record
+10.1002/mp.17710,Breast cancer detection from ultrasound computed tomography imaging using radiomic analysis: in silico trial.,2025,included,UFWI-149,Matched final record
+10.1002/mp.18090,Transcranial ultrasound tomography for brain imaging: Ex vivo results and potential for stroke imaging.,2025,included,UFWI-127,Matched final record
+10.1109/tmi.2024.3358307,Improved Transcranial Plane-Wave Imaging With Learned Speed-of-Sound Maps.,2024,excluded_scope,,Broad brain-ultrasound review or non-FWI plane-wave correction; retains screening trace.
+10.1177/0161734621990011,Ultrasonic Imaging of High-contrasted Objects Based on Full-waveform Inversion: Limits under Fluid Modeling.,2021,included,UFWI-110,Matched final record
+10.1016/j.cmpb.2023.107404,Application of full waveform inversion algorithm in Laplace-Fourier domain for high-contrast ultrasonic bone quantitative imaging.,2023,included,UFWI-061,Matched final record
+10.1088/1361-6560/ad94c9,Multi-acquisition multi-resolution full-waveform shear wave elastography for reconstructing tissue viscoelasticity.,2024,included,UFWI-150,Matched final record
+10.1088/1361-6420/ac55ee,"A probabilistic approach to tomography and adjoint state methods, with an application to full waveform inversion in medical ultrasound.",2022,included,UFWI-125,Matched final record
+10.3390/s21134570,Deep-Learning-Driven Full-Waveform Inversion for Ultrasound Breast Imaging.,2021,included,UFWI-074,Matched final record
+10.1109/tuffc.2023.3280635,open-UST: An Open-Source Ultrasound Tomography Transducer Array System.,2023,included,UFWI-151,Matched final record
+10.1007/978-3-030-91979-5_11,Ultrasound Computed Tomography.,2022,included,UFWI-046,Matched final record
+10.1038/s41746-020-0240-8,Full-waveform inversion imaging of the human brain.,2020,included,UFWI-124,Matched final record
+10.1109/tuffc.2021.3114432,Modeling the Effect of Anisotropy in Ultrasonic-Guided Wave Tomography.,2022,included,UFWI-111,Matched final record
+10.1109/tmi.2021.3115790,Quantitative Sound Speed Imaging of Cortical Bone and Soft Tissue: Results From Observational Data Sets.,2022,included,UFWI-152,Matched final record
+10.1088/1361-6560/ac5296,DeepUCT: Complex cascaded deep learning network for improved ultrasound tomography.,2022,included,UFWI-153,Matched final record
+10.1016/j.cmpb.2022.106855,Stride: A flexible software platform for high-performance ultrasound computed tomography.,2022,included,UFWI-041,Matched final record
+10.1109/tuffc.2021.3097080,Guided Wave Tomography Based on Supervised Descent Method for Quantitative Corrosion Imaging.,2021,included,UFWI-112,Matched final record
+10.1109/tuffc.2021.3104342,Spatial Response Identification Enables Robust Experimental Ultrasound Computed Tomography.,2022,included,UFWI-035,Matched final record
+10.1109/tuffc.2020.3015583,Spatial Response Identification for Flexible and Accurate Ultrasound Transducer Calibration and its Application to Brain Imaging.,2021,included,UFWI-036,Matched final record
