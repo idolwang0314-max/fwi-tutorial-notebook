@@ -2,7 +2,7 @@
 
 [总索引](../INDEX.md) · [可筛选网页](../index.html) · [阅读排序](../READING_RANKING.md)
 
-- 作者：Carlos Cueto; Oscar Bates; George Strong; Javier Cudeiro; Fabio Luporini; Òscar Calderón Agudo; Gerard Gorman; Lluis Guasch; Meng-Xing Tang; Meng-Xing Tang
+- 作者：Carlos Cueto; Oscar Bates; George Strong; Javier Cudeiro; Fabio Luporini; Òscar Calderón Agudo; Gerard Gorman; Lluis Guasch; Meng-Xing Tang
 - 年份 / 期刊：2022 / Computer Methods and Programs in Biomedicine
 - 发表类型 / 状态：journal / published
 - 研究类型：医学超声 FWI

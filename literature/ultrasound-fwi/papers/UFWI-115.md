@@ -10,6 +10,11 @@
 - 核验程度：一手摘要
 - 优先级：P1
 - DOI：[10.48550/arxiv.2608.19828](https://doi.org/10.48550/arxiv.2608.19828)
+- 2026-10-08 分类：existing_reviewed
+
+2026-10-04 复核备注：本轮核Methods/Results：first-break指导0.25–0.45MHz（在体示例0.25MHz）初模；随后0.5–1.2MHz/0.3–1.2MHz精化，缺低频约束尚不匹配。
+
+2026-10-08 复核备注：本轮直读arXiv版本史：v1 2026-08-20，无本周更新；sim-to-real首波segmentation，不是新损失。
 
 ## 创新点 / 主要贡献
 

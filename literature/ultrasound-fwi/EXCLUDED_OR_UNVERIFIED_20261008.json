@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Prior-free implicit seismic inversion with continuous representation",
+    "doi": "10.1093/gji/ggag406",
+    "date": "2026-10-05",
+    "reason": "正式本周，但对象是post-stack impedance和pre-stack AVO，不是PDE FWI；暂不入FWI正文。",
+    "source_urls": [
+      "https://doi.org/10.1093/gji/ggag406",
+      "https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggag406/8865328?searchresult=1"
+    ],
+    "screened_at": "2026-10-08"
+  },
+  {
+    "title": "Velocity-Steered Multi-Parameter Full-Waveform Inversion for Quantitative Musculoskeletal Ultrasound Imaging",
+    "doi": "",
+    "date": null,
+    "reason": "IUS7164：缓存摘要/session65存在，官网原始HTTP当前session65无此paper，官方ID搜索0；当前会议状态冲突，不猜撤回或实际报告。缓存作者Peiwen Li/Heyu Ma/Tianyu Liu/Chengcheng Liu/Dean Ta。",
+    "source_urls": [
+      "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7164",
+      "https://epapers2.org/ius2026/ESR/session_view.php?session_id=65",
+      "https://epapers2.org/ius2026/ESR/search_paper.php"
+    ],
+    "screened_at": "2026-10-08"
+  },
+  {
+    "title": "Multi-Modal Surface Wave Inversion using Physics Guided Variational Autoencoders",
+    "doi": "10.48550/arxiv.2610.02337",
+    "date": "2026-10-01",
+    "reason": "北京时间10/2边界，但主要Rayleigh dispersion/near-surface初始化，和本轮USCT/FWI直接关联弱；仅留检索去向。",
+    "source_urls": [
+      "https://arxiv.org/abs/2610.02337"
+    ],
+    "screened_at": "2026-10-08"
+  },
+  {
+    "title": "GeoFWI3D: Large-scale 3D Velocity Model Dataset for Deep Learning-assisted Seismic Imaging",
+    "doi": "10.48550/arxiv.2610.01033",
+    "date": "2026-10-01",
+    "reason": "窗外；地震大数据benchmark，与当前实验直接关联弱；不下载训练集。",
+    "source_urls": [
+      "https://arxiv.org/abs/2610.01033"
+    ],
+    "screened_at": "2026-10-08"
+  },
+  {
+    "title": "Full-Waveform Seismic Tomography of the Upper Mantle Beneath the Arabia-Eurasia Collision Zone",
+    "doi": "10.1029/2026gc013003",
+    "date": "2026-10-06",
+    "reason": "本周新区域构造应用；Crossref作者摘要为normalized cross-correlation/multipath mantle FWI；与本轮超声方法迁移关联低，不扩库。",
+    "source_urls": [
+      "https://doi.org/10.1029/2026GC013003"
+    ],
+    "screened_at": "2026-10-08"
+  },
+  {
+    "title": "AI-Enhanced Ring-Array Ultrasound Computed Tomography",
+    "doi": "",
+    "date": "2026-10-02",
+    "reason": "KIT seminar event不是论文；不把活动日期作为文章发表日。",
+    "source_urls": [
+      "https://indico.kit.edu/event/5796/"
+    ],
+    "screened_at": "2026-10-08"
+  },
+  {
+    "title": "Full waveform inversion with an adjoint scheme for time-dependent inverse wave problems in nonlinear media",
+    "doi": "10.1016/j.cma.2026.119093",
+    "date": "2026-10-01",
+    "reason": "Oct1为卷期线索；非本周；nonlinear membrane逆问题不是直接USCT，未补入。",
+    "source_urls": [
+      "https://doi.org/10.1016/j.cma.2026.119093"
+    ],
+    "screened_at": "2026-10-08"
+  },
+  {
+    "title": "EuropePMC weekly clinical false positives",
+    "doi": "",
+    "date": null,
+    "reason": "PMCID13639987甲状腺多模态诊断综述、PMID42824627心衰影像meta-analysis，词组断句误匹配，非超声CT/FWI。",
+    "source_urls": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/search"
+    ],
+    "screened_at": "2026-10-08"
+  }
+]

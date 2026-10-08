@@ -44,3 +44,12 @@ AWI源于地球物理，随后连接脑/乳腺FWI、仪器响应、低频采集�
 - NDT / Bürchner等：TFM、RTM、FWI基准、网络参数化与非规则几何。
 
 本表用于导航，不是穷尽作者履历或认定当前单位。完整作者与官方来源见单篇卡片。
+
+
+## 2026-10-08 路线更新
+
+- Imperial：增加 [Rabbat 与 Huthwaite 的几何 FWI 会议摘要](papers/UFWI-178.md)，保持管道导波与骨 USCT 的应用区别。
+- 李玉冰团队：更新现有 [HFWI](papers/UFWI-114.md)、[首波分割](papers/UFWI-115.md)、[Generative Neural Physics](papers/UFWI-116.md) 的 arXiv 版本复核备注；本周未发现新版本，未新增重复条目。[OpenBreastUS](papers/UFWI-168.md) 为不同文章，作为早期补漏。
+- 医学 AWI：增加 [Klaben 等源估计会议摘要](papers/UFWI-170.md)；作者以当前官方日程为准，证据仅为摘要中的模拟。
+
+本次完整主题顺序见 [12 篇专题阅读](PROJECT_READING_20261008.md)。

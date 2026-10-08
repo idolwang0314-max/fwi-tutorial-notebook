@@ -2,7 +2,7 @@
 
 [总索引](../INDEX.md) · [可筛选网页](../index.html) · [阅读排序](../READING_RANKING.md)
 
-- 作者：Thomas Caradoc Robins; Carlos Cueto; Javier Cudeiro; Oscar Bates; Oscar Calderon Agudo; George Strong; Lluis Guasch; Michael Warner; Meng-Xing Tang; Meng-Xing Tang
+- 作者：Thomas Caradoc Robins; Carlos Cueto; Javier Cudeiro; Oscar Bates; Oscar Calderon Agudo; George Strong; Lluis Guasch; Michael Warner; Meng-Xing Tang
 - 年份 / 期刊：2023 / Ultrasound in Medicine & Biology
 - 发表类型 / 状态：journal / published
 - 研究类型：医学超声 FWI

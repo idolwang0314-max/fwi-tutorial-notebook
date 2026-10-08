@@ -2,7 +2,7 @@
 
 [总索引](../INDEX.md) · [可筛选网页](../index.html) · [阅读排序](../READING_RANKING.md)
 
-- 作者：Carlos Cueto; Lluis Guasch; Javier Cudeiro; Oscar Calderon Agudo; Thomas Robins; Oscar Bates; George Strong; Meng-Xing Tang; Meng-Xing Tang
+- 作者：Carlos Cueto; Lluis Guasch; Javier Cudeiro; Oscar Calderon Agudo; Thomas Robins; Oscar Bates; George Strong; Meng-Xing Tang
 - 年份 / 期刊：2022 / IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC)
 - 发表类型 / 状态：journal / published
 - 研究类型：医学超声 FWI
@@ -11,6 +11,8 @@
 - 优先级：P0；精读第 2 篇
 - DOI：[10.1109/tuffc.2021.3104342](https://doi.org/10.1109/tuffc.2021.3104342)
 - Europe PMC日期（可能为卷期日；差异见备注）：2021-12-31
+
+2026-10-04 复核备注：已有联合描述换能器位置/方向/响应的SRI实测工作，普通源校准不作为新贡献。
 
 ## 创新点 / 主要贡献
 

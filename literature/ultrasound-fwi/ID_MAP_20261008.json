@@ -1,0 +1,1263 @@
+{
+  "updated_at": "2026-10-08",
+  "previous_public_count": 151,
+  "new_public_records": 28,
+  "current_count": 179,
+  "allocation": "Existing public IDs and gaps preserved; new IDs UFWI-154 through UFWI-181.",
+  "source_aggregate_sha256": "2ceea5972ee2fb69cd5af8f4f71a74a043a3657e8aadf87336186b1b246d9554",
+  "records": [
+    {
+      "source_record_id": "UFWI-013",
+      "public_id": "UFWI-013",
+      "title": "2-D Slicewise Waveform Inversion of Sound Speed and Acoustic Attenuation for Ring Array Ultrasound Tomography Based on a Block LU Solver",
+      "doi": "10.1109/tmi.2024.3383816",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-035",
+      "public_id": "UFWI-035",
+      "title": "Spatial response identification enables robust experimental ultrasound computed tomography",
+      "doi": "10.1109/tuffc.2021.3104342",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-025",
+      "public_id": "UFWI-025",
+      "title": "High resolution 3D ultrasonic breast imaging by time-domain full waveform inversion",
+      "doi": "10.1088/1361-6420/ac3b64",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-104",
+      "public_id": "UFWI-104",
+      "title": "Optimal transport assisted full waveform inversion for multiparameter imaging of soft tissues in ultrasound computed tomography",
+      "doi": "10.1016/j.ultras.2024.107505",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-097",
+      "public_id": "UFWI-097",
+      "title": "Frequency-differencing strategy to kickstart full-waveform inversion without cycle skipping",
+      "doi": "10.1121/10.0034763",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-040",
+      "public_id": "UFWI-040",
+      "title": "Quantitative in-vivo full-waveform ultrasound tomography workflow integrating reflection imaging and resolution analysis",
+      "doi": "10.1088/1361-6560/ae7cd6",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-124",
+      "public_id": "UFWI-124",
+      "title": "Full-waveform inversion imaging of the human brain",
+      "doi": "10.1038/s41746-020-0240-8",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-007",
+      "public_id": "UFWI-007",
+      "title": "Localized adaptive waveform inversion: theory and numerical verification",
+      "doi": "10.1093/gji/ggac496",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-008",
+      "public_id": "UFWI-008",
+      "title": "Localized adaptive waveform inversion: regularizations for Gabor deconvolution and 3-D field data application",
+      "doi": "10.1093/gji/ggad225",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-037",
+      "public_id": "UFWI-037",
+      "title": "Ultrasound computed tomography based on full waveform inversion with source directivity calibration",
+      "doi": "10.1016/j.ultras.2023.107004",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-029",
+      "public_id": "UFWI-029",
+      "title": "Hybrid three-dimensional full-view multi-wavelength photoacoustic and ultrasound breast tomography",
+      "doi": "10.1016/j.pacs.2026.100847",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-069",
+      "public_id": "UFWI-069",
+      "title": "Frequency-domain full-waveform inversion-based musculoskeletal ultrasound computed tomography",
+      "doi": "10.1121/10.0020151",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-152",
+      "public_id": "UFWI-152",
+      "title": "Quantitative Sound Speed Imaging of Cortical Bone and Soft Tissue: Results From Observational Data Sets",
+      "doi": "10.1109/tmi.2021.3115790",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-011",
+      "public_id": "UFWI-011",
+      "title": "On cycle-skipping and misfit function modification for full-wave inversion: Comparison of five recent approaches",
+      "doi": "10.1190/geo2020-0851.1",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-026",
+      "public_id": "UFWI-026",
+      "title": "A Forward Model Incorporating Elevation-Focused Transducer Properties for 3-D Full-Waveform Inversion in Ultrasound Computed Tomography",
+      "doi": "10.1109/tuffc.2023.3313549",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-014",
+      "public_id": "UFWI-014",
+      "title": "3D Frequency-Domain Full Waveform Inversion for Whole-Breast Imaging With a Multi-Row Ring Array",
+      "doi": "10.1109/ojuffc.2025.3570253",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-019",
+      "public_id": "UFWI-019",
+      "title": "Cross-correlation adjustment full-waveform inversion with source encoding in ultrasound computed tomography",
+      "doi": "10.1016/j.ultras.2024.107392",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-127",
+      "public_id": "UFWI-127",
+      "title": "Transcranial ultrasound tomography for brain imaging: Ex vivo results and potential for stroke imaging",
+      "doi": "10.1002/mp.18090",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-034",
+      "public_id": "UFWI-034",
+      "title": "Frequency-Domain Reconstruction of the Speed of Sound in Ring-Array Ultrasound Computed Tomography With Stochastic Phase Encoding",
+      "doi": "10.1109/tuson.2026.3687801",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-031",
+      "public_id": "UFWI-031",
+      "title": "Sobolev space norm regularized full waveform inversion for ultrasound computed tomography",
+      "doi": "10.1088/1674-1056/adbbc0",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-125",
+      "public_id": "UFWI-125",
+      "title": "A probabilistic approach to tomography and adjoint state methods, with an application to full waveform inversion in medical ultrasound",
+      "doi": "10.1088/1361-6420/ac55ee",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-134",
+      "public_id": "UFWI-134",
+      "title": "Automatic Skull-Template Alignment Without a Guidance Image",
+      "doi": "10.1016/j.ultrasmedbio.2026.05.003",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-039",
+      "public_id": "UFWI-039",
+      "title": "Dual-Probe Transcranial Full-Waveform Inversion: A Brain Phantom Feasibility Study",
+      "doi": "10.1016/j.ultrasmedbio.2023.06.001",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-113",
+      "public_id": "UFWI-113",
+      "title": "Quantitative ultrasound brain imaging with multiscale deconvolutional waveform inversion",
+      "doi": "10.1088/1674-1056/ac6dad",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-099",
+      "public_id": "UFWI-099",
+      "title": "Waveform inversion of sound speed and acoustic attenuation for ring-array ultrasound tomography based on optimal transport framework",
+      "doi": "10.1016/j.ultras.2026.108001",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-100",
+      "public_id": "UFWI-100",
+      "title": "Quantitative comparison of the total focusing method, reverse time migration, and full waveform inversion for ultrasonic imaging",
+      "doi": "10.1016/j.ultras.2025.107705",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-098",
+      "public_id": "UFWI-098",
+      "title": "Simultaneous multiparameter visco-acoustic full waveform inversion for breast ultrasound imaging",
+      "doi": "10.1016/j.ultras.2026.108280",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-122",
+      "public_id": "UFWI-122",
+      "title": "Dual-decoder network regularization for ultrasonic guided-wave full waveform inversion",
+      "doi": "10.1016/j.ymssp.2026.114563",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-120",
+      "public_id": "UFWI-120",
+      "title": "Graph neural networks for full waveform inversion",
+      "doi": "10.1007/s00466-026-02796-5",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-138",
+      "public_id": "UFWI-138",
+      "title": "High-fidelity three-dimensional reconstruction of musculoskeletal tissues via diffusion based ultrasonic computed tomography",
+      "doi": "10.1016/j.media.2026.104141",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-114",
+      "public_id": "UFWI-114",
+      "title": "Hybrid Full Waveform Inversion Assisted by Rytov Approximation for Musculoskeletal Ultrasound Computed Tomography",
+      "doi": "10.48550/arxiv.2605.25139",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-032",
+      "public_id": "UFWI-032",
+      "title": "Implementation and Validation of the Multi-scale Gradient Smoothing Strategy for Breast Full Waveform Inversion",
+      "doi": "10.1016/j.ultrasmedbio.2026.02.020",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-119",
+      "public_id": "UFWI-119",
+      "title": "Neural operators for ultrasonic full waveform inversion: A next-generation ultrasonic NDT with improved fidelity, efficiency, and robustness",
+      "doi": "10.1016/j.ymssp.2026.114179",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-043",
+      "public_id": "UFWI-043",
+      "title": "Reconstructing effective ultrasound transducer models via distributed source inversion",
+      "doi": "10.1016/j.ultras.2026.108221",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-136",
+      "public_id": "UFWI-136",
+      "title": "Review of Current Advances in Ultrasound Computed Tomography for Medical Imaging",
+      "doi": "10.1109/rbme.2026.3686264",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-142",
+      "public_id": "UFWI-142",
+      "title": "SSI-Net: a hybrid physics-constrained deep learning framework for quantitative ultrasound speed-of-sound reconstruction",
+      "doi": "10.1088/1361-6560/ae5374",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-115",
+      "public_id": "UFWI-115",
+      "title": "Simulation-to-Real First-Break Segmentation for Efficient Inversion in Musculoskeletal Ultrasound Tomography",
+      "doi": "10.48550/arxiv.2608.19828",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-056",
+      "public_id": "UFWI-056",
+      "title": "A viscoacoustic wave equation solver using modified Born series",
+      "doi": "10.1121/10.0039529",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-055",
+      "public_id": "UFWI-055",
+      "title": "Agent-Physics-Informed Neural Network solving frequency-domain Helmholtz equation related forward and inverse problems",
+      "doi": "10.1016/j.wavemoti.2025.103580",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-088",
+      "public_id": "UFWI-088",
+      "title": "Designing full waveform inverse problems: a combined data and model approach",
+      "doi": "10.1093/gji/ggaf117",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-102",
+      "public_id": "UFWI-102",
+      "title": "Full-Waveform Inversion Imaging of Cortical Bone Using Phased Array Tomography",
+      "doi": "10.1109/tbme.2024.3477708",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-033",
+      "public_id": "UFWI-033",
+      "title": "Full-Waveform Inversion With Low-frequency Extrapolation Based on Sparse Deconvolution for Ultrasound Computed Tomography",
+      "doi": "10.1016/j.ultrasmedbio.2025.04.003",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-121",
+      "public_id": "UFWI-121",
+      "title": "Generative adversarial network-based ultrasonic full waveform inversion for high-density polyethylene structures",
+      "doi": "10.1016/j.ymssp.2024.112160",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-103",
+      "public_id": "UFWI-103",
+      "title": "Guided wave tomography of pipe bends based on full waveform inversion",
+      "doi": "10.1016/j.ultras.2024.107560",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-091",
+      "public_id": "UFWI-091",
+      "title": "Optimal transport-based full-waveform inversion for shallow seismic data",
+      "doi": "10.1190/geo2024-0165.1",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-118",
+      "public_id": "UFWI-118",
+      "title": "Stabilized adaptive waveform inversion for enhanced robustness in Gaussian penalty matrix parameterization and transcranial ultrasound imaging",
+      "doi": "10.1088/1674-1056/add4f3",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-131",
+      "public_id": "UFWI-131",
+      "title": "Ultrasonic Medical Tissue Imaging Using Probabilistic Inversion: Leveraging Variational Inference for Speed Reconstruction and Uncertainty Quantification",
+      "doi": "10.48550/arxiv.2501.07348",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-116",
+      "public_id": "UFWI-116",
+      "title": "Ultrasound Tomography of Musculoskeletal Tissues with Generative Neural Physics",
+      "doi": "10.48550/arxiv.2508.12226",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-128",
+      "public_id": "UFWI-128",
+      "title": "Untrained Neural Network-Based Full-Waveform Inversion for Breast Sound Speed Imaging in Ultrasound Computed Tomography",
+      "doi": "10.1109/tim.2025.3554289",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-022",
+      "public_id": "UFWI-022",
+      "title": "Vortex-encoded full-waveform inversion-based ultrasound computed tomography",
+      "doi": "10.1121/10.0036366",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-002",
+      "public_id": "UFWI-002",
+      "title": "A New Strategy to Overcome Cycle Skipping: Frequency-Difference Waveform Inversion",
+      "doi": "10.1117/12.3006287",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-082",
+      "public_id": "UFWI-082",
+      "title": "Deep Learning With Physics-Embedded Neural Network for Full Waveform Ultrasonic Brain Imaging",
+      "doi": "10.1109/tmi.2024.3363144",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-064",
+      "public_id": "UFWI-064",
+      "title": "Estimating Young's moduli based on ultrasound and full-waveform inversion",
+      "doi": "10.1016/j.ultras.2023.107165",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-004",
+      "public_id": "UFWI-004",
+      "title": "Full Strata Seismic Waveform Inversion With Adaptive Iteration",
+      "doi": "10.1109/tgrs.2024.3394893",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-084",
+      "public_id": "UFWI-084",
+      "title": "Full waveform inversion using frequency shift envelope-based global correlation norm for ultrasound computed tomography",
+      "doi": "10.1088/1361-6560/ad3c8f",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-018",
+      "public_id": "UFWI-018",
+      "title": "Learned Full Waveform Inversion Incorporating Task Information for Ultrasound Computed Tomography",
+      "doi": "10.1109/tci.2024.3351529",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-015",
+      "public_id": "UFWI-015",
+      "title": "3D full-waveform inversion in ultrasound computed tomography employing a ring-array",
+      "doi": "10.1117/12.2654406",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-061",
+      "public_id": "UFWI-061",
+      "title": "Application of full waveform inversion algorithm in Laplace-Fourier domain for high-contrast ultrasonic bone quantitative imaging",
+      "doi": "10.1016/j.cmpb.2023.107404",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-090",
+      "public_id": "UFWI-090",
+      "title": "Comment on ‘Geophysical inversion and optimal transport’ by M. Sambridge, A. Jackson and A. P. Valentine",
+      "doi": "10.1093/gji/ggad001",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-108",
+      "public_id": "UFWI-108",
+      "title": "Full waveform inversion guided wave tomography with a recurrent neural network",
+      "doi": "10.1016/j.ultras.2023.107043",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-038",
+      "public_id": "UFWI-038",
+      "title": "Full-Waveform Inversion for Breast Ultrasound Tomography Using Line-Shape Modeled Elements",
+      "doi": "10.1016/j.ultrasmedbio.2022.12.004",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-016",
+      "public_id": "UFWI-016",
+      "title": "Three-dimensional time-domain full-waveform inversion for ring-array-based ultrasound computed tomography",
+      "doi": "10.1121/10.0019132",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-095",
+      "public_id": "UFWI-095",
+      "title": "Wave-based inversion at scale on GPUs with randomized trace estimation",
+      "doi": "10.1111/1365-2478.13405",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-151",
+      "public_id": "UFWI-151",
+      "title": "open-UST: An Open-Source Ultrasound Tomography Transducer Array System",
+      "doi": "10.1109/tuffc.2023.3280635",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-126",
+      "public_id": "UFWI-126",
+      "title": "Design and Construction of a Low-Frequency Ultrasound Acquisition Device for 2-D Brain Imaging Using Full-Waveform Inversion",
+      "doi": "10.1016/j.ultrasmedbio.2022.05.023",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-089",
+      "public_id": "UFWI-089",
+      "title": "Geophysical inversion and optimal transport",
+      "doi": "10.1093/gji/ggac151",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-096",
+      "public_id": "UFWI-096",
+      "title": "Lossy checkpoint compression in full waveform inversion: a case study with ZFPv0.5.5 and the overthrust model",
+      "doi": "10.5194/gmd-15-3815-2022",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-111",
+      "public_id": "UFWI-111",
+      "title": "Modeling the Effect of Anisotropy in Ultrasonic-Guided Wave Tomography",
+      "doi": "10.1109/tuffc.2021.3114432",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-087",
+      "public_id": "UFWI-087",
+      "title": "Robust full-waveform inversion with graph-space optimal transport: Application to 3D ocean-bottom cable Valhall data",
+      "doi": "10.1190/geo2021-0268.1",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-041",
+      "public_id": "UFWI-041",
+      "title": "Stride: A flexible software platform for high-performance ultrasound computed tomography",
+      "doi": "10.1016/j.cmpb.2022.106855",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-107",
+      "public_id": "UFWI-107",
+      "title": "Transcranial Ultrasound Imaging With Decomposition Descent Learning-Based Full Waveform Inversion",
+      "doi": "10.1109/tuffc.2022.3217512",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-074",
+      "public_id": "UFWI-074",
+      "title": "Deep-Learning-Driven Full-Waveform Inversion for Ultrasound Breast Imaging",
+      "doi": "10.3390/s21134570",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-036",
+      "public_id": "UFWI-036",
+      "title": "Spatial Response Identification for Flexible and Accurate Ultrasound Transducer Calibration and its Application to Brain Imaging",
+      "doi": "10.1109/tuffc.2020.3015583",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-110",
+      "public_id": "UFWI-110",
+      "title": "Ultrasonic Imaging of High-contrasted Objects Based on Full-waveform Inversion: Limits under Fluid Modeling",
+      "doi": "10.1177/0161734621990011",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-017",
+      "public_id": "UFWI-017",
+      "title": "Full wave 3D inverse scattering transmission ultrasound tomography in the presence of high contrast",
+      "doi": "10.1038/s41598-020-76754-3",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-123",
+      "public_id": "UFWI-123",
+      "title": "Multi-parameter reconstruction of velocity and density using ultrasonic tomography based on full waveform inversion",
+      "doi": "10.1016/j.ultras.2019.106004",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-027",
+      "public_id": "UFWI-027",
+      "title": "Source encoding for viscoacoustic ultrasound computed tomography",
+      "doi": "10.1121/10.0001191",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-003",
+      "public_id": "UFWI-003",
+      "title": "Adaptive traveltime inversion",
+      "doi": "10.1190/geo2018-0595.1",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-006",
+      "public_id": "UFWI-006",
+      "title": "Adaptive waveform inversion: Practice",
+      "doi": "10.1190/geo2018-0377.1",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-093",
+      "public_id": "UFWI-093",
+      "title": "Improving full-waveform inversion by wavefield reconstruction with the alternating direction method of multipliers",
+      "doi": "10.1190/geo2018-0093.1",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-012",
+      "public_id": "UFWI-012",
+      "title": "Retrieving Low-Wavenumber Information in FWI: An Efficient Solution for Cycle Skipping",
+      "doi": "10.1109/lgrs.2019.2892998",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-009",
+      "public_id": "UFWI-009",
+      "title": "The application of an optimal transport to a preconditioned data matching function for robust waveform inversion",
+      "doi": "10.1190/geo2018-0413.1",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-005",
+      "public_id": "UFWI-005",
+      "title": "Automated Salt-Model Building Using Constrained FWI",
+      "doi": "10.3997/2214-4609.201801034",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-028",
+      "public_id": "UFWI-028",
+      "title": "3-D Nonlinear Acoustic Inverse Scattering: Algorithm and Quantitative Results",
+      "doi": "10.1109/tuffc.2017.2706189",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-073",
+      "public_id": "UFWI-073",
+      "title": "Time domain reconstruction of sound speed and attenuation in ultrasound computed tomography using full wave inversion",
+      "doi": "10.1121/1.4976688",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-010",
+      "public_id": "UFWI-010",
+      "title": "Adaptive waveform inversion: Theory",
+      "doi": "10.1190/geo2015-0387.1",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-001",
+      "public_id": "UFWI-001",
+      "title": "Building good starting models for full-waveform inversion using adaptive matching filtering misfit",
+      "doi": "10.1190/geo2015-0596.1",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-030",
+      "public_id": "UFWI-030",
+      "title": "Waveform inversion with source encoding for breast sound speed reconstruction in ultrasound computed tomography",
+      "doi": "10.1109/tuffc.2014.006788",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-024",
+      "public_id": "UFWI-024",
+      "title": "3D Large-Scale Subwavelength-Resolution Sound Sheet Tomography Based on an Active and Programmable Circular Meta-Array",
+      "doi": "10.1002/advs.202520560",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-146",
+      "public_id": "UFWI-146",
+      "title": "CUCT-Net: End-to-End Signal-to-Image Learning for Quantized Speed-of-Sound Estimation and Tissue Segmentation in Ultrasound Computed Tomography",
+      "doi": "10.3390/s26092801",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-141",
+      "public_id": "UFWI-141",
+      "title": "Cross-plane shear wave elastography for viscoelasticity imaging",
+      "doi": "10.1088/1361-6560/ae7eea",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-101",
+      "public_id": "UFWI-101",
+      "title": "Deep-Learning Inversion for Bone Ultrasound Tomography",
+      "doi": "10.1109/tuson.2026.3678152",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-105",
+      "public_id": "UFWI-105",
+      "title": "High-precision wavefield simulation and deep learning-based sound speed reconstruction for transcranial ultrasound imaging",
+      "doi": "10.1016/j.ultras.2025.107860",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-140",
+      "public_id": "UFWI-140",
+      "title": "LSWNet: A physics-informed neural network for ultrasonic wavefield prediction and elastic constant inversion in unidirectional CFRP",
+      "doi": "10.1016/j.ultras.2026.107977",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-130",
+      "public_id": "UFWI-130",
+      "title": "Physics Informed Deep Unfolded Full Waveform Inversion for Edema Detection",
+      "doi": "10.48550/arxiv.2603.04070",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-135",
+      "public_id": "UFWI-135",
+      "title": "Proof of concept for full-waveform inversion in ultrasound time-harmonic shear-wave elastography",
+      "doi": "10.1088/1361-6560/ae6af4",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-129",
+      "public_id": "UFWI-129",
+      "title": "TV-Regularized Frequency-Domain Full-Waveform Inversion for Single-Sided Linear Ultrasound Array Data",
+      "doi": "10.48550/arxiv.2604.15796",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-092",
+      "public_id": "UFWI-092",
+      "title": "Target-oriented full waveform inversion based on optimal transport theory",
+      "doi": "10.1016/j.jappgeo.2026.106120",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-042",
+      "public_id": "UFWI-042",
+      "title": "UltraWave: An Open-source Multi-GPU Full-wave Simulator for Acoustic and Elastic Wave Scattering in 3-D Heterogeneous Media",
+      "doi": "10.1109/tuson.2025.3636178",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-137",
+      "public_id": "UFWI-137",
+      "title": "Ultrasonic forward modeling of industrial oil-water two-phase flow",
+      "doi": "10.1016/j.ultras.2026.108189",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-023",
+      "public_id": "UFWI-023",
+      "title": "Whole cross-sectional human ultrasound tomography",
+      "doi": "10.1038/s41551-026-01660-4",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-106",
+      "public_id": "UFWI-106",
+      "title": "A multi-task neural network for full waveform ultrasonic bone imaging",
+      "doi": "10.1016/j.cmpb.2025.108807",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-149",
+      "public_id": "UFWI-149",
+      "title": "Breast cancer detection from ultrasound computed tomography imaging using radiomic analysis: in silico trial",
+      "doi": "10.1002/mp.17710",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-045",
+      "public_id": "UFWI-045",
+      "title": "Deep-Learning-Driven High Spatial Resolution Attenuation Imaging for Ultrasound Tomography (AI-UT)",
+      "doi": "10.1109/tuffc.2025.3592578",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-139",
+      "public_id": "UFWI-139",
+      "title": "Estimation of shear viscoelasticity via time-domain elastic full waveform inversion in ultrasound shear wave elastography",
+      "doi": "10.1121/10.0036372",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-052",
+      "public_id": "UFWI-052",
+      "title": "Multi-parameter ultrasound imaging for musculoskeletal tissues based on a physics informed generative adversarial network",
+      "doi": "10.1088/1674-1056/adb390",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-054",
+      "public_id": "UFWI-054",
+      "title": "Reconstruction of reflection ultrasound computed tomography with sparse transmissions using conditional generative adversarial network",
+      "doi": "10.1016/j.ultras.2024.107486",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-044",
+      "public_id": "UFWI-044",
+      "title": "Self-Supervised Optimization of RF Data Coherence for Improving Breast Reflection UCT Reconstruction",
+      "doi": "10.1109/tuffc.2025.3581915",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-086",
+      "public_id": "UFWI-086",
+      "title": "A High-Resolution 3D Ultrasound Imaging System Oriented towards a Specific Application in Breast Cancer Detection Based on a 1 × 256 Ring Array",
+      "doi": "10.3390/mi15020209",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-050",
+      "public_id": "UFWI-050",
+      "title": "An empirical study of large-scale data-driven full waveform inversion",
+      "doi": "10.1038/s41598-024-68573-7",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-144",
+      "public_id": "UFWI-144",
+      "title": "Comparison of methods for estimating Young's moduli of mortar specimens",
+      "doi": "10.1038/s41598-024-65149-3",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-143",
+      "public_id": "UFWI-143",
+      "title": "Detection of Multi-Layered Bond Delamination Defects Based on Full Waveform Inversion",
+      "doi": "10.3390/s24124017",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-079",
+      "public_id": "UFWI-079",
+      "title": "Efficient Helmholtz Equation Solver for Frequency Domain Waveform Inversion Based on the Decomposition into One-Way Wave Equations",
+      "doi": "10.1117/12.3006288",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-109",
+      "public_id": "UFWI-109",
+      "title": "Investigating the Use of Traveltime and Reflection Tomography for Deep Learning-Based Sound-Speed Estimation in Ultrasound Computed Tomography",
+      "doi": "10.1109/tuffc.2024.3459391",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-078",
+      "public_id": "UFWI-078",
+      "title": "Learned Measurement Correction for Simplified Acoustic Forward Models in Ultrasound Computed Tomography",
+      "doi": "10.1117/12.3006948",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-150",
+      "public_id": "UFWI-150",
+      "title": "Multi-acquisition multi-resolution full-waveform shear wave elastography for reconstructing tissue viscoelasticity",
+      "doi": "10.1088/1361-6560/ad94c9",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-080",
+      "public_id": "UFWI-080",
+      "title": "Multimodality In Silico Imaging of Dense Breasts: A Comparative Study of Ultrasound Computed Tomography and Digital Breast Tomosynthesis",
+      "doi": "10.1117/12.3009493",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-085",
+      "public_id": "UFWI-085",
+      "title": "Nonlinear Medical Ultrasound Tomography: 3D Modeling of Sound Wave Propagation in Human Tissues",
+      "doi": "10.3390/math12020212",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-066",
+      "public_id": "UFWI-066",
+      "title": "Regularized full waveform inversion for low frequency ultrasound tomography with a structural similarity EIT prior",
+      "doi": "10.3934/ipi.2023023",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-083",
+      "public_id": "UFWI-083",
+      "title": "Stepped frequency ultrasound computed tomography with waveform inversion",
+      "doi": "10.1088/2057-1976/ad25bb",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-147",
+      "public_id": "UFWI-147",
+      "title": "The influence of ignoring the acoustic attenuation parameter during full waveform inversion of transcranial ultrasound data - Preliminary Study",
+      "doi": "10.1109/embc53108.2024.10781688",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-081",
+      "public_id": "UFWI-081",
+      "title": "Waveform inversion with calibrated source-time functions for improving in-vivo ultrasound computed tomography",
+      "doi": "10.1117/12.3006768",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-071",
+      "public_id": "UFWI-071",
+      "title": "A WebGPU-base acoustic wave simulator for ultrasound NDT",
+      "doi": "10.58286/28120",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-060",
+      "public_id": "UFWI-060",
+      "title": "Correlation-based full-waveform shear wave elastography",
+      "doi": "10.1088/1361-6560/acc37b",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-067",
+      "public_id": "UFWI-067",
+      "title": "Data driven methods for ultrasound computed tomography",
+      "doi": "10.1117/12.2654442",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-077",
+      "public_id": "UFWI-077",
+      "title": "Data-Driven full waveform inversion for ultrasonic bone quantitative imaging",
+      "doi": "10.1007/s00521-023-08464-6",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-070",
+      "public_id": "UFWI-070",
+      "title": "Full Waveform Inversion for NDT using ultrasonic linear arrays",
+      "doi": "10.58286/28117",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-072",
+      "public_id": "UFWI-072",
+      "title": "Full Waveform Inversion-Based Ultrasound Computed Tomography Acceleration Using Two-Dimensional Convolutional Neural Networks",
+      "doi": "10.1115/1.4062092",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-058",
+      "public_id": "UFWI-058",
+      "title": "Full waveform inversion for arterial viscoelasticity",
+      "doi": "10.1088/1361-6560/acba7a",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-145",
+      "public_id": "UFWI-145",
+      "title": "High-Precision Corrosion Detection via SH1 Guided Wave Based on Full Waveform Inversion",
+      "doi": "10.3390/s23249902",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-076",
+      "public_id": "UFWI-076",
+      "title": "Non-contact subsurface thermography for high-temperature metallic structures using laser ultrasound and wave-equation-based inversion",
+      "doi": "10.1016/j.ymssp.2023.110378",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-068",
+      "public_id": "UFWI-068",
+      "title": "Shape optimization for transcranial ultrasound computed tomography",
+      "doi": "10.1117/12.2654328",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-075",
+      "public_id": "UFWI-075",
+      "title": "Two-step detection of concrete internal condition using array ultrasound and deep learning",
+      "doi": "10.1016/j.ndteint.2023.102945",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-132",
+      "public_id": "UFWI-132",
+      "title": "Whole-Body Imaging Using Low Frequency Transmission Ultrasound",
+      "doi": "10.1016/j.acra.2023.01.018",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-148",
+      "public_id": "UFWI-148",
+      "title": "Cross-correlation Full Waveform Inversion for Sound Speed Reconstruction in Ultrasound Computed Tomography",
+      "doi": "10.1109/embc48229.2022.9871930",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-153",
+      "public_id": "UFWI-153",
+      "title": "DeepUCT: Complex cascaded deep learning network for improved ultrasound tomography",
+      "doi": "10.1088/1361-6560/ac5296",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-020",
+      "public_id": "UFWI-020",
+      "title": "Improved ultrasound image quality with pixel-based beamforming using a Wiener-filter and a SNR-dependent coherence factor",
+      "doi": "10.1016/j.ultras.2021.106594",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-046",
+      "public_id": "UFWI-046",
+      "title": "Ultrasound Computed Tomography",
+      "doi": "10.1007/978-3-030-91979-5_11",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-112",
+      "public_id": "UFWI-112",
+      "title": "Guided Wave Tomography Based on Supervised Descent Method for Quantitative Corrosion Imaging",
+      "doi": "10.1109/tuffc.2021.3097080",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-063",
+      "public_id": "UFWI-063",
+      "title": "A consistent implementation of point sources on finite-difference grids",
+      "doi": "10.1093/gji/ggaa383",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-094",
+      "public_id": "UFWI-094",
+      "title": "Robust wavefield inversion via phase retrieval",
+      "doi": "10.1093/gji/ggaa035",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-021",
+      "public_id": "UFWI-021",
+      "title": "Super-Resolution Ultrasound Imaging",
+      "doi": "10.1016/j.ultrasmedbio.2019.11.013",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-065",
+      "public_id": "UFWI-065",
+      "title": "A Time-Domain Preconditioned Truncated Newton Approach to Visco-Acoustic Multiparameter Full Waveform Inversion",
+      "doi": "10.1137/17m1126126",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-053",
+      "public_id": "UFWI-053",
+      "title": "Seismic Full-Waveform Inversion Using Deep Learning Tools and Techniques",
+      "doi": "10.48550/arxiv.1801.07232",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-133",
+      "public_id": "UFWI-133",
+      "title": "3D imaging of the breast using full-waveform inversion",
+      "doi": "",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-049",
+      "public_id": "UFWI-049",
+      "title": "Ultrasonic computed tomography based on full-waveform inversion for bone quantitative imaging",
+      "doi": "10.1088/1361-6560/aa7e5a",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-051",
+      "public_id": "UFWI-051",
+      "title": "全走时反演及其应用",
+      "doi": "10.3969/j.issn.1000-1441.2017.01.006",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-057",
+      "public_id": "UFWI-057",
+      "title": "Frequencies of the Ricker wavelet",
+      "doi": "10.1190/geo2014-0441.1",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-048",
+      "public_id": "UFWI-048",
+      "title": "Novel automatic first-arrival picking method for ultrasound sound-speed tomography",
+      "doi": "10.7567/jjap.54.07hf10",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-047",
+      "public_id": "UFWI-047",
+      "title": "In vivo breast sound-speed imaging with ultrasound tomography",
+      "doi": "10.1016/j.ultrasmedbio.2009.05.011",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "UFWI-117",
+      "public_id": "UFWI-117",
+      "title": "Neural Born Series Operator for Biomedical Ultrasound Computed Tomography",
+      "doi": "10.48550/arxiv.2312.15575",
+      "action": "existing_id_preserved"
+    },
+    {
+      "source_record_id": "D20261004-01",
+      "public_id": "UFWI-154",
+      "title": "Salt Reconstruction in Full-Waveform Inversion with a Parametric Level-Set Method",
+      "doi": "10.1109/TCI.2016.2640761",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "D20261004-02",
+      "public_id": "UFWI-155",
+      "title": "A single level set function approach for multiple material-phases applied to full-waveform inversion in the time domain",
+      "doi": "10.1088/1361-6420/ad2eca",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "D20261004-03",
+      "public_id": "UFWI-156",
+      "title": "The variable projection method for waveform inversion with an unknown source function",
+      "doi": "10.1111/1365-2478.12008",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "D20261004-04",
+      "public_id": "UFWI-157",
+      "title": "Source-adaptive acoustic full-waveform inversion via dual-branch physics-constrained neural network reparameterization",
+      "doi": "10.1016/j.jappgeo.2026.106539",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N01",
+      "public_id": "UFWI-158",
+      "title": "An unsupervised physics-constrained velocity inversion method based on spectral normalization adversarial learning",
+      "doi": "10.1093/gji/ggag418",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N02",
+      "public_id": "UFWI-159",
+      "title": "Inversion of elastic properties of stratified layered media using elastic direct waveform inversion",
+      "doi": "10.1190/geo-2025-0147",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N03",
+      "public_id": "UFWI-160",
+      "title": "Multi-Parameter Viscoelastic Full Waveform Inversion (Q-FWI) for CO2 Saturation Monitoring: Leveraging Velocity and Attenuation Attributes",
+      "doi": "10.1190/int-2025-1037",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N04",
+      "public_id": "UFWI-161",
+      "title": "Robust Ensemble Guidance for Scientific Inverse Problems",
+      "doi": "10.48550/arxiv.2610.05371",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N05",
+      "public_id": "UFWI-162",
+      "title": "Towards 3D fully randomized frequency-domain reconstruction of the speed of sound in breast ultrasound computed tomography",
+      "doi": "10.48550/arxiv.2610.01930",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N06",
+      "public_id": "UFWI-163",
+      "title": "Robust full-waveform inversion with Radon-domain matching filter",
+      "doi": "10.1190/geo2018-0347.1",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N07",
+      "public_id": "UFWI-164",
+      "title": "A comprehensive review of strategies to mitigate non-convexity in full waveform inversion",
+      "doi": "10.1093/gji/ggag376",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N08",
+      "public_id": "UFWI-165",
+      "title": "Radon–full-waveform inversion for suppressing scalp reverberation and skull-induced aberration in transcranial photoacoustic computed tomography",
+      "doi": "10.1016/j.pacs.2026.100833",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N09",
+      "public_id": "UFWI-166",
+      "title": "Coarse-to-fine multi-resolution hash encoding for implicit full waveform inversion",
+      "doi": "10.48550/arxiv.2610.01081",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N10",
+      "public_id": "UFWI-167",
+      "title": "Ultrasound computer tomography using single-element directivity measurements",
+      "doi": "10.1117/1.jmi.13.5.057001",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N11",
+      "public_id": "UFWI-168",
+      "title": "OpenBreastUS: Benchmarking Neural Operators for Wave Imaging Using Breast Ultrasound Computed Tomography",
+      "doi": "10.48550/arxiv.2507.15035",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N12",
+      "public_id": "UFWI-169",
+      "title": "Structure-dependent failure modes of neural priors in acoustic full-waveform inversion",
+      "doi": "10.48550/arxiv.2609.31251",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N13",
+      "public_id": "UFWI-170",
+      "title": "Adaptive Waveform Inversion with Source Estimation for Ultrasound Tomography",
+      "doi": "",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N14",
+      "public_id": "UFWI-171",
+      "title": "Impact of Windowing on Full-Waveform Inversion for Ultrasound Tomography",
+      "doi": "",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N15",
+      "public_id": "UFWI-172",
+      "title": "Robust Full-Waveform Inversion Sparse-Array USCT: Overcoming Sparse-Sampling Artifacts with Phase-Enhanced Metric and Frequency-Wise Virtual Element Modeling",
+      "doi": "",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N16",
+      "public_id": "UFWI-173",
+      "title": "Efficient Mini-Batch Full Waveform Inversion for Transcranial Ultrasound Computed Tomography Using Adam Optimization",
+      "doi": "",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N17",
+      "public_id": "UFWI-174",
+      "title": "Differentiable Paraxial Full-Waveform Inversion for Fast Through-Transmission Speed-of-Sound Imaging",
+      "doi": "",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N18",
+      "public_id": "UFWI-175",
+      "title": "Physics-Constrained Data-Driven Transcranial Ultrasound Full Waveform Inversion with Realistic 3D Acoustic Simulation",
+      "doi": "",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N19",
+      "public_id": "UFWI-176",
+      "title": "Fourier Neural Operator-Enhanced Physics-Embedded Full Waveform Inversion for Transcranial Ultrasound Sound-Speed Measurement",
+      "doi": "",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N20",
+      "public_id": "UFWI-177",
+      "title": "In-Vivo Musculoskeletal Ultrasound Full Waveform Inversion with Multi-Constraint Regularization",
+      "doi": "",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N21",
+      "public_id": "UFWI-178",
+      "title": "Quantitative Characterisation of Defects in Pipes Using Guided Wave Testing with Geometrical Full Waveform Inversion",
+      "doi": "",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N22",
+      "public_id": "UFWI-179",
+      "title": "A Bayesian Cramér–Rao Framework for Evaluating Pulse-Echo Speed-of-Sound Reconstruction",
+      "doi": "",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N23",
+      "public_id": "UFWI-180",
+      "title": "Minimum Transmit Sampling for Resolution Preservation in Ultrasound Tomography",
+      "doi": "",
+      "action": "new_public_id"
+    },
+    {
+      "source_record_id": "WL20261008-N24",
+      "public_id": "UFWI-181",
+      "title": "Transcranial Ultrasound Tomography of Cadaveric Human Hemorrhage Models",
+      "doi": "",
+      "action": "new_public_id"
+    }
+  ]
+}

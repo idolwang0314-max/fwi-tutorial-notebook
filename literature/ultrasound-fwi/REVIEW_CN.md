@@ -1,6 +1,8 @@
 # 超声 FWI 文献总结与阅读建议
 
-截至2026-09-26。重点Ultrasonics、IEEE TUFFC及后续TUSON、Geophysics/GJI，结合Imperial和李玉冰研究线。[151条总索引](INDEX.md) · [26篇精读排序](READING_RANKING.md) · [可筛选文献库](index.html)
+截至2026-10-08；历史主榜保持2026-09-26次序。重点Ultrasonics、IEEE TUFFC及后续TUSON、Geophysics/GJI，结合Imperial和李玉冰研究线。[179条总索引](INDEX.md) · [26篇精读排序](READING_RANKING.md) · [可筛选文献库](index.html)
+
+本次新增专题见 [2026-10-08 周综述](WEEKLY_REVIEW_CN.md) 与 [12 篇专题顺序](PROJECT_READING_20261008.md)。其中 IUS 的 AWI+源估计、几何 FWI 与窗口研究均按会议摘要等级保留；两篇本周期刊在线稿与预印本/早期补漏分开统计。
 
 ## 最值得先读的五篇
 
@@ -49,6 +51,6 @@
 
 ## 期刊与类型索引
 
-Ultrasonics本库16条；TUFFC 12条，TUSON 3条，另有OJUFFC；Geophysics 10条、GJI 7条。各刊目录在[分类索引](CLASSIFICATION.md)。这些只是本库已收录数量，不是期刊全部相关发文数量。
+Ultrasonics本库16条；TUFFC 12条，TUSON 3条，另有OJUFFC；Geophysics 12条、GJI 9条。各刊目录在[分类索引](CLASSIFICATION.md)。这些只是本库已收录数量，不是期刊全部相关发文数量。
 
 正文中的“创新”指相对于本文对照与既有路线的贡献概括，不是独立完成专利/全球首创查新。每篇的仿真、体模、离体、动物和人体层级写在验证证据栏；只有摘要的记录不补猜完整实验参数。

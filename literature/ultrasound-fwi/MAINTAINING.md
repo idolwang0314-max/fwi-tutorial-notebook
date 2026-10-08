@@ -54,3 +54,14 @@ python literature/ultrasound-fwi/validate.py
 4. 运行构建与验证，检查 `git diff`，将主数据与派生文件一起提交。
 
 初版检索截止日为 2026-09-26。扩大时间窗时同步 `build.py`、网页模板及报告中的截止日期；`screening.*` 保留其原始快照语义，新增检索另存有日期的筛查记录。
+
+
+## 2026-10-08 增量字段与报告
+
+- 现有 151 条 ID 不变；本次 28 个新 ID 为 UFWI-154—UFWI-181，`source_record_id` 与 [ID_MAP_20261008.json](ID_MAP_20261008.json) 保存完整映射。后续从最大数字继续分配，不填旧间隔。
+- `rank`/`priority` 是历史主榜；`project_reading_rank_20261008`/`project_reading_reason_20261008` 对应 [独立专题顺序](PROJECT_READING_20261008.md)，不得覆盖历史 rank。
+- `weekly_class`、`date_evidence`、`date_resolution`、`date_basis`、`date_timezone`、`window_reference_date`、提交时间与会议日期保留独立语义。原始日期冲突不可只删掉，应说明采用哪个来源及原因。
+- `first_public_date=null` 表示首次公开日期未确认；arXiv v1 submission 时间不自动等于精确公告时间。会议 event_date 不得填入首次发表日。
+- `weekly_review_note`、`reviewed_at` 保留本次复核范围，不能把历史继承内容当新全文核验。摘要及分节预览使用独立标签 `primary_abstract_and_section_preview`。
+- `screening.*` 继续是初版 68 条快照。新增日志、来源映射、排除清单及独立审核均使用带日期文件；`validation.json`/`VALIDATION.md` 仍由验证脚本生成。
+- 构建日期统一由 `build.py` 的 `CUTOFF` 和网页模板同步；更新人工 README/综述的记录数与统计。只公开公共文献内容、来源及阅读评价。

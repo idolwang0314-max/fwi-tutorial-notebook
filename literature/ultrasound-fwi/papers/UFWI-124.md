@@ -2,7 +2,7 @@
 
 [总索引](../INDEX.md) · [可筛选网页](../index.html) · [阅读排序](../READING_RANKING.md)
 
-- 作者：Lluís Guasch; Oscar Calderón Agudo; Meng-Xing Tang; Meng-Xing Tang; Parashkev Nachev; Michael Warner
+- 作者：Lluís Guasch; Oscar Calderón Agudo; Meng-Xing Tang; Parashkev Nachev; Michael Warner
 - 年份 / 期刊：2020 / npj Digital Medicine
 - 发表类型 / 状态：journal / published
 - 研究类型：医学超声 FWI

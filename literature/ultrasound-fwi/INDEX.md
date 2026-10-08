@@ -2,7 +2,7 @@
 
 [阅读排序](READING_RANKING.md) · [研究综述](REVIEW_CN.md) · [筛选网页](index.html) · [CSV](library.csv) · [BibTeX](references.bib) · [检索口径](SEARCH_METHOD.md) · [合并说明](MERGE_NOTES.md)
 
-截至 2026-09-26，去重 151 条；包含直接FWI、地球物理方法及明确标记的相邻资料，不等同于同等数量的医学FWI期刊论文。
+截至 2026-10-08，去重 179 条；包含直接FWI、地球物理方法及明确标记的相邻资料，不等同于同等数量的医学FWI期刊论文。
 
 | ID | 排序 / 优先级 | 年份 | 题名 / 单篇卡片 | 期刊或来源 | 类型 | 核验 |
 |---|---|---|---|---|---|---|
@@ -33,16 +33,27 @@
 | UFWI-099 | 25 / P0 | 2026 | [Waveform inversion of sound speed and acoustic attenuation for ring-array ultrasound tomography based on optimal transport framework](papers/UFWI-099.md) | Ultrasonics | 医学超声 FWI | 一手摘要 |
 | UFWI-100 | 26 / P0 | 2025 | [Quantitative comparison of the total focusing method, reverse time migration, and full waveform inversion for ultrasonic imaging](papers/UFWI-100.md) | Ultrasonics | 超声 NDT / 导波 FWI | 一手摘要 |
 | UFWI-098 | — / P1 | 2027 | [Simultaneous multiparameter visco-acoustic full waveform inversion for breast ultrasound imaging](papers/UFWI-098.md) | Ultrasonics | 医学超声 FWI | 一手摘要 |
+| UFWI-179 | — / P1 | 2026 | [A Bayesian Cramér–Rao Framework for Evaluating Pulse-Echo Speed-of-Sound Reconstruction](papers/UFWI-179.md) | 2026 IEEE International Ultrasonics Symposium (IUS) | 相邻超声方法 / 硬件 | 一手摘要 |
+| UFWI-164 | — / P1 | 2026 | [A comprehensive review of strategies to mitigate non-convexity in full waveform inversion](papers/UFWI-164.md) | Geophysical Journal International | 地球物理及可迁移方法 | 一手全文/相关段落 |
+| UFWI-170 | — / P1 | 2026 | [Adaptive Waveform Inversion with Source Estimation for Ultrasound Tomography](papers/UFWI-170.md) | 2026 IEEE International Ultrasonics Symposium (IUS) | 医学超声 FWI | 一手摘要 |
 | UFWI-122 | — / P1 | 2026 | [Dual-decoder network regularization for ultrasonic guided-wave full waveform inversion](papers/UFWI-122.md) | Mechanical Systems and Signal Processing | 超声 NDT / 导波 FWI | 一手摘要 |
 | UFWI-120 | — / P1 | 2026 | [Graph neural networks for full waveform inversion](papers/UFWI-120.md) | Computational Mechanics | 超声 NDT / 导波 FWI | 一手全文/相关段落 |
 | UFWI-138 | — / P1 | 2026 | [High-fidelity three-dimensional reconstruction of musculoskeletal tissues via diffusion based ultrasonic computed tomography](papers/UFWI-138.md) | Medical Image Analysis | 相邻超声方法 / 硬件 | 一手摘要 |
 | UFWI-114 | — / P1 | 2026 | [Hybrid Full Waveform Inversion Assisted by Rytov Approximation for Musculoskeletal Ultrasound Computed Tomography](papers/UFWI-114.md) | arXiv | 医学超声 FWI | 一手摘要 |
+| UFWI-171 | — / P1 | 2026 | [Impact of Windowing on Full-Waveform Inversion for Ultrasound Tomography](papers/UFWI-171.md) | 2026 IEEE International Ultrasonics Symposium (IUS) | 医学超声 FWI | 一手摘要 |
 | UFWI-032 | — / P1 | 2026 | [Implementation and Validation of the Multi-scale Gradient Smoothing Strategy for Breast Full Waveform Inversion](papers/UFWI-032.md) | Ultrasound in Medicine & Biology | 医学超声 FWI | 历史笔记，尚未复核结论 |
+| UFWI-177 | — / P1 | 2026 | [In-Vivo Musculoskeletal Ultrasound Full Waveform Inversion with Multi-Constraint Regularization](papers/UFWI-177.md) | 2026 IEEE International Ultrasonics Symposium (IUS) | 医学超声 FWI | 一手摘要 |
 | UFWI-119 | — / P1 | 2026 | [Neural operators for ultrasonic full waveform inversion: A next-generation ultrasonic NDT with improved fidelity, efficiency, and robustness](papers/UFWI-119.md) | Mechanical Systems and Signal Processing | 相邻超声方法 / 硬件 | 一手摘要 |
+| UFWI-178 | — / P1 | 2026 | [Quantitative Characterisation of Defects in Pipes Using Guided Wave Testing with Geometrical Full Waveform Inversion](papers/UFWI-178.md) | 2026 IEEE International Ultrasonics Symposium (IUS) | 超声 NDT / 导波 FWI | 一手摘要 |
+| UFWI-165 | — / P1 | 2026 | [Radon–full-waveform inversion for suppressing scalp reverberation and skull-induced aberration in transcranial photoacoustic computed tomography](papers/UFWI-165.md) | Photoacoustics | 相邻超声方法 / 硬件 | 一手全文/相关段落 |
 | UFWI-043 | — / P1 | 2026 | [Reconstructing effective ultrasound transducer models via distributed source inversion](papers/UFWI-043.md) | Ultrasonics | 超声 NDT / 导波 FWI | 一手摘要 |
 | UFWI-136 | — / P1 | 2026 | [Review of Current Advances in Ultrasound Computed Tomography for Medical Imaging](papers/UFWI-136.md) | IEEE Reviews in Biomedical Engineering | 相邻超声方法 / 硬件 | 一手摘要 |
+| UFWI-172 | — / P1 | 2026 | [Robust Full-Waveform Inversion Sparse-Array USCT: Overcoming Sparse-Sampling Artifacts with Phase-Enhanced Metric and Frequency-Wise Virtual Element Modeling](papers/UFWI-172.md) | 2026 IEEE International Ultrasonics Symposium (IUS) | 医学超声 FWI | 一手摘要 |
 | UFWI-142 | — / P1 | 2026 | [SSI-Net: a hybrid physics-constrained deep learning framework for quantitative ultrasound speed-of-sound reconstruction](papers/UFWI-142.md) | Physics in Medicine & Biology | 相邻超声方法 / 硬件 | 一手摘要 |
 | UFWI-115 | — / P1 | 2026 | [Simulation-to-Real First-Break Segmentation for Efficient Inversion in Musculoskeletal Ultrasound Tomography](papers/UFWI-115.md) | arXiv | 医学超声 FWI | 一手摘要 |
+| UFWI-157 | — / P1 | 2026 | [Source-adaptive acoustic full-waveform inversion via dual-branch physics-constrained neural network reparameterization](papers/UFWI-157.md) | Journal of Applied Geophysics | 地球物理及可迁移方法 | 一手摘要/分节预览 |
+| UFWI-162 | — / P1 | 2026 | [Towards 3D fully randomized frequency-domain reconstruction of the speed of sound in breast ultrasound computed tomography](papers/UFWI-162.md) | arXiv | 医学超声 FWI | 一手全文/相关段落 |
+| UFWI-181 | — / P1 | 2026 | [Transcranial Ultrasound Tomography of Cadaveric Human Hemorrhage Models](papers/UFWI-181.md) | 2026 IEEE International Ultrasonics Symposium (IUS) | 医学超声 FWI | 一手摘要 |
 | UFWI-056 | — / P1 | 2025 | [A viscoacoustic wave equation solver using modified Born series](papers/UFWI-056.md) | The Journal of the Acoustical Society of America | 相邻超声方法 / 硬件 | 一手摘要 |
 | UFWI-055 | — / P1 | 2025 | [Agent-Physics-Informed Neural Network solving frequency-domain Helmholtz equation related forward and inverse problems](papers/UFWI-055.md) | Wave Motion | 医学超声 FWI | 一手摘要 |
 | UFWI-088 | — / P1 | 2025 | [Designing full waveform inverse problems: a combined data and model approach](papers/UFWI-088.md) | Geophysical Journal International | 地球物理及可迁移方法 | 一手摘要 |
@@ -57,6 +68,7 @@
 | UFWI-128 | — / P1 | 2025 | [Untrained Neural Network-Based Full-Waveform Inversion for Breast Sound Speed Imaging in Ultrasound Computed Tomography](papers/UFWI-128.md) | IEEE Transactions on Instrumentation and Measurement | 医学超声 FWI | 一手摘要 |
 | UFWI-022 | — / P1 | 2025 | [Vortex-encoded full-waveform inversion-based ultrasound computed tomography](papers/UFWI-022.md) | The Journal of the Acoustical Society of America | 医学超声 FWI | 一手摘要 |
 | UFWI-002 | — / P1 | 2024 | [A New Strategy to Overcome Cycle Skipping: Frequency-Difference Waveform Inversion](papers/UFWI-002.md) | SPIE Medical Imaging | 医学超声 FWI | 历史笔记，尚未复核结论 |
+| UFWI-155 | — / P1 | 2024 | [A single level set function approach for multiple material-phases applied to full-waveform inversion in the time domain](papers/UFWI-155.md) | Inverse Problems | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-082 | — / P1 | 2024 | [Deep Learning With Physics-Embedded Neural Network for Full Waveform Ultrasonic Brain Imaging](papers/UFWI-082.md) | IEEE Transactions on Medical Imaging | 医学超声 FWI | 一手摘要 |
 | UFWI-064 | — / P1 | 2024 | [Estimating Young's moduli based on ultrasound and full-waveform inversion](papers/UFWI-064.md) | Ultrasonics | 超声 NDT / 导波 FWI | 一手摘要 |
 | UFWI-004 | — / P1 | 2024 | [Full Strata Seismic Waveform Inversion With Adaptive Iteration](papers/UFWI-004.md) | IEEE Transactions on Geoscience and Remote Sensing | 地球物理及可迁移方法 | 历史笔记，尚未复核结论 |
@@ -87,31 +99,47 @@
 | UFWI-006 | — / P1 | 2019 | [Adaptive waveform inversion: Practice](papers/UFWI-006.md) | Geophysics | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-093 | — / P1 | 2019 | [Improving full-waveform inversion by wavefield reconstruction with the alternating direction method of multipliers](papers/UFWI-093.md) | Geophysics | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-012 | — / P1 | 2019 | [Retrieving Low-Wavenumber Information in FWI: An Efficient Solution for Cycle Skipping](papers/UFWI-012.md) | IEEE Geoscience and Remote Sensing Letters | 地球物理及可迁移方法 | 历史笔记，尚未复核结论 |
+| UFWI-163 | — / P1 | 2019 | [Robust full-waveform inversion with Radon-domain matching filter](papers/UFWI-163.md) | Geophysics | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-009 | — / P1 | 2019 | [The application of an optimal transport to a preconditioned data matching function for robust waveform inversion](papers/UFWI-009.md) | Geophysics | 地球物理及可迁移方法 | 历史笔记，尚未复核结论 |
 | UFWI-005 | — / P1 | 2018 | [Automated Salt-Model Building Using Constrained FWI](papers/UFWI-005.md) | 80th EAGE Conference & Exhibition 2018, Extended Abstract We A12 07 | 地球物理及可迁移方法 | 历史笔记，尚未复核结论 |
 | UFWI-028 | — / P1 | 2017 | [3-D Nonlinear Acoustic Inverse Scattering: Algorithm and Quantitative Results](papers/UFWI-028.md) | IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC) | 医学超声 FWI | 历史笔记，尚未复核结论 |
+| UFWI-154 | — / P1 | 2017 | [Salt Reconstruction in Full-Waveform Inversion with a Parametric Level-Set Method](papers/UFWI-154.md) | IEEE Transactions on Computational Imaging | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-073 | — / P1 | 2017 | [Time domain reconstruction of sound speed and attenuation in ultrasound computed tomography using full wave inversion](papers/UFWI-073.md) | The Journal of the Acoustical Society of America | 医学超声 FWI | 一手摘要 |
 | UFWI-010 | — / P1 | 2016 | [Adaptive waveform inversion: Theory](papers/UFWI-010.md) | Geophysics | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-001 | — / P1 | 2016 | [Building good starting models for full-waveform inversion using adaptive matching filtering misfit](papers/UFWI-001.md) | Geophysics | 地球物理及可迁移方法 | 历史笔记，尚未复核结论 |
 | UFWI-030 | — / P1 | 2015 | [Waveform inversion with source encoding for breast sound speed reconstruction in ultrasound computed tomography](papers/UFWI-030.md) | IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC) | 医学超声 FWI | 一手全文/相关段落 |
+| UFWI-156 | — / P1 | 2013 | [The variable projection method for waveform inversion with an unknown source function](papers/UFWI-156.md) | Geophysical Prospecting | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-024 | — / P2 | 2026 | [3D Large-Scale Subwavelength-Resolution Sound Sheet Tomography Based on an Active and Programmable Circular Meta-Array](papers/UFWI-024.md) | Advanced Science | 相邻超声方法 / 硬件 | 历史笔记，尚未复核结论 |
+| UFWI-158 | — / P2 | 2026 | [An unsupervised physics-constrained velocity inversion method based on spectral normalization adversarial learning](papers/UFWI-158.md) | Geophysical Journal International | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-146 | — / P2 | 2026 | [CUCT-Net: End-to-End Signal-to-Image Learning for Quantized Speed-of-Sound Estimation and Tissue Segmentation in Ultrasound Computed Tomography](papers/UFWI-146.md) | Sensors | 相邻超声方法 / 硬件 | 一手摘要 |
+| UFWI-166 | — / P2 | 2026 | [Coarse-to-fine multi-resolution hash encoding for implicit full waveform inversion](papers/UFWI-166.md) | arXiv | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-141 | — / P2 | 2026 | [Cross-plane shear wave elastography for viscoelasticity imaging](papers/UFWI-141.md) | Physics in Medicine & Biology | 医学超声 FWI | 一手摘要 |
 | UFWI-101 | — / P2 | 2026 | [Deep-Learning Inversion for Bone Ultrasound Tomography](papers/UFWI-101.md) | IEEE Transactions on Ultrasonics (TUSON) | 相邻超声方法 / 硬件 | 一手摘要 |
+| UFWI-174 | — / P2 | 2026 | [Differentiable Paraxial Full-Waveform Inversion for Fast Through-Transmission Speed-of-Sound Imaging](papers/UFWI-174.md) | 2026 IEEE International Ultrasonics Symposium (IUS) | 医学超声 FWI | 一手摘要 |
+| UFWI-173 | — / P2 | 2026 | [Efficient Mini-Batch Full Waveform Inversion for Transcranial Ultrasound Computed Tomography Using Adam Optimization](papers/UFWI-173.md) | 2026 IEEE International Ultrasonics Symposium (IUS) | 医学超声 FWI | 一手摘要 |
+| UFWI-176 | — / P2 | 2026 | [Fourier Neural Operator-Enhanced Physics-Embedded Full Waveform Inversion for Transcranial Ultrasound Sound-Speed Measurement](papers/UFWI-176.md) | 2026 IEEE International Ultrasonics Symposium (IUS) | 医学超声 FWI | 一手摘要 |
 | UFWI-105 | — / P2 | 2026 | [High-precision wavefield simulation and deep learning-based sound speed reconstruction for transcranial ultrasound imaging](papers/UFWI-105.md) | Ultrasonics | 相邻超声方法 / 硬件 | 一手摘要 |
+| UFWI-159 | — / P2 | 2026 | [Inversion of elastic properties of stratified layered media using elastic direct waveform inversion](papers/UFWI-159.md) | Geophysics | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-140 | — / P2 | 2026 | [LSWNet: A physics-informed neural network for ultrasonic wavefield prediction and elastic constant inversion in unidirectional CFRP](papers/UFWI-140.md) | Ultrasonics | 超声 NDT / 导波 FWI | 一手摘要 |
+| UFWI-180 | — / P2 | 2026 | [Minimum Transmit Sampling for Resolution Preservation in Ultrasound Tomography](papers/UFWI-180.md) | 2026 IEEE International Ultrasonics Symposium (IUS) | 相邻超声方法 / 硬件 | 一手摘要 |
+| UFWI-160 | — / P2 | 2026 | [Multi-Parameter Viscoelastic Full Waveform Inversion (Q-FWI) for CO2 Saturation Monitoring: Leveraging Velocity and Attenuation Attributes](papers/UFWI-160.md) | Interpretation | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-130 | — / P2 | 2026 | [Physics Informed Deep Unfolded Full Waveform Inversion for Edema Detection](papers/UFWI-130.md) | arXiv | 医学超声 FWI | 一手摘要 |
+| UFWI-175 | — / P2 | 2026 | [Physics-Constrained Data-Driven Transcranial Ultrasound Full Waveform Inversion with Realistic 3D Acoustic Simulation](papers/UFWI-175.md) | 2026 IEEE International Ultrasonics Symposium (IUS) | 医学超声 FWI | 一手摘要 |
 | UFWI-135 | — / P2 | 2026 | [Proof of concept for full-waveform inversion in ultrasound time-harmonic shear-wave elastography](papers/UFWI-135.md) | Physics in Medicine & Biology | 医学超声 FWI | 一手摘要 |
+| UFWI-161 | — / P2 | 2026 | [Robust Ensemble Guidance for Scientific Inverse Problems](papers/UFWI-161.md) | arXiv | 地球物理及可迁移方法 | 一手摘要 |
+| UFWI-169 | — / P2 | 2026 | [Structure-dependent failure modes of neural priors in acoustic full-waveform inversion](papers/UFWI-169.md) | arXiv | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-129 | — / P2 | 2026 | [TV-Regularized Frequency-Domain Full-Waveform Inversion for Single-Sided Linear Ultrasound Array Data](papers/UFWI-129.md) | arXiv | 医学超声 FWI | 一手摘要 |
 | UFWI-092 | — / P2 | 2026 | [Target-oriented full waveform inversion based on optimal transport theory](papers/UFWI-092.md) | Journal of Applied Geophysics | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-042 | — / P2 | 2026 | [UltraWave: An Open-source Multi-GPU Full-wave Simulator for Acoustic and Elastic Wave Scattering in 3-D Heterogeneous Media](papers/UFWI-042.md) | IEEE Transactions on Ultrasonics (TUSON) | 相邻超声方法 / 硬件 | 一手全文/相关段落 |
 | UFWI-137 | — / P2 | 2026 | [Ultrasonic forward modeling of industrial oil-water two-phase flow](papers/UFWI-137.md) | Ultrasonics | 超声 NDT / 导波 FWI | 一手摘要 |
+| UFWI-167 | — / P2 | 2026 | [Ultrasound computer tomography using single-element directivity measurements](papers/UFWI-167.md) | Journal of Medical Imaging | 相邻超声方法 / 硬件 | 一手摘要 |
 | UFWI-023 | — / P2 | 2026 | [Whole cross-sectional human ultrasound tomography](papers/UFWI-023.md) | Nature Biomedical Engineering | 相邻超声方法 / 硬件 | 历史笔记，尚未复核结论 |
 | UFWI-106 | — / P2 | 2025 | [A multi-task neural network for full waveform ultrasonic bone imaging](papers/UFWI-106.md) | Computer Methods and Programs in Biomedicine | 相邻超声方法 / 硬件 | 一手摘要 |
 | UFWI-149 | — / P2 | 2025 | [Breast cancer detection from ultrasound computed tomography imaging using radiomic analysis: in silico trial](papers/UFWI-149.md) | Medical Physics | 相邻超声方法 / 硬件 | 一手摘要 |
 | UFWI-045 | — / P2 | 2025 | [Deep-Learning-Driven High Spatial Resolution Attenuation Imaging for Ultrasound Tomography (AI-UT)](papers/UFWI-045.md) | IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC) | 相邻超声方法 / 硬件 | 历史笔记，尚未复核结论 |
 | UFWI-139 | — / P2 | 2025 | [Estimation of shear viscoelasticity via time-domain elastic full waveform inversion in ultrasound shear wave elastography](papers/UFWI-139.md) | The Journal of the Acoustical Society of America | 医学超声 FWI | 一手摘要 |
 | UFWI-052 | — / P2 | 2025 | [Multi-parameter ultrasound imaging for musculoskeletal tissues based on a physics informed generative adversarial network](papers/UFWI-052.md) | Chinese Physics B | 医学超声 FWI | 历史笔记，尚未复核结论 |
+| UFWI-168 | — / P2 | 2025 | [OpenBreastUS: Benchmarking Neural Operators for Wave Imaging Using Breast Ultrasound Computed Tomography](papers/UFWI-168.md) | arXiv | 医学超声 FWI | 一手摘要 |
 | UFWI-054 | — / P2 | 2025 | [Reconstruction of reflection ultrasound computed tomography with sparse transmissions using conditional generative adversarial network](papers/UFWI-054.md) | Ultrasonics | 相邻超声方法 / 硬件 | 历史笔记，尚未复核结论 |
 | UFWI-044 | — / P2 | 2025 | [Self-Supervised Optimization of RF Data Coherence for Improving Breast Reflection UCT Reconstruction](papers/UFWI-044.md) | IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC) | 相邻超声方法 / 硬件 | 历史笔记，尚未复核结论 |
 | UFWI-086 | — / P2 | 2024 | [A High-Resolution 3D Ultrasound Imaging System Oriented towards a Specific Application in Breast Cancer Detection Based on a 1 × 256 Ring Array](papers/UFWI-086.md) | Micromachines | 相邻超声方法 / 硬件 | 历史笔记，尚未复核结论 |

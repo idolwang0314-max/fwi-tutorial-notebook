@@ -11,6 +11,9 @@
 - 优先级：P0；精读第 6 篇
 - DOI：[10.1088/1361-6560/ae7cd6](https://doi.org/10.1088/1361-6560/ae7cd6)
 - Europe PMC日期（可能为卷期日；差异见备注）：2026-07-10
+- 2026-10-08 分类：existing_reviewed
+
+2026-10-08 复核备注：本轮作者摘要重读：water source-time calibration+graph-space OT+perturbation spatial smearing；2026-07-10，非本周。
 
 ## 创新点 / 主要贡献
 

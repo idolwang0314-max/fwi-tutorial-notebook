@@ -103,6 +103,22 @@ for record in screen:
     if record.get('library_id'):
         check(record['library_id'] in ids, 'Screening refers to missing catalog record')
 
+# Dated incremental mapping and reading order are distinct from the historical main rank.
+id_map = json.loads((OUT / 'ID_MAP_20261008.json').read_text(encoding='utf-8'))
+map_rows = id_map['records']
+check(len(map_rows) == len(rows), 'Incremental ID mapping count')
+check({r['public_id'] for r in map_rows} == ids, 'Incremental ID mapping coverage')
+check(len({r['source_record_id'] for r in map_rows}) == len(rows), 'Duplicate source record IDs')
+lookup = {r['public_id']: r['source_record_id'] for r in map_rows}
+check(all(r.get('source_record_id') == lookup.get(r['id']) for r in rows), 'Source ID mapping mismatch')
+project_rank = sorted(r['project_reading_rank_20261008'] for r in rows if r.get('project_reading_rank_20261008'))
+check(project_rank == list(range(1, 13)), 'Project reading order must have 12 distinct ranks')
+for r in rows:
+    if r.get('weekly_class') == 'weekly_conference_event':
+        check(r.get('first_public_date') is None, r['id'] + ': conference event mistaken for first publication')
+    if r.get('date_basis', '').startswith('arXiv v1 submission history'):
+        check(r.get('first_public_date') is None, r['id'] + ': submission mistaken for confirmed first-public time')
+
 page = (OUT / 'index.html').read_text(encoding='utf-8')
 script = re.findall(r'<script>([\s\S]*?)</script>', page)[0]
 embedded = re.search(r'const records=(.*?), scopes=', script).group(1)
@@ -145,7 +161,7 @@ else:
     warnings.append('Node.js unavailable; JavaScript syntax and DOM smoke checks skipped.')
 
 result = dict(records=len(rows), csv_rows=len(csv_rows), unique_doi=len(dois),
-              ranked=len(rank), bibtex_entries=len(keys), screened=len(screen),
+              ranked=len(rank), bibtex_entries=len(keys), screened=len(screen), source_ids=len(map_rows), project_ranked=len(project_rank),
               checks_passed=not errors, errors=errors, warnings=warnings, js_smoke=js_smoke)
 (OUT / 'validation.json').write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 report = ['# 公开文献库验证结果', '', f'结果：{"PASS" if not errors else "FAIL"}。', '',
@@ -153,7 +169,7 @@ report = ['# 公开文献库验证结果', '', f'结果：{"PASS" if not errors 
           '- JSON/CSV/HTML 数据一致，必填字段、ID/DOI、排名和优先级、单篇卡片和索引通过检查。',
           '- 生成 Markdown 与 HTML 相对链接、公开来源 URL 格式及内部路径检查。',
           '- BibTeX 键、基础括号、部分作者提示、书章类型与撤回排除规则检查。',
-          '- 68 项初版筛查快照及统计文件检查。',
+          '- 68 项初版筛查快照、179 条来源 ID 映射、12 篇专题顺序及统计文件检查。',
           '- 本检查不联网核验 URL 存活，不等于重新核验文献结论；未使用 TeX 编译器或完整 BibTeX 解析器。', '',
           '## 网页检查', '',
           'Node.js 语法与最小 DOM 接口检查通过：检索、领域筛选、重置及撤回版本检索。' if js_smoke else 'JavaScript 检查未通过或未执行，详见下方结果。',

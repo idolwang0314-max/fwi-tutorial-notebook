@@ -2,7 +2,7 @@
 
 [总索引](../INDEX.md) · [可筛选网页](../index.html) · [阅读排序](../READING_RANKING.md)
 
-- 作者：Javier Cudeiro-Blanco; Carlos Cueto; Oscar Bates; George Strong; Tom Robins; Matthieu Toulemonde; Mike Warner; Meng-Xing Tang; Meng-Xing Tang; Oscar Calderón Agudo; Lluis Guasch
+- 作者：Javier Cudeiro-Blanco; Carlos Cueto; Oscar Bates; George Strong; Tom Robins; Matthieu Toulemonde; Mike Warner; Meng-Xing Tang; Oscar Calderón Agudo; Lluis Guasch
 - 年份 / 期刊：2022 / Ultrasound in Medicine & Biology
 - 发表类型 / 状态：journal / published
 - 研究类型：医学超声 FWI

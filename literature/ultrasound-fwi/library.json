@@ -49,7 +49,14 @@
     "group": "Imperial及国际医学FWI",
     "notes": "检索核验日期2026-09-26。2024-08卷43(8):2988–3000；已读讨论及作者代码说明；不是实时三维方法。",
     "note_path": "papers/UFWI-013.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "project_reading_rank_20261008": 10,
+    "project_reading_reason_20261008": "可复现环阵 USCT 基线，兼看声速/衰减耦合与二维模型失配。",
+    "source_record_id": "UFWI-013",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-035",
@@ -63,7 +70,6 @@
       "Thomas Robins",
       "Oscar Bates",
       "George Strong",
-      "Meng-Xing Tang",
       "Meng-Xing Tang"
     ],
     "authors_complete": true,
@@ -102,7 +108,18 @@
     "notes": "检索核验日期2026-09-26。2021预印本/online；2022卷69(1):27–37。正式版完整作者据EuropePMC作者索引补全（去掉索引重复Tang条目）；arXiv早版作者少一人。",
     "note_path": "papers/UFWI-035.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2021-12-31"
+    "epmc_publication_date": "2021-12-31",
+    "review_note_20261004": "已有联合描述换能器位置/方向/响应的SRI实测工作，普通源校准不作为新贡献。",
+    "review_source_20261004": "https://arxiv.org/abs/2103.10722",
+    "verification_20261004": "primary_abstract",
+    "record_action": "review_existing",
+    "author_metadata_correction_20261004": "出版社提交Crossref元数据核实8位作者；删除旧库重复Meng-Xing Tang，保留正式版Thomas Robins；arXiv v2为7人。",
+    "author_metadata_source_20261004": "https://api.crossref.org/works/10.1109/TUFFC.2021.3104342",
+    "project_reading_rank_20261004": 4,
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-035",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-025",
@@ -148,7 +165,12 @@
     "group": "Imperial及国际医学FWI",
     "notes": "检索核验日期2026-09-26。预印本2021-02-01；在线发表于2021，正式卷38(2022)025008；本库用卷期2022。",
     "note_path": "papers/UFWI-025.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-025",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-104",
@@ -194,7 +216,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2024-11-08；正式卷期 2025 Mar。",
     "note_path": "papers/UFWI-104.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2024-11-08"
+    "epmc_publication_date": "2024-11-08",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-104",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-097",
@@ -238,7 +265,12 @@
     "notes": "2024 SPIE DOI10.1117/12.3006287为相关会议前作，独立书目保留并建关系；不把两者视为两项独立创新证据。",
     "note_path": "papers/UFWI-097.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2025-01-01"
+    "epmc_publication_date": "2025-01-01",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-097",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-040",
@@ -289,7 +321,14 @@
     "notes": "检索核验日期2026-09-26。出版社Published2026-07-10，卷71:135039。已读出版社Theory/Conclusions段，核实mouse。ETH作者页提供完整作者名。",
     "note_path": "papers/UFWI-040.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2026-07-10"
+    "epmc_publication_date": "2026-07-10",
+    "record_action": "inherited_without_new_review",
+    "weekly_class": "existing_reviewed",
+    "weekly_review_note": "本轮作者摘要重读：water source-time calibration+graph-space OT+perturbation spatial smearing；2026-07-10，非本周。",
+    "reviewed_at": "2026-10-08",
+    "record_action_20261008": "review_existing",
+    "source_record_id": "UFWI-040",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-124",
@@ -298,7 +337,6 @@
     "authors": [
       "Lluís Guasch",
       "Oscar Calderón Agudo",
-      "Meng-Xing Tang",
       "Meng-Xing Tang",
       "Parashkev Nachev",
       "Michael Warner"
@@ -335,7 +373,12 @@
     "notes": "检索核验日期2026-09-26。正式2020-03-06；已读方法、实验、代码可用性段落。",
     "note_path": "papers/UFWI-124.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2020-03-06"
+    "epmc_publication_date": "2020-03-06",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-124",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-007",
@@ -379,7 +422,12 @@
     "group": "地球物理可迁移方法",
     "notes": "在线2022-12-15，正式卷期2023；year采用卷期年。",
     "note_path": "papers/UFWI-007.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-007",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-008",
@@ -424,7 +472,12 @@
     "group": "地球物理可迁移方法",
     "notes": "本轮核验；创新为文献贡献概括，迁移价值/局限含本库评估，不是全球首创证明。",
     "note_path": "papers/UFWI-008.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-008",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-037",
@@ -472,7 +525,16 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2023-04-12；正式卷期 2023 Jul。",
     "note_path": "papers/UFWI-037.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2023-04-12"
+    "epmc_publication_date": "2023-04-12",
+    "record_action": "inherited_without_new_review",
+    "weekly_class": "existing_reviewed",
+    "weekly_review_note": "本轮重新读出版商摘要/引言：target-free water FMC、weighted virtual source、解析均匀介质求梯度；外部水校准，不同于在目标数据中无约束自由源。",
+    "reviewed_at": "2026-10-08",
+    "record_action_20261008": "review_existing",
+    "project_reading_rank_20261008": 3,
+    "project_reading_reason_20261008": "理解换能器指向性与点源假设的偏差，以及独立水槽校准的作用。",
+    "source_record_id": "UFWI-037",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-029",
@@ -541,7 +603,12 @@
     "notes": "检索核验日期2026-09-26。online2026-06-13，卷50(2026-08):100847。“首次”为作者主张，未作全球优先权审定。",
     "note_path": "papers/UFWI-029.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2026-06-13"
+    "epmc_publication_date": "2026-06-13",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-029",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-069",
@@ -585,7 +652,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2023-07-01；正式卷期 2023 Jul。",
     "note_path": "papers/UFWI-069.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2023-07-01"
+    "epmc_publication_date": "2023-07-01",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-069",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-152",
@@ -631,7 +703,20 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2022-03-02；卷期2022 Mar。",
     "note_path": "papers/UFWI-152.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2022-03-02"
+    "epmc_publication_date": "2022-03-02",
+    "review_note_20261004": "骨level-set与走时约束已用于离体实测，作为形状方向最接近先例和基线；不是待首次迁移。",
+    "review_source_20261004": "https://pubmed.ncbi.nlm.nih.gov/34570702/",
+    "verification_20261004": "primary_abstract",
+    "record_action": "review_existing",
+    "project_reading_rank_20261004": 1,
+    "weekly_class": "existing_reviewed",
+    "weekly_review_note": "现库骨/软组织离体先例；本轮未新增全文核验，引用基库证据。",
+    "reviewed_at": "2026-10-08",
+    "record_action_20261008": "review_existing",
+    "project_reading_rank_20261008": 1,
+    "project_reading_reason_20261008": "骨与软组织 level-set FWI 的离体先例；结合独立声速与 MRI 验证理解几何约束的贡献。",
+    "source_record_id": "UFWI-152",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-011",
@@ -675,7 +760,12 @@
     "group": "李玉冰 Yubing Li（中科院声学所相关作者线）",
     "notes": "本轮核验；创新为文献贡献概括，迁移价值/局限含本库评估，不是全球首创证明。",
     "note_path": "papers/UFWI-011.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-011",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-026",
@@ -724,7 +814,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2023-10-17；正式卷期 2023 Oct。",
     "note_path": "papers/UFWI-026.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2023-10-17"
+    "epmc_publication_date": "2023-10-17",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-026",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-014",
@@ -774,7 +869,12 @@
     "notes": "检索核验日期2026-09-26。正式2025-05-14，卷5:77–81。",
     "note_path": "papers/UFWI-014.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2025-05-14"
+    "epmc_publication_date": "2025-05-14",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-014",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-019",
@@ -822,7 +922,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2024-07-01；正式卷期 2024 Aug。",
     "note_path": "papers/UFWI-019.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2024-07-01"
+    "epmc_publication_date": "2024-07-01",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-019",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-127",
@@ -872,7 +977,12 @@
     "notes": "检索核验日期2026-09-26。出版社online2025-09-24；卷52(10)，EuropePMC firstPublicationDate给2025-10-01。",
     "note_path": "papers/UFWI-127.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2025-10-01"
+    "epmc_publication_date": "2025-10-01",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-127",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-034",
@@ -919,7 +1029,14 @@
     "note_path": "papers/UFWI-034.md",
     "verified_at": "2026-09-26",
     "epmc_publication_date": "2026-05-01",
-    "publisher_online_date": "2026-04-27"
+    "publisher_online_date": "2026-04-27",
+    "record_action": "inherited_without_new_review",
+    "weekly_class": "existing_reviewed",
+    "weekly_review_note": "本轮Dundee机构记录确认online2026-04-27；2D随机phase encoding实测基础，Forte3D预印本的前作。",
+    "reviewed_at": "2026-10-08",
+    "record_action_20261008": "review_existing",
+    "source_record_id": "UFWI-034",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-031",
@@ -964,7 +1081,12 @@
     "group": "李玉冰 Yubing Li（中科院声学所相关作者线）",
     "notes": "原刊PDF作者是Zeyuan Dong（董则元），OpenAlex Zibo Dong为元数据错误。",
     "note_path": "papers/UFWI-031.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-031",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-125",
@@ -978,7 +1100,6 @@
       "Oscar Calderon-Agudo",
       "Carlos Cueto",
       "Javier Cudeiro",
-      "Mengxing Tang",
       "Mengxing Tang"
     ],
     "authors_complete": true,
@@ -1012,7 +1133,12 @@
     "notes": "检索核验日期2026-09-26。正式2022-03-14；PMC收录2024不代表发表年。",
     "note_path": "papers/UFWI-125.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2022-03-01"
+    "epmc_publication_date": "2022-03-01",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-125",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-134",
@@ -1060,7 +1186,12 @@
     "note_path": "papers/UFWI-134.md",
     "verified_at": "2026-09-26",
     "epmc_publication_date": "2026-06-06",
-    "publisher_online_date": "2026-06-05"
+    "publisher_online_date": "2026-06-05",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-134",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-039",
@@ -1075,7 +1206,6 @@
       "George Strong",
       "Lluis Guasch",
       "Michael Warner",
-      "Meng-Xing Tang",
       "Meng-Xing Tang"
     ],
     "authors_complete": true,
@@ -1114,7 +1244,12 @@
     "notes": "检索核验日期2026-09-26。online2023-07-18，卷49(10):2302–2315。",
     "note_path": "papers/UFWI-039.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2023-07-18"
+    "epmc_publication_date": "2023-07-18",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-039",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-113",
@@ -1158,7 +1293,12 @@
     "group": "李玉冰 Yubing Li（中科院声学所相关作者线）",
     "notes": "在线2022-05-07，正式Chin.Phys.B32(1)014303为2023；原刊署名明确李玉冰。",
     "note_path": "papers/UFWI-113.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-113",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-099",
@@ -1209,7 +1349,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2026-02-14；正式卷期 2026 Jul。",
     "note_path": "papers/UFWI-099.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2026-02-14"
+    "epmc_publication_date": "2026-02-14",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-099",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-100",
@@ -1255,7 +1400,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2025-06-09；正式卷期 2025 Nov。",
     "note_path": "papers/UFWI-100.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2025-06-09"
+    "epmc_publication_date": "2025-06-09",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-100",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-098",
@@ -1299,7 +1449,205 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2026-08-20；正式卷期 2027 Jan。",
     "note_path": "papers/UFWI-098.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2026-08-20"
+    "epmc_publication_date": "2026-08-20",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-098",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-179",
+    "title": "A Bayesian Cramér–Rao Framework for Evaluating Pulse-Echo Speed-of-Sound Reconstruction",
+    "year": 2026,
+    "authors": [
+      "Jingyi Zuo",
+      "Aiguo Han"
+    ],
+    "venue": "2026 IEEE International Ultrasonics Symposium (IUS)",
+    "doi": "",
+    "url": "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=8247",
+    "publication_type": "conference",
+    "scope": "adjacent_ultrasound",
+    "weekly_class": "weekly_conference_event",
+    "first_public_date": null,
+    "categories": [
+      "相邻超声方法",
+      "conference",
+      "weekly_conference_event"
+    ],
+    "innovation": "用BCRB区分几何/噪声/先验的信息界与算法误差。",
+    "methods": "Bayesian Fisher information matrix；局部SoS uncertainty map。",
+    "evidence": "理论框架摘要；没有数值规模或实测细节。",
+    "limitations": "pulse-echo SoS非全波USCT；局部bound不保证非线性全局可辨识。",
+    "relevance": "骨形状可辨识主线的邻近概念；可用profile objective+holdout作为实证。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=8247",
+      "https://epapers2.org/ius2026/ESR/session_view.php?session_id=141"
+    ],
+    "priority_hint": 2,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "本周会议安排已核；首次公开/正式proceedings上线日与DOI未核，不能归入本周首次发表数量。",
+    "retrieved_at": "2026-10-08",
+    "event_date": "2026-10-06",
+    "conference_paper_id": "8247",
+    "publication_status": "conference_program_and_abstract",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-179.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "authors_complete": false,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N22",
+    "catalog_added_at": "2026-10-08"
+  },
+  {
+    "id": "UFWI-164",
+    "title": "A comprehensive review of strategies to mitigate non-convexity in full waveform inversion",
+    "year": 2026,
+    "authors": [
+      "L Métivier",
+      "R Brossier"
+    ],
+    "venue": "Geophysical Journal International",
+    "doi": "10.1093/gji/ggag376",
+    "url": "https://doi.org/10.1093/gji/ggag376",
+    "publication_type": "review",
+    "scope": "geophysical_method",
+    "weekly_class": "earlier_supplement",
+    "first_public_date": "2026-09-16",
+    "categories": [
+      "地球物理方法",
+      "review",
+      "earlier_supplement"
+    ],
+    "innovation": "用共同数学框架连接model extension、misfit modification、source/wavefield/receiver extension。",
+    "methods": "三类优化问题PB1/PB2/PB3；variable projection、惩罚/松弛及实测成熟度分类。",
+    "evidence": "综述；本轮读官方摘要、3.3.5、3.4、3.5.2、4.1和4.4相关全文。",
+    "limitations": "不是新USCT实验；receiver位置松弛不等于物理接收器校准；理论结果依赖传播近似/特例。",
+    "relevance": "最值得补入的方法地图；界定shot-dependent模型与源/RX扩展先例。",
+    "verification": "primary_fulltext",
+    "source_urls": [
+      "https://doi.org/10.1093/gji/ggag376",
+      "https://api.crossref.org/works/10.1093/gji/ggag376",
+      "https://academic.oup.com/gji/article/247/2/ggag376/8802546",
+      "https://academic.oup.com/gji/advance-articles"
+    ],
+    "priority_hint": 1,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "正式online2026-09-16，typeset09-29，11月卷；Crossref print字段误对齐09-11接收日，不采用。",
+    "retrieved_at": "2026-10-08",
+    "publication_status": "published_online",
+    "date_evidence": {
+      "published_online": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            16
+          ]
+        ]
+      },
+      "published_print": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            11
+          ]
+        ]
+      },
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            16
+          ]
+        ],
+        "date-time": "2026-09-16T19:38:47Z",
+        "timestamp": 1789587527000
+      }
+    },
+    "is_verified_weekly_first_publication": false,
+    "date_resolution": {
+      "online": "2026-09-16",
+      "typeset": "2026-09-29",
+      "issue": "2026-11",
+      "conflict": "Crossref published_print 2026-09-11 matches accepted date; not normalized as print publication",
+      "source": "https://academic.oup.com/gji/article/247/2/ggag376/8802546"
+    },
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-164.md",
+    "project_reading_rank_20261008": 7,
+    "project_reading_reason_20261008": "2026 非凸性综述：联系模型、源、波场和接收器扩展，比较各自假设。",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "authors_complete": true,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N07",
+    "catalog_added_at": "2026-10-08",
+    "author_metadata_source": "Full author list checked against primary publication/arXiv/official IUS session records in the independent 2026-10-08 audit."
+  },
+  {
+    "id": "UFWI-170",
+    "title": "Adaptive Waveform Inversion with Source Estimation for Ultrasound Tomography",
+    "year": 2026,
+    "authors": [
+      "Alex Klaben",
+      "Liumei Ma",
+      "Hossein Raeis",
+      "Melanie Singh",
+      "Mohammad Mehrmohammadi",
+      "Nebojsa Duric",
+      "Rehman Ali"
+    ],
+    "venue": "2026 IEEE International Ultrasonics Symposium (IUS)",
+    "doi": "",
+    "url": "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7143",
+    "publication_type": "conference",
+    "scope": "medical_fwi",
+    "weekly_class": "weekly_conference_event",
+    "first_public_date": null,
+    "categories": [
+      "医学USCT/FWI",
+      "conference",
+      "weekly_conference_event"
+    ],
+    "innovation": "AWI与动态源估计用于USCT。",
+    "methods": "零lag matching filter AWI；dynamic source estimation；对照frequency-difference FWI。",
+    "evidence": "乳腺、经颅模拟。",
+    "limitations": "只核会议摘要，无可核完整论文DOI/首次上线日；动态源自由度、约束与泛化细节未披露。",
+    "relevance": "受限源/RX主线最直接近邻，必须引用；新意需明确共享结构与校准可辨识约束。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7143",
+      "https://epapers2.org/ius2026/ESR/session_view.php?session_id=68"
+    ],
+    "priority_hint": 1,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "本周会议安排已核；首次公开/正式proceedings上线日与DOI未核，不能归入本周首次发表数量。 当前官网搜索及session68为7作者；旧搜索缓存仅4作者已弃用。",
+    "retrieved_at": "2026-10-08",
+    "event_date": "2026-10-05",
+    "conference_paper_id": "7143",
+    "publication_status": "conference_program_and_abstract",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-170.md",
+    "project_reading_rank_20261008": 8,
+    "project_reading_reason_20261008": "AWI 联合源估计已用于医学 USCT 会议工作；当前只有摘要级仿真证据。",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "authors_complete": true,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N13",
+    "catalog_added_at": "2026-10-08",
+    "author_metadata_source": "Full author list checked against primary publication/arXiv/official IUS session records in the independent 2026-10-08 audit."
   },
   {
     "id": "UFWI-122",
@@ -1341,7 +1689,12 @@
     "group": "journals",
     "notes": "出版社日期2026-08-01；只核摘要和引言。",
     "note_path": "papers/UFWI-122.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-122",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-120",
@@ -1384,7 +1737,12 @@
     "group": "journals",
     "notes": "2026-06-04；核读摘要、方法和参数化部分，非全文逐段精读。",
     "note_path": "papers/UFWI-120.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-120",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-138",
@@ -1433,7 +1791,12 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2026-05-23；卷期2026 Jul。",
     "note_path": "papers/UFWI-138.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2026-05-23"
+    "epmc_publication_date": "2026-05-23",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-138",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-114",
@@ -1479,7 +1842,75 @@
     "group": "李玉冰 Yubing Li（中科院声学所相关作者线）",
     "notes": "2026-05-24 v1；截至检索未见期刊DOI。",
     "note_path": "papers/UFWI-114.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "review_note_20261004": "本轮核Methods/Results/Discussion：0.25–0.45MHz参与初始化；实测混合项主要在0.25/0.3MHz，不能把其成功算成严格>=0.5MHz验证。",
+    "review_source_20261004": "https://arxiv.org/html/2605.25139v1",
+    "verification_20261004": "primary_fulltext_sections",
+    "record_action": "review_existing",
+    "project_reading_rank_20261004": 8,
+    "weekly_class": "existing_reviewed",
+    "weekly_review_note": "本轮直读arXiv版本史：v1 2026-05-24，无本周更新；Rytov走时+FDFWI已为肌骨近邻先例。",
+    "reviewed_at": "2026-10-08",
+    "record_action_20261008": "review_existing",
+    "project_reading_rank_20261008": 12,
+    "project_reading_reason_20261008": "李玉冰团队肌骨 HFWI 近邻；分开评价低频初始化和后续较高频率精化。",
+    "source_record_id": "UFWI-114",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-171",
+    "title": "Impact of Windowing on Full-Waveform Inversion for Ultrasound Tomography",
+    "year": 2026,
+    "authors": [
+      "Israel Owolabi",
+      "Dean Clasby",
+      "Victoria Nketia",
+      "Trevor Mitcham",
+      "Thomas Marini",
+      "Nebojsa Duric",
+      "Rehman Ali"
+    ],
+    "venue": "2026 IEEE International Ultrasonics Symposium (IUS)",
+    "doi": "",
+    "url": "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7384",
+    "publication_type": "conference",
+    "scope": "medical_fwi",
+    "weekly_class": "weekly_conference_event",
+    "first_public_date": null,
+    "categories": [
+      "医学USCT/FWI",
+      "conference",
+      "weekly_conference_event"
+    ],
+    "innovation": "首波对齐动态扩窗兼顾早期稳定与后期分辨率。",
+    "methods": "AIC TOF；先窄时窗后扩展包含晚到散射。",
+    "evidence": "in-vivo breast+ex-vivo transcranial；摘要。",
+    "limitations": "摘要声称存在低于名义带宽的可用信息，但未充分排除窗函数混频；比较时须明确窗口与频带处理顺序。",
+    "relevance": "频带与首波处理快速对照；动态扩窗本身不是新先例空白。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7384",
+      "https://epapers2.org/ius2026/ESR/session_view.php?session_id=141"
+    ],
+    "priority_hint": 1,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "本周会议安排已核；首次公开/正式proceedings上线日与DOI未核，不能归入本周首次发表数量。",
+    "retrieved_at": "2026-10-08",
+    "event_date": "2026-10-06",
+    "conference_paper_id": "7384",
+    "publication_status": "conference_program_and_abstract",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-171.md",
+    "project_reading_rank_20261008": 9,
+    "project_reading_reason_20261008": "理解首波窗口如何改变有效频谱与反演问题，审查缺低频实验的处理约定。",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "authors_complete": false,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N14",
+    "catalog_added_at": "2026-10-08"
   },
   {
     "id": "UFWI-032",
@@ -1525,7 +1956,62 @@
     "notes": "沿用2026-08-29专题笔记；本轮未逐条重新打开外部来源，旧primary级别不继承。",
     "note_path": "papers/UFWI-032.md",
     "verified_at": null,
-    "epmc_publication_date": "2026-03-23"
+    "epmc_publication_date": "2026-03-23",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-032",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-177",
+    "title": "In-Vivo Musculoskeletal Ultrasound Full Waveform Inversion with Multi-Constraint Regularization",
+    "year": 2026,
+    "authors": [
+      "Yifang Li",
+      "Peilin Li",
+      "Dean Ta"
+    ],
+    "venue": "2026 IEEE International Ultrasonics Symposium (IUS)",
+    "doi": "",
+    "url": "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7003",
+    "publication_type": "conference",
+    "scope": "medical_fwi",
+    "weekly_class": "weekly_conference_event",
+    "first_public_date": null,
+    "categories": [
+      "医学USCT/FWI",
+      "conference",
+      "weekly_conference_event"
+    ],
+    "innovation": "相位走时引导与可行性约束缓和骨区非物理更新。",
+    "methods": "phase-to-traveltime残差；1400m/s下界；骨区monotonic update约束。",
+    "evidence": "摘要仅明确numerical experiments；不能因标题in-vivo认定已核在体。",
+    "limitations": "单调更新依赖初值方向及骨区先验；fulltext未核。官网track字段与最终接收字段曾不一致，记录poster程序为准。",
+    "relevance": "骨形状/约束更新最近先例；应比较错误形状与正确形状先验，避免真值mask优势。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7003",
+      "https://epapers2.org/ius2026/ESR/session_view.php?session_id=110"
+    ],
+    "priority_hint": 2,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "本周会议安排已核；首次公开/正式proceedings上线日与DOI未核，不能归入本周首次发表数量。",
+    "retrieved_at": "2026-10-08",
+    "event_date": "2026-10-05",
+    "conference_paper_id": "7003",
+    "publication_status": "conference_program_and_abstract",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-177.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "authors_complete": true,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N20",
+    "catalog_added_at": "2026-10-08",
+    "author_metadata_source": "Full author list checked against primary publication/arXiv/official IUS session records in the independent 2026-10-08 audit."
   },
   {
     "id": "UFWI-119",
@@ -1567,7 +2053,121 @@
     "group": "journals",
     "notes": "原刊作者摘要及引言已读；2026-05刊载。",
     "note_path": "papers/UFWI-119.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-119",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-178",
+    "title": "Quantitative Characterisation of Defects in Pipes Using Guided Wave Testing with Geometrical Full Waveform Inversion",
+    "year": 2026,
+    "authors": [
+      "Elias Rabbat",
+      "Peter Huthwaite"
+    ],
+    "venue": "2026 IEEE International Ultrasonics Symposium (IUS)",
+    "doi": "",
+    "url": "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7019",
+    "publication_type": "conference",
+    "scope": "ndt_fwi",
+    "weekly_class": "weekly_conference_event",
+    "first_public_date": null,
+    "categories": [
+      "NDT/FWI",
+      "conference",
+      "weekly_conference_event"
+    ],
+    "innovation": "直接更新管壁节点几何定量恢复缺陷形貌。",
+    "methods": "finite element pipe；adjoint optimization；nodal geometry更新。",
+    "evidence": "模拟+corrosion-like缺陷实验；深度误差<壁厚10%，摘要。",
+    "limitations": "导波/管道非骨USCT；不能由深度误差推全参数可辨识。",
+    "relevance": "Imperial几何FWI直接近邻；对shape参数化与边界误差度量有用。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7019",
+      "https://epapers2.org/ius2026/ESR/session_view.php?session_id=32"
+    ],
+    "priority_hint": 2,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "本周会议安排已核；首次公开/正式proceedings上线日与DOI未核，不能归入本周首次发表数量。",
+    "retrieved_at": "2026-10-08",
+    "event_date": "2026-10-06",
+    "conference_paper_id": "7019",
+    "publication_status": "conference_program_and_abstract",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-178.md",
+    "project_reading_rank_20261008": 2,
+    "project_reading_reason_20261008": "Imperial 几何 FWI 的会议近邻；管道 NDT 证据与骨 USCT 的适用范围须分开。",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "authors_complete": false,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N21",
+    "catalog_added_at": "2026-10-08"
+  },
+  {
+    "id": "UFWI-165",
+    "title": "Radon–full-waveform inversion for suppressing scalp reverberation and skull-induced aberration in transcranial photoacoustic computed tomography",
+    "year": 2026,
+    "authors": [
+      "Jiawen Zhang",
+      "Han Yang",
+      "Jintao Ma",
+      "Bangxu Fan",
+      "Tong Shi",
+      "Xiaoyan Zheng",
+      "Songqing Xie",
+      "Zhuojun Xie",
+      "Shuai Na"
+    ],
+    "venue": "Photoacoustics",
+    "doi": "10.1016/j.pacs.2026.100833",
+    "url": "https://www.sciencedirect.com/science/article/pii/S221359792600039X",
+    "publication_type": "journal",
+    "scope": "adjacent_ultrasound",
+    "weekly_class": "earlier_supplement",
+    "first_public_date": "2026-04-29",
+    "categories": [
+      "光声初始压力反演",
+      "弹性传播",
+      "Radon预处理",
+      "正则化"
+    ],
+    "innovation": "Radon分离头皮多次波，并将其导出的掩膜进入后续初始光声压反演。",
+    "methods": "高分辨linear Radon预处理；逆变换cleaned data；elastic FDTD+adjoint+FISTA；p0≥0、L1和scalp波场能量惩罚。",
+    "evidence": "2D模拟、acrylic phantom、ex-vivo human skull；已核全文Eq13、Fig2、Sec2.3/3.1。",
+    "limitations": "反演变量是初始声压p0；vp/vs/ρ来自先验，Fig2声速由X-ray CT辅助。不是声速FWI，不是Radon域matching-filter损失。",
+    "relevance": "头骨Radon-FWI邻近先例，必须防止与环阵USCT声速方法混同。",
+    "verification": "primary_fulltext",
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S221359792600039X",
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13156777/fullTextXML",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13156777/"
+    ],
+    "priority_hint": 2,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "",
+    "retrieved_at": "2026-10-08",
+    "date_evidence": {
+      "online": "2026-04-29",
+      "issue": "2026-06"
+    },
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-165.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "authors_complete": false,
+    "publication_status": "published",
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N08",
+    "catalog_added_at": "2026-10-08"
   },
   {
     "id": "UFWI-043",
@@ -1615,7 +2215,16 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2026-07-09；正式卷期 2026 Dec。",
     "note_path": "papers/UFWI-043.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2026-07-09"
+    "epmc_publication_date": "2026-07-09",
+    "record_action": "inherited_without_new_review",
+    "weekly_class": "existing_reviewed",
+    "weekly_review_note": "现库最近distributed source inversion对照；本轮引用基库已核方法，未新全文精读。",
+    "reviewed_at": "2026-10-08",
+    "record_action_20261008": "review_existing",
+    "project_reading_rank_20261008": 4,
+    "project_reading_reason_20261008": "分布式源反演与系统模型误差的近邻；区分源标定验证和成像验证。",
+    "source_record_id": "UFWI-043",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-136",
@@ -1673,7 +2282,65 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2026-05-14；卷期2026 May。",
     "note_path": "papers/UFWI-136.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2026-05-14"
+    "epmc_publication_date": "2026-05-14",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-136",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-172",
+    "title": "Robust Full-Waveform Inversion Sparse-Array USCT: Overcoming Sparse-Sampling Artifacts with Phase-Enhanced Metric and Frequency-Wise Virtual Element Modeling",
+    "year": 2026,
+    "authors": [
+      "Wansu Fu",
+      "Siqin Bin",
+      "Guwen Zhang",
+      "Yewen Feng",
+      "Guangquan Zhou",
+      "Chuan Chen",
+      "Fang Yang"
+    ],
+    "venue": "2026 IEEE International Ultrasonics Symposium (IUS)",
+    "doi": "",
+    "url": "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7848",
+    "publication_type": "conference",
+    "scope": "medical_fwi",
+    "weekly_class": "weekly_conference_event",
+    "first_public_date": null,
+    "categories": [
+      "医学USCT/FWI",
+      "conference",
+      "weekly_conference_event"
+    ],
+    "innovation": "相位增强目标与随频率调整的虚拟RX补偿稀疏角采样。",
+    "methods": "几何延时修正插值虚拟接收元；频率相关offset/weight；联合声速与衰减。",
+    "evidence": "模拟+公开乳腺USCT实验；摘要列ROI PSNR/SSIM改善。",
+    "limitations": "虚拟RX不是独立测量；须真RX holdout，不能把插值输出当验证真值。",
+    "relevance": "稀疏RX方向直接近邻；可辨识和保留集设计比单一指标更有新意。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7848",
+      "https://epapers2.org/ius2026/ESR/session_view.php?session_id=146"
+    ],
+    "priority_hint": 2,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "本周会议安排已核；首次公开/正式proceedings上线日与DOI未核，不能归入本周首次发表数量。",
+    "retrieved_at": "2026-10-08",
+    "event_date": "2026-10-07",
+    "conference_paper_id": "7848",
+    "publication_status": "conference_program_and_abstract",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-172.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "authors_complete": false,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N15",
+    "catalog_added_at": "2026-10-08"
   },
   {
     "id": "UFWI-142",
@@ -1718,7 +2385,12 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2026-04-08；卷期2026 Apr。",
     "note_path": "papers/UFWI-142.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2026-04-08"
+    "epmc_publication_date": "2026-04-08",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-142",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-115",
@@ -1765,7 +2437,185 @@
     "group": "李玉冰 Yubing Li（中科院声学所相关作者线）",
     "notes": "2026-08-20 v1；未见正式刊载链接。",
     "note_path": "papers/UFWI-115.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "review_note_20261004": "本轮核Methods/Results：first-break指导0.25–0.45MHz（在体示例0.25MHz）初模；随后0.5–1.2MHz/0.3–1.2MHz精化，缺低频约束尚不匹配。",
+    "review_source_20261004": "https://arxiv.org/html/2608.19828v1",
+    "verification_20261004": "primary_fulltext_sections",
+    "record_action": "review_existing",
+    "project_reading_rank_20261004": 9,
+    "weekly_class": "existing_reviewed",
+    "weekly_review_note": "本轮直读arXiv版本史：v1 2026-08-20，无本周更新；sim-to-real首波segmentation，不是新损失。",
+    "reviewed_at": "2026-10-08",
+    "record_action_20261008": "review_existing",
+    "source_record_id": "UFWI-115",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-157",
+    "title": "Source-adaptive acoustic full-waveform inversion via dual-branch physics-constrained neural network reparameterization",
+    "authors": [
+      "Yiming Pan",
+      "Kai Zhang",
+      "Zhenchun Li",
+      "Hailin Wang",
+      "Yipeng Xu"
+    ],
+    "year": 2026,
+    "venue": "Journal of Applied Geophysics",
+    "doi": "10.1016/j.jappgeo.2026.106539",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0926985126004489",
+    "publication_status": "in_press_journal_preproof",
+    "publication_type": "journal",
+    "categories": [
+      "地球物理",
+      "速度-声源耦合",
+      "双分支参数化"
+    ],
+    "innovation": "分别限制空间速度增量和频域源幅相修正，分阶段控制两类变量间的补偿。",
+    "methods": "CNN-Transformer velocity generator；spectral wavelet generator；staged joint inversion",
+    "evidence": "出版社摘要/引言报告Marmousi、Foothill和地震实测",
+    "limitations": "本轮只核出版社摘要、引言及分节预览；不是医学证据。不能把神经网络复杂度先验当必须，更不能保证实测USCT迁移成功。",
+    "verification": "primary_abstract_and_section_preview",
+    "reading_priority": "P1：新近地球物理方法；先抽取受限源思想",
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0926985126004489"
+    ],
+    "online_date": "2026-09-18",
+    "verified_at": "2026-10-04",
+    "record_action": "new_candidate",
+    "note_path": "papers/UFWI-157.md",
+    "project_reading_rank_20261004": 7,
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "scope": "geophysical_method",
+    "relevance": "受限源修正与速度参数化的地球物理近邻，不直接构成医学验证。",
+    "priority_hint": 2,
+    "group": "2026-10-04专题补漏",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "authors_complete": false,
+    "notes": "",
+    "source_record_id": "D20261004-04",
+    "catalog_added_at": "2026-10-04"
+  },
+  {
+    "id": "UFWI-162",
+    "title": "Towards 3D fully randomized frequency-domain reconstruction of the speed of sound in breast ultrasound computed tomography",
+    "year": 2026,
+    "authors": [
+      "Luca A. Forte"
+    ],
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2610.01930",
+    "url": "https://arxiv.org/abs/2610.01930",
+    "publication_type": "preprint",
+    "scope": "medical_fwi",
+    "weekly_class": "weekly_boundary_preprint",
+    "first_public_date": null,
+    "categories": [
+      "医学USCT/FWI",
+      "preprint",
+      "weekly_boundary_preprint"
+    ],
+    "innovation": "把二维phase encoding推进到多环圆柱三维；比较点源、线源、聚焦源。",
+    "methods": "modified Born频域正演；随机phase-encoded supershots；300–700kHz及800–1000kHz延拓；64 supershots。",
+    "evidence": "三维解剖乳腺数字模型；毫米包块；全文方法、表2与结果计算耗时已核。",
+    "limitations": "模拟，不是在体实测；最低频率 300 kHz，不能作为全程 ≥500 kHz 的验证；桌面耗时低段约 14 h、高段约 24 h，不能称分钟级。",
+    "relevance": "直接医学 FWI 的三维计算预印本，用于研究随机编码及源几何边界。",
+    "verification": "primary_fulltext",
+    "source_urls": [
+      "https://arxiv.org/abs/2610.01930",
+      "https://arxiv.org/html/2610.01930v1"
+    ],
+    "priority_hint": 2,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "；本周/边界分类依arXiv v1提交记录，北京时间已换算；未将精确提交时刻冒充首次公告时刻。",
+    "retrieved_at": "2026-10-08",
+    "preprint_version": "v1",
+    "date_evidence": {
+      "submitted_utc": "2026-10-01T16:00:34Z",
+      "submitted_beijing": "2026-10-02T00:00:34+08:00",
+      "boundary_note": "按北京时间在周窗内；arXiv显示10/1，按源日期统计需单列。"
+    },
+    "related_work": [
+      "10.1109/tuson.2026.3687801"
+    ],
+    "is_verified_weekly_first_publication": false,
+    "submission_timestamp_utc": "2026-10-01T16:00:34+00:00",
+    "submission_timestamp_beijing": "2026-10-02T00:00:34+08:00",
+    "date_basis": "arXiv v1 submission history; exact first announcement timestamp not independently verified",
+    "date_timezone": "Asia/Shanghai",
+    "first_public_date_verified": false,
+    "window_reference_date": "2026-10-02",
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-162.md",
+    "project_reading_rank_20261008": 11,
+    "project_reading_reason_20261008": "三维随机频域计算进展；300 kHz 起步、约 14 h + 24 h 的条件须与比较方法对齐。",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "authors_complete": true,
+    "publication_status": "preprint",
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N05",
+    "catalog_added_at": "2026-10-08",
+    "author_metadata_source": "Full author list checked against primary publication/arXiv/official IUS session records in the independent 2026-10-08 audit."
+  },
+  {
+    "id": "UFWI-181",
+    "title": "Transcranial Ultrasound Tomography of Cadaveric Human Hemorrhage Models",
+    "year": 2026,
+    "authors": [
+      "Trevor Mitcham",
+      "Rehman Ali",
+      "Thomas Marini",
+      "Israel Owolabi",
+      "Victoria Nketia",
+      "Hossein Raeis",
+      "Gurkirat Kohli"
+    ],
+    "authors_complete": false,
+    "venue": "2026 IEEE International Ultrasonics Symposium (IUS)",
+    "doi": "",
+    "url": "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7770",
+    "publication_type": "conference",
+    "scope": "medical_fwi",
+    "weekly_class": "weekly_conference_event",
+    "first_public_date": null,
+    "event_date": "2026-10-05",
+    "conference_paper_id": "7770",
+    "publication_status": "conference_program_and_abstract",
+    "categories": [
+      "经颅",
+      "离体",
+      "医学FWI"
+    ],
+    "innovation": "在cadaveric hemorrhage模型评估整头环阵FWI识别能力。",
+    "methods": "256-element ring+Verasonics NXT；脑内water inclusion模拟出血；带骨/去骨比较。",
+    "evidence": "cadaver实验；作者摘要称影像医师识别inclusion；没有足够临床样本证明诊断准确率。",
+    "limitations": "出血替代物是water inclusion，不是临床出血；摘要未给样本量、盲读设计。官网作者字段在Matthew Be...处截断，只保存完整可读前7人。",
+    "relevance": "本周最强的实测会议线索之一；适合追完整稿，但不当患者临床证据。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7770",
+      "https://epapers2.org/ius2026/ESR/session_index.php",
+      "https://epapers2.org/ius2026/ESR/session_view.php?session_id=87",
+      "https://epapers2.org/ius2026/ESR/search_paper.php"
+    ],
+    "priority_hint": 2,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "first_public_date/DOI未知；只核本周conference event，author list明确不完整。",
+    "retrieved_at": "2026-10-08",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-181.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N24",
+    "catalog_added_at": "2026-10-08"
   },
   {
     "id": "UFWI-056",
@@ -1808,7 +2658,12 @@
     "group": "李玉冰 Yubing Li（中科院声学所相关作者线）",
     "notes": "读取本地原刊PDF封面及摘要/导言；online2025-10-13。",
     "note_path": "papers/UFWI-056.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-056",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-055",
@@ -1851,7 +2706,12 @@
     "group": "李玉冰 Yubing Li（中科院声学所相关作者线）",
     "notes": "原刊摘要完整读取。",
     "note_path": "papers/UFWI-055.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-055",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-088",
@@ -1891,7 +2751,12 @@
     "group": "地球物理可迁移方法",
     "notes": "本轮核验；创新为文献贡献概括，迁移价值/局限含本库评估，不是全球首创证明。",
     "note_path": "papers/UFWI-088.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-088",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-102",
@@ -1940,7 +2805,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2025-02-20；正式卷期 2025 Mar。",
     "note_path": "papers/UFWI-102.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2025-02-20"
+    "epmc_publication_date": "2025-02-20",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-102",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-033",
@@ -1988,7 +2858,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2025-05-04；正式卷期 2025 Aug。",
     "note_path": "papers/UFWI-033.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2025-05-04"
+    "epmc_publication_date": "2025-05-04",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-033",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-121",
@@ -2031,7 +2906,12 @@
     "group": "journals",
     "notes": "2024在线/2025正式卷224；勿与W2解析最优传输失配混为一谈。",
     "note_path": "papers/UFWI-121.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-121",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-103",
@@ -2075,7 +2955,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2025-01-01；正式卷期 2025 Apr。",
     "note_path": "papers/UFWI-103.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2025-01-01"
+    "epmc_publication_date": "2025-01-01",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-103",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-091",
@@ -2115,7 +3000,12 @@
     "group": "地球物理可迁移方法",
     "notes": "本轮核验；创新为文献贡献概括，迁移价值/局限含本库评估，不是全球首创证明。",
     "note_path": "papers/UFWI-091.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-091",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-118",
@@ -2158,7 +3048,12 @@
     "group": "journals",
     "notes": "Chin.Phys.B34(8)084301；online2025-05-07；非李玉冰团队。",
     "note_path": "papers/UFWI-118.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-118",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-131",
@@ -2198,7 +3093,12 @@
     "group": "Imperial及国际医学FWI",
     "notes": "检索核验日期2026-09-26。v1 2025-01-13，v3 2025-10-14。缓存v1的real-world breast tissue data措辞易误读；当前摘要明确anatomically realistic simulation。",
     "note_path": "papers/UFWI-131.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-131",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-116",
@@ -2249,7 +3149,14 @@
     "group": "李玉冰 Yubing Li（中科院声学所相关作者线）",
     "notes": "首发2025-08-17，当前v4为2026-08-06；是作者指定的2312.15575替代版本；不能与其他同类diffusion论文按题意合并。",
     "note_path": "papers/UFWI-116.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "weekly_class": "existing_reviewed",
+    "weekly_review_note": "本轮arXiv直读仍为v4 2026-08-06；搜索摘要有不同题名/作者版本，优先当前版本页，不声称本周更新。",
+    "reviewed_at": "2026-10-08",
+    "record_action_20261008": "review_existing",
+    "source_record_id": "UFWI-116",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-128",
@@ -2294,7 +3201,12 @@
     "group": "Imperial及国际医学FWI",
     "notes": "检索核验日期2026-09-26。正式2025-03-26；2024预印本标题不同，合并为本正式版。authors为部分，待完整作者导出。",
     "note_path": "papers/UFWI-128.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-128",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-022",
@@ -2341,7 +3253,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2025-04-01；正式卷期 2025 Apr。",
     "note_path": "papers/UFWI-022.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2025-04-01"
+    "epmc_publication_date": "2025-04-01",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-022",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-002",
@@ -2379,7 +3296,58 @@
     "group": "旧库核心笔记",
     "notes": "创新/方法总结据旧笔记重新收敛表述；本轮未外部复核，不继承旧笔记的全球首创或超分辨绝对断言。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-002.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-002",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-155",
+    "title": "A single level set function approach for multiple material-phases applied to full-waveform inversion in the time domain",
+    "authors": [
+      "P B de Castro",
+      "E C N Silva",
+      "E A Fancello"
+    ],
+    "year": 2024,
+    "venue": "Inverse Problems",
+    "doi": "10.1088/1361-6420/ad2eca",
+    "url": "https://doi.org/10.1088/1361-6420/ad2eca",
+    "publication_status": "published",
+    "publication_type": "journal",
+    "categories": [
+      "声学反问题",
+      "多材料",
+      "嵌套界面"
+    ],
+    "innovation": "用单一level-set函数的多个水平值描述多材料/嵌套界面，减少未知数。",
+    "methods": "multiple material-phase level set；time-domain acoustic FWI",
+    "evidence": "数值；含与不含inverse crime情形",
+    "limitations": "各材料传播速度已知；不能据此证明未知骨厚度和声速可同时辨识；全文算法实现尚待精读。",
+    "verification": "primary_abstract",
+    "reading_priority": "P1：骨内外界面表示候选",
+    "source_urls": [
+      "https://doi.org/10.1088/1361-6420/ad2eca"
+    ],
+    "verified_at": "2026-10-04",
+    "record_action": "new_candidate",
+    "note_path": "papers/UFWI-155.md",
+    "project_reading_rank_20261004": 3,
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "scope": "geophysical_method",
+    "relevance": "多材料嵌套界面表示参考；须审查已知材料声速假设。",
+    "priority_hint": 2,
+    "group": "2026-10-04专题补漏",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "authors_complete": false,
+    "notes": "",
+    "source_record_id": "D20261004-02",
+    "catalog_added_at": "2026-10-04"
   },
   {
     "id": "UFWI-082",
@@ -2427,7 +3395,12 @@
     "notes": "检索核验日期2026-09-26。出版社online2024-02-08；正式卷43(6):2332–2346。",
     "note_path": "papers/UFWI-082.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2024-06-03"
+    "epmc_publication_date": "2024-06-03",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-082",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-064",
@@ -2475,7 +3448,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2023-09-22；正式卷期 2024 Jan。",
     "note_path": "papers/UFWI-064.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2023-09-22"
+    "epmc_publication_date": "2023-09-22",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-064",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-004",
@@ -2516,7 +3494,12 @@
     "group": "旧库核心笔记",
     "notes": "创新/方法总结据旧笔记重新收敛表述；本轮未外部复核，不继承旧笔记的全球首创或超分辨绝对断言。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-004.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-004",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-084",
@@ -2567,7 +3550,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2024-05-08；正式卷期 2024 May。",
     "note_path": "papers/UFWI-084.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2024-05-08"
+    "epmc_publication_date": "2024-05-08",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-084",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-018",
@@ -2620,7 +3608,12 @@
     "notes": "检索核验日期2026-09-26。预印本2023；正式2024卷10:69–82。",
     "note_path": "papers/UFWI-018.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2024-01-09"
+    "epmc_publication_date": "2024-01-09",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-018",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-015",
@@ -2659,7 +3652,12 @@
     "group": "旧库核心笔记",
     "notes": "创新/方法总结据旧笔记重新收敛表述；本轮未外部复核，不继承旧笔记的全球首创或超分辨绝对断言。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-015.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-015",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-061",
@@ -2705,7 +3703,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2023-02-04；正式卷期 2023 Apr。",
     "note_path": "papers/UFWI-061.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2023-02-04"
+    "epmc_publication_date": "2023-02-04",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-061",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-090",
@@ -2743,7 +3746,12 @@
     "group": "地球物理可迁移方法",
     "notes": "文章类型：正式期刊Comment。",
     "note_path": "papers/UFWI-090.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-090",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-108",
@@ -2790,7 +3798,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2023-05-14；正式卷期 2023 Aug。",
     "note_path": "papers/UFWI-108.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2023-05-14"
+    "epmc_publication_date": "2023-05-14",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-108",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-038",
@@ -2839,7 +3852,16 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2023-02-01；正式卷期 2023 May。",
     "note_path": "papers/UFWI-038.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2023-02-01"
+    "epmc_publication_date": "2023-02-01",
+    "review_note_20261004": "已有医学有限线形阵元建模，不把点源改线源本身当原创。",
+    "review_source_20261004": "https://doi.org/10.1016/j.ultrasmedbio.2022.12.004",
+    "verification_20261004": "primary_abstract",
+    "record_action": "review_existing",
+    "project_reading_rank_20261004": 6,
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-038",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-016",
@@ -2878,7 +3900,12 @@
     "group": "旧库核心笔记",
     "notes": "创新/方法总结据旧笔记重新收敛表述；本轮未外部复核，不继承旧笔记的全球首创或超分辨绝对断言。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-016.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-016",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-095",
@@ -2919,7 +3946,12 @@
     "group": "地球物理可迁移方法",
     "notes": "本轮核验；创新为文献贡献概括，迁移价值/局限含本库评估，不是全球首创证明。",
     "note_path": "papers/UFWI-095.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-095",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-151",
@@ -2965,7 +3997,12 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2023-06-29；卷期2023 Jul。",
     "note_path": "papers/UFWI-151.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2023-06-29"
+    "epmc_publication_date": "2023-06-29",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-151",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-126",
@@ -2979,7 +4016,6 @@
       "Tom Robins",
       "Matthieu Toulemonde",
       "Mike Warner",
-      "Meng-Xing Tang",
       "Meng-Xing Tang",
       "Oscar Calderón Agudo",
       "Lluis Guasch"
@@ -3015,7 +4051,12 @@
     "notes": "检索核验日期2026-09-26。online2022-07-25；2022-10卷48(10)。",
     "note_path": "papers/UFWI-126.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2022-07-25"
+    "epmc_publication_date": "2022-07-25",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-126",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-089",
@@ -3055,7 +4096,12 @@
     "group": "地球物理可迁移方法",
     "notes": "本轮核验；创新为文献贡献概括，迁移价值/局限含本库评估，不是全球首创证明。",
     "note_path": "papers/UFWI-089.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-089",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-096",
@@ -3099,7 +4145,12 @@
     "group": "地球物理可迁移方法",
     "notes": "本轮核验；创新为文献贡献概括，迁移价值/局限含本库评估，不是全球首创证明。",
     "note_path": "papers/UFWI-096.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-096",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-111",
@@ -3143,7 +4194,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2021-12-31；正式卷期 2022 Jan。",
     "note_path": "papers/UFWI-111.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2021-12-31"
+    "epmc_publication_date": "2021-12-31",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-111",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-087",
@@ -3185,7 +4241,12 @@
     "group": "地球物理可迁移方法",
     "notes": "本轮核验；创新为文献贡献概括，迁移价值/局限含本库评估，不是全球首创证明。",
     "note_path": "papers/UFWI-087.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-087",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-041",
@@ -3200,7 +4261,6 @@
       "Òscar Calderón Agudo",
       "Gerard Gorman",
       "Lluis Guasch",
-      "Meng-Xing Tang",
       "Meng-Xing Tang"
     ],
     "authors_complete": true,
@@ -3238,7 +4298,12 @@
     "notes": "检索核验日期2026-09-26。正式2022-05-04，卷221。存在2023 corrigendum doi10.1016/j.cmpb.2023.107710，应与原文一起查阅。",
     "note_path": "papers/UFWI-041.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2022-05-04"
+    "epmc_publication_date": "2022-05-04",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-041",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-107",
@@ -3287,7 +4352,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2022-11-24；正式卷期 2022 Dec。",
     "note_path": "papers/UFWI-107.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2022-11-24"
+    "epmc_publication_date": "2022-11-24",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-107",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-074",
@@ -3334,7 +4404,12 @@
     "notes": "检索核验日期2026-09-26。正式2021-07-03。",
     "note_path": "papers/UFWI-074.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2021-07-03"
+    "epmc_publication_date": "2021-07-03",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-074",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-036",
@@ -3345,7 +4420,6 @@
       "Javier Cudeiro",
       "Oscar Calderon Agudo",
       "Lluis Guasch",
-      "Meng-Xing Tang",
       "Meng-Xing Tang"
     ],
     "authors_complete": true,
@@ -3383,7 +4457,16 @@
     "notes": "检索核验日期2026-09-26。2020 online DOI，2021正式卷68(1):143–153。",
     "note_path": "papers/UFWI-036.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2020-12-23"
+    "epmc_publication_date": "2020-12-23",
+    "record_action": "inherited_without_new_review",
+    "weekly_class": "existing_reviewed",
+    "weekly_review_note": "现库Imperial SRI先例；本轮未新增全文核验，引用基库证据。",
+    "reviewed_at": "2026-10-08",
+    "record_action_20261008": "review_existing",
+    "project_reading_rank_20261008": 5,
+    "project_reading_reason_20261008": "SRI 发射与接收校准的经典对照；理解物理校准与自由逐道拟合的差别。",
+    "source_record_id": "UFWI-036",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-110",
@@ -3429,7 +4512,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2021-03-01；正式卷期 2021 Mar。",
     "note_path": "papers/UFWI-110.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2021-03-01"
+    "epmc_publication_date": "2021-03-01",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-110",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-017",
@@ -3475,7 +4563,12 @@
     "group": "Imperial及国际医学FWI",
     "notes": "检索核验日期2026-09-26。正式2020-11-19；已读Abstract/Methods/Discussion。",
     "note_path": "papers/UFWI-017.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-017",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-123",
@@ -3516,7 +4609,12 @@
     "group": "journals",
     "notes": "online2019，正式2020；原刊摘要/方法片段及PubMed31557647核验。",
     "note_path": "papers/UFWI-123.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-123",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-027",
@@ -3559,7 +4657,12 @@
     "group": "Imperial及国际医学FWI",
     "notes": "检索核验日期2026-09-26。正式2020-05卷147(5):3221–3235。",
     "note_path": "papers/UFWI-027.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-027",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-003",
@@ -3597,7 +4700,12 @@
     "group": "旧库核心笔记",
     "notes": "创新/方法总结据旧笔记重新收敛表述；本轮未外部复核，不继承旧笔记的全球首创或超分辨绝对断言。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-003.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-003",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-006",
@@ -3641,7 +4749,12 @@
     "group": "Imperial / 地球物理奠基",
     "notes": "本轮核验；创新为文献贡献概括，迁移价值/局限含本库评估，不是全球首创证明。",
     "note_path": "papers/UFWI-006.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-006",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-093",
@@ -3682,7 +4795,12 @@
     "group": "地球物理可迁移方法",
     "notes": "本轮核验；创新为文献贡献概括，迁移价值/局限含本库评估，不是全球首创证明。",
     "note_path": "papers/UFWI-093.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-093",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-012",
@@ -3720,7 +4838,96 @@
     "group": "旧库核心笔记",
     "notes": "创新/方法总结据旧笔记重新收敛表述；本轮未外部复核，不继承旧笔记的全球首创或超分辨绝对断言。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-012.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-012",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-163",
+    "title": "Robust full-waveform inversion with Radon-domain matching filter",
+    "year": 2019,
+    "authors": [
+      "Bingbing Sun",
+      "Tariq Alkhalifah"
+    ],
+    "venue": "Geophysics",
+    "doi": "10.1190/geo2018-0347.1",
+    "url": "https://doi.org/10.1190/geo2018-0347.1",
+    "publication_type": "journal",
+    "scope": "geophysical_method",
+    "weekly_class": "earlier_supplement",
+    "first_public_date": null,
+    "categories": [
+      "地球物理方法",
+      "journal",
+      "earlier_supplement"
+    ],
+    "innovation": "在局部τ–p域同斜率trace反褶积，减少不同波事件的matching-filter串扰。",
+    "methods": "local Radon transform；同斜率matching filter；零lag Dirac集中惩罚。",
+    "evidence": "modified Marmousi，无<3Hz；v(z)初值；Chevron2014benchmark；摘要已核。",
+    "limitations": "地震数值/benchmark；未证明环阵骨USCT几何等价；不能把变换本身当新。",
+    "relevance": "Radon-domain matching 的直接方法先例，宜连同几何、频带和结构验证条件阅读。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://doi.org/10.1190/geo2018-0347.1",
+      "https://api.crossref.org/works/10.1190/geo2018-0347.1",
+      "https://faculty.kaust.edu.sa/en/publications/robust-full-waveform-inversion-with-radon-domain-matching-filter",
+      "https://repository.kaust.edu.sa/bitstreams/fe9372aa-94e1-4c73-a7ee-c5dd8c7c60d8/download"
+    ],
+    "priority_hint": 1,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "KAUST机构记录给2019-05-14，Crossref版本online2019-08-12、issue2019-09-01；最早公开日不强行统一，均非本周。",
+    "retrieved_at": "2026-10-08",
+    "publication_status": "published_online",
+    "date_evidence": {
+      "published_online": {
+        "date-parts": [
+          [
+            2019,
+            8,
+            12
+          ]
+        ]
+      },
+      "published_print": {
+        "date-parts": [
+          [
+            2019,
+            9,
+            1
+          ]
+        ]
+      },
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            15
+          ]
+        ],
+        "date-time": "2019-05-15T02:28:13Z",
+        "timestamp": 1557887293000
+      },
+      "institution_date": "2019-05-14"
+    },
+    "formal_online_date": "2019-08-12",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-163.md",
+    "project_reading_rank_20261008": 6,
+    "project_reading_reason_20261008": "Radon-domain matching 的原始方法；核对匹配方向、归一化和局部 Radon 假设。",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "authors_complete": true,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N06",
+    "catalog_added_at": "2026-10-08",
+    "author_metadata_source": "Full author list checked against primary publication/arXiv/official IUS session records in the independent 2026-10-08 audit."
   },
   {
     "id": "UFWI-009",
@@ -3759,7 +4966,12 @@
     "notes": "创新/方法总结据旧笔记重新收敛表述；本轮未外部复核，不继承旧笔记的全球首创或超分辨绝对断言。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。 本轮已用Crossref出版社注册书目补核DOI/卷期年/作者；内容层级仍为旧笔记。",
     "note_path": "papers/UFWI-009.md",
     "verified_at": null,
-    "metadata_checked_at": "2026-09-26"
+    "metadata_checked_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-009",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-005",
@@ -3800,7 +5012,12 @@
     "notes": "创新/方法总结据旧笔记重新收敛表述；本轮未外部复核，不继承旧笔记的全球首创或超分辨绝对断言。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。 本轮已用Crossref出版社注册书目补核DOI/卷期年/作者；内容层级仍为旧笔记。",
     "note_path": "papers/UFWI-005.md",
     "verified_at": null,
-    "metadata_checked_at": "2026-09-26"
+    "metadata_checked_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-005",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-028",
@@ -3842,7 +5059,59 @@
     "group": "旧库三维加速专题",
     "notes": "沿用2026-08-29专题笔记；本轮未逐条重新打开外部来源，旧primary级别不继承。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。；旧专题将E. Iuanow扩写为Eric，首页不足以支持，现保留E. Iuanow。",
     "note_path": "papers/UFWI-028.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-028",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-154",
+    "title": "Salt Reconstruction in Full-Waveform Inversion with a Parametric Level-Set Method",
+    "authors": [
+      "Ajinkya Kadu",
+      "Tristan van Leeuwen",
+      "Wim A. Mulder"
+    ],
+    "year": 2017,
+    "venue": "IEEE Transactions on Computational Imaging",
+    "doi": "10.1109/TCI.2016.2640761",
+    "url": "https://arxiv.org/abs/1610.00251",
+    "publication_status": "published",
+    "publication_type": "journal",
+    "categories": [
+      "地球物理",
+      "几何参数化",
+      "level-set"
+    ],
+    "innovation": "以RBF参数化界面、减少几何自由度，并使背景与高对比体形状可联合估计。",
+    "methods": "parametric level set；已知高对比体声速；背景/形状优化",
+    "evidence": "地震合成模型",
+    "limitations": "高对比体已知声速等先验不能直接转移为未知骨声速；医学level-set已有先例。",
+    "verification": "primary_abstract",
+    "reading_priority": "P0：与医学先例成对阅读",
+    "source_urls": [
+      "https://arxiv.org/abs/1610.00251",
+      "https://research-portal.uu.nl/en/publications/salt-reconstruction-in-full-waveform-inversion-with-a-parametric-/"
+    ],
+    "verified_at": "2026-10-04",
+    "record_action": "new_candidate",
+    "note_path": "papers/UFWI-154.md",
+    "project_reading_rank_20261004": 2,
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "scope": "geophysical_method",
+    "relevance": "几何先验与 level-set 参数化的地球物理基线；应与医学骨先例成对阅读。",
+    "priority_hint": 2,
+    "group": "2026-10-04专题补漏",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "authors_complete": false,
+    "notes": "",
+    "source_record_id": "D20261004-01",
+    "catalog_added_at": "2026-10-04"
   },
   {
     "id": "UFWI-073",
@@ -3887,7 +5156,12 @@
     "group": "Imperial及国际医学FWI",
     "notes": "检索核验日期2026-09-26。正式2017-03-08。",
     "note_path": "papers/UFWI-073.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-073",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-010",
@@ -3929,7 +5203,12 @@
     "group": "Imperial / 地球物理奠基",
     "notes": "本轮核验；创新为文献贡献概括，迁移价值/局限含本库评估，不是全球首创证明。",
     "note_path": "papers/UFWI-010.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-010",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-001",
@@ -3967,7 +5246,12 @@
     "group": "旧库核心笔记",
     "notes": "创新/方法总结据旧笔记重新收敛表述；本轮未外部复核，不继承旧笔记的全球首创或超分辨绝对断言。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-001.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-001",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-030",
@@ -4013,7 +5297,56 @@
     "group": "journals",
     "notes": "主时间窗外奠基文献；读取作者稿方法和结论部分。",
     "note_path": "papers/UFWI-030.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-030",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-156",
+    "title": "The variable projection method for waveform inversion with an unknown source function",
+    "authors": [
+      "James Rickett"
+    ],
+    "year": 2013,
+    "venue": "Geophysical Prospecting",
+    "doi": "10.1111/1365-2478.12008",
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.12008",
+    "publication_status": "published",
+    "publication_type": "journal",
+    "categories": [
+      "地球物理",
+      "源估计",
+      "variable projection"
+    ],
+    "innovation": "把源波形内层最小二乘解作为介质的隐函数，与同时/交替更新比较。",
+    "methods": "separable nonlinear least squares；source elimination",
+    "evidence": "一维数值对照",
+    "limitations": "基础变量投影不是新颖贡献；任意源自由度可能吞噬介质运动学误差，需限制参数和独立验证。",
+    "verification": "primary_abstract",
+    "reading_priority": "P0：受限校准的数学基线",
+    "source_urls": [
+      "https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.12008"
+    ],
+    "verified_at": "2026-10-04",
+    "record_action": "new_candidate",
+    "note_path": "papers/UFWI-156.md",
+    "project_reading_rank_20261004": 5,
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "scope": "geophysical_method",
+    "relevance": "未知源波形消元的数学基线，用于分析介质和源的耦合。",
+    "priority_hint": 2,
+    "group": "2026-10-04专题补漏",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P1",
+    "authors_complete": false,
+    "notes": "",
+    "source_record_id": "D20261004-03",
+    "catalog_added_at": "2026-10-04"
   },
   {
     "id": "UFWI-024",
@@ -4050,7 +5383,86 @@
     "group": "旧库系统背景",
     "notes": "作者只列可靠首作者；完整作者请以正式文献为准。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-024.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-024",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-158",
+    "title": "An unsupervised physics-constrained velocity inversion method based on spectral normalization adversarial learning",
+    "year": 2026,
+    "authors": [
+      "Cong Wang",
+      "Xingguo Huang",
+      "Stewart Greenhalgh",
+      "S Mostafa Mousavi",
+      "Yunfeng Chen",
+      "Yue Li"
+    ],
+    "venue": "Geophysical Journal International",
+    "doi": "10.1093/gji/ggag418",
+    "url": "https://doi.org/10.1093/gji/ggag418",
+    "publication_type": "journal",
+    "scope": "geophysical_method",
+    "weekly_class": "weekly_new_publication",
+    "first_public_date": "2026-10-07",
+    "categories": [
+      "地球物理方法",
+      "journal",
+      "weekly_new_publication"
+    ],
+    "innovation": "用spectral normalization约束FWIGAN critic，替代插值点gradient penalty。",
+    "methods": "无监督物理约束FWI；Wasserstein对抗目标；逐层谱范数约束。",
+    "evidence": "Marmousi、Sigsbee数值试验；作者摘要已核。",
+    "limitations": "未核全文与同预算数值；无USCT、实测或骨实验。",
+    "relevance": "本周正式新文；不把换critic约束当USCT新物理方法。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://doi.org/10.1093/gji/ggag418",
+      "https://api.crossref.org/works/10.1093/gji/ggag418"
+    ],
+    "priority_hint": 3,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "",
+    "retrieved_at": "2026-10-08",
+    "publication_status": "accepted_manuscript_online",
+    "date_evidence": {
+      "published_online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            7
+          ]
+        ]
+      },
+      "published_print": null,
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            6
+          ]
+        ],
+        "date-time": "2026-10-06T11:34:57Z",
+        "timestamp": 1791286497000
+      }
+    },
+    "is_verified_weekly_first_publication": true,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-158.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P2",
+    "authors_complete": true,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N01",
+    "catalog_added_at": "2026-10-08",
+    "author_metadata_source": "Full author list checked against primary publication/arXiv/official IUS session records in the independent 2026-10-08 audit."
   },
   {
     "id": "UFWI-146",
@@ -4094,7 +5506,67 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2026-04-30；卷期2026 Apr。",
     "note_path": "papers/UFWI-146.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2026-04-30"
+    "epmc_publication_date": "2026-04-30",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-146",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-166",
+    "title": "Coarse-to-fine multi-resolution hash encoding for implicit full waveform inversion",
+    "year": 2026,
+    "authors": [
+      "Linrong Wang",
+      "Shaowen Wang",
+      "Fan Min",
+      "Tariq Alkhalifah"
+    ],
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2610.01081",
+    "url": "https://arxiv.org/abs/2610.01081",
+    "publication_type": "preprint",
+    "scope": "geophysical_method",
+    "weekly_class": "earlier_supplement",
+    "first_public_date": null,
+    "categories": [
+      "地球物理方法",
+      "preprint",
+      "earlier_supplement"
+    ],
+    "innovation": "逐步激活hash resolution levels并平滑fade-in，约束早期高波数。",
+    "methods": "coarse-to-fine IFWI；未激活level零梯度；随迭代增长模型容量而不增参数。",
+    "evidence": "Overthrust/BP2004模拟+Viking marine field；摘要已核。",
+    "limitations": "尚未核全文预算；地震，不是超声；model capacity schedule不等于实测低频。",
+    "relevance": "模型参数化渐进策略近邻；不能把粗到细神经参数化单独当原创。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://arxiv.org/abs/2610.01081"
+    ],
+    "priority_hint": 3,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "",
+    "retrieved_at": "2026-10-08",
+    "date_evidence": {
+      "submitted_utc": "2026-10-01T05:24:48Z",
+      "submitted_beijing": "2026-10-01T13:24:48+08:00"
+    },
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-166.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P2",
+    "authors_complete": false,
+    "publication_status": "preprint",
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N09",
+    "catalog_added_at": "2026-10-08",
+    "window_reference_date": "2026-10-01",
+    "first_public_date_verified": false,
+    "date_basis": "arXiv v1 submission history; exact first announcement timestamp not independently verified",
+    "date_timezone": "Asia/Shanghai"
   },
   {
     "id": "UFWI-141",
@@ -4138,7 +5610,12 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2026-07-02；卷期2026 Jul。 剪切波弹性FWI独立类别：观测剪切位移，目标弹性/黏度，不与USCT高频纵波声速分辨率直接排名。",
     "note_path": "papers/UFWI-141.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2026-07-02"
+    "epmc_publication_date": "2026-07-02",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-141",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-101",
@@ -4184,7 +5661,162 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2026-05-01；正式卷期 2026 May。",
     "note_path": "papers/UFWI-101.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2026-05-01"
+    "epmc_publication_date": "2026-05-01",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-101",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-174",
+    "title": "Differentiable Paraxial Full-Waveform Inversion for Fast Through-Transmission Speed-of-Sound Imaging",
+    "year": 2026,
+    "authors": [
+      "Jan-Willem Muller",
+      "Amir Gholampour",
+      "Gert Schoonenberg",
+      "Hans-Martin Schwab"
+    ],
+    "venue": "2026 IEEE International Ultrasonics Symposium (IUS)",
+    "doi": "",
+    "url": "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=8151",
+    "publication_type": "conference",
+    "scope": "medical_fwi",
+    "weekly_class": "weekly_conference_event",
+    "first_public_date": null,
+    "categories": [
+      "医学USCT/FWI",
+      "conference",
+      "weekly_conference_event"
+    ],
+    "innovation": "可微paraxial正演提高透射SoS重建速度。",
+    "methods": "JAX split-step wave solver；autodiff；8lineararrays环形几何。",
+    "evidence": "数字SoS phantom；mobile GPU约1min；in-vitro列未来工作。",
+    "limitations": "paraxial传播近似，不能等同全角/强骨弹性FWI；精度与适用角度须另核。",
+    "relevance": "计算近似与物理边界参考；不据1min宣称全波实时。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=8151",
+      "https://epapers2.org/ius2026/ESR/session_view.php?session_id=159"
+    ],
+    "priority_hint": 3,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "本周会议安排已核；首次公开/正式proceedings上线日与DOI未核，不能归入本周首次发表数量。",
+    "retrieved_at": "2026-10-08",
+    "event_date": "2026-10-07",
+    "conference_paper_id": "8151",
+    "publication_status": "conference_program_and_abstract",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-174.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P2",
+    "authors_complete": false,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N17",
+    "catalog_added_at": "2026-10-08"
+  },
+  {
+    "id": "UFWI-173",
+    "title": "Efficient Mini-Batch Full Waveform Inversion for Transcranial Ultrasound Computed Tomography Using Adam Optimization",
+    "year": 2026,
+    "authors": [
+      "Ekram Wendesen Melaku",
+      "Arun Kumar Thittai"
+    ],
+    "venue": "2026 IEEE International Ultrasonics Symposium (IUS)",
+    "doi": "",
+    "url": "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7994",
+    "publication_type": "conference",
+    "scope": "medical_fwi",
+    "weekly_class": "weekly_conference_event",
+    "first_public_date": null,
+    "categories": [
+      "医学USCT/FWI",
+      "conference",
+      "weekly_conference_event"
+    ],
+    "innovation": "Adam结合空间分散随机源mini-batch。",
+    "methods": "batch近似目标/伴随梯度；与full batch比较。",
+    "evidence": "出血stroke model数值；摘要。",
+    "limitations": "没有实测；总PDE solve budget/训练轮数公平性尚未核。",
+    "relevance": "设计等 shot-gradient 预算对照的参考；mini-batch 本身不是新概念。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7994",
+      "https://epapers2.org/ius2026/ESR/session_view.php?session_id=69"
+    ],
+    "priority_hint": 3,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "本周会议安排已核；首次公开/正式proceedings上线日与DOI未核，不能归入本周首次发表数量。",
+    "retrieved_at": "2026-10-08",
+    "event_date": "2026-10-06",
+    "conference_paper_id": "7994",
+    "publication_status": "conference_program_and_abstract",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-173.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P2",
+    "authors_complete": false,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N16",
+    "catalog_added_at": "2026-10-08"
+  },
+  {
+    "id": "UFWI-176",
+    "title": "Fourier Neural Operator-Enhanced Physics-Embedded Full Waveform Inversion for Transcranial Ultrasound Sound-Speed Measurement",
+    "year": 2026,
+    "authors": [
+      "Zixiao Guo",
+      "Mengru Hua",
+      "Kewei Xiao",
+      "Yiwei Yang",
+      "Qiude Zhang",
+      "Bo Ma"
+    ],
+    "venue": "2026 IEEE International Ultrasonics Symposium (IUS)",
+    "doi": "",
+    "url": "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=8424",
+    "publication_type": "conference",
+    "scope": "medical_fwi",
+    "weekly_class": "weekly_conference_event",
+    "first_public_date": null,
+    "categories": [
+      "医学USCT/FWI",
+      "conference",
+      "weekly_conference_event"
+    ],
+    "innovation": "FNO正演surrogate替换FCNN以缩小物理嵌入网络。",
+    "methods": "250×250声速映射64×64×2复数据；训练后嵌入反演网络。",
+    "evidence": "摘要报告RMSE0.0228、SSIM0.9947、0.0080s；实验类型与单位未明确。",
+    "limitations": "预训练成本、分布外/实测、原PDE残差未核；0.008s不是完整传统FWI计算。",
+    "relevance": "神经替代正演器近邻；其速度与误差指标仅适用于摘要披露的设置。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=8424",
+      "https://epapers2.org/ius2026/ESR/session_view.php?session_id=141"
+    ],
+    "priority_hint": 4,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "本周会议安排已核；首次公开/正式proceedings上线日与DOI未核，不能归入本周首次发表数量。",
+    "retrieved_at": "2026-10-08",
+    "event_date": "2026-10-06",
+    "conference_paper_id": "8424",
+    "publication_status": "conference_program_and_abstract",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-176.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P2",
+    "authors_complete": false,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N19",
+    "catalog_added_at": "2026-10-08"
   },
   {
     "id": "UFWI-105",
@@ -4232,7 +5864,99 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2025-10-16；正式卷期 2026 Mar。",
     "note_path": "papers/UFWI-105.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2025-10-16"
+    "epmc_publication_date": "2025-10-16",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-105",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-159",
+    "title": "Inversion of elastic properties of stratified layered media using elastic direct waveform inversion",
+    "year": 2026,
+    "authors": [
+      "Zhonghan Liu",
+      "Yuesu Jin",
+      "Zhenning Ba",
+      "Yingcai Zheng",
+      "Chonglang Wang"
+    ],
+    "venue": "Geophysics",
+    "doi": "10.1190/geo-2025-0147",
+    "url": "https://doi.org/10.1190/geo-2025-0147",
+    "publication_type": "journal",
+    "scope": "geophysical_method",
+    "weekly_class": "earlier_supplement",
+    "first_public_date": "2026-09-15",
+    "categories": [
+      "地球物理方法",
+      "journal",
+      "weekly_new_publication"
+    ],
+    "innovation": "利用时空因果将分层弹性全局非线性反演化为由浅到深递推。",
+    "methods": "stiffness matrix分解上/下行P/S；利用P-P与P-S反射事件局部递推eDWI。",
+    "evidence": "分层弹性介质两组数值例；平面波/点源；作者报告缺少低频时仍有效。",
+    "limitations": "强分层假设；不是一般二维骨几何验证。出版社明确首次上线2026-09-15，Crossref登记的10/6为后续日期冲突，不能计本周首次发表。",
+    "relevance": "用于比较因果/事件分解与分层参数更新的地球物理参考。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://doi.org/10.1190/geo-2025-0147",
+      "https://api.crossref.org/works/10.1190/geo-2025-0147"
+    ],
+    "priority_hint": 3,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "；独立审阅修正：出版商 First Online 2026-09-15，10/6不能当首次上线，归早期补漏。",
+    "retrieved_at": "2026-10-08",
+    "publication_status": "published_online",
+    "date_evidence": {
+      "published_online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            6
+          ]
+        ]
+      },
+      "published_print": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      },
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            15
+          ]
+        ],
+        "date-time": "2026-09-15T20:19:29Z",
+        "timestamp": 1789503569000
+      }
+    },
+    "is_verified_weekly_first_publication": false,
+    "formal_online_date": "2026-09-15",
+    "date_resolution": {
+      "preferred": "publisher First Online 15 Sep 2026",
+      "conflict": "Crossref online 2026-10-06 retained verbatim in date_evidence; later page/version date is not first online",
+      "source": "https://pubs.geoscienceworld.org/seg/geophysics/article-abstract/91/6/R317/782916/Inversion-of-elastic-properties-of-stratified?redirectedFrom=fulltext"
+    },
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-159.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P2",
+    "authors_complete": true,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N02",
+    "catalog_added_at": "2026-10-08",
+    "author_metadata_source": "Full author list checked against primary publication/arXiv/official IUS session records in the independent 2026-10-08 audit."
   },
   {
     "id": "UFWI-140",
@@ -4282,7 +6006,132 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2026-01-25；卷期2026 Jul。",
     "note_path": "papers/UFWI-140.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2026-01-25"
+    "epmc_publication_date": "2026-01-25",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-140",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-180",
+    "title": "Minimum Transmit Sampling for Resolution Preservation in Ultrasound Tomography",
+    "year": 2026,
+    "authors": [
+      "Soheil Hakakzadeh",
+      "Mohammad Mehrmohammadi"
+    ],
+    "venue": "2026 IEEE International Ultrasonics Symposium (IUS)",
+    "doi": "",
+    "url": "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7242",
+    "publication_type": "conference",
+    "scope": "adjacent_ultrasound",
+    "weekly_class": "weekly_conference_event",
+    "first_public_date": null,
+    "categories": [
+      "相邻超声方法",
+      "conference",
+      "weekly_conference_event"
+    ],
+    "innovation": "根据散射、指向性和ROI角范围推reflection UCT最少TX。",
+    "methods": "Rayleigh regime有效角采样；512ring、R4cm、5MHz。",
+    "evidence": "hex-key phantom与in-vivo rat；ROI比0.5/0.25预测32/16shots。",
+    "limitations": "reflection 成像的分辨率标准不等于 FWI 参数可辨识；5 MHz 设置需与具体目标频带分别比较。",
+    "relevance": "稀疏采样的几何边界补充；不把32shots移植为FWI通用最低数。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7242",
+      "https://epapers2.org/ius2026/ESR/session_view.php?session_id=146"
+    ],
+    "priority_hint": 3,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "本周会议安排已核；首次公开/正式proceedings上线日与DOI未核，不能归入本周首次发表数量。",
+    "retrieved_at": "2026-10-08",
+    "event_date": "2026-10-07",
+    "conference_paper_id": "7242",
+    "publication_status": "conference_program_and_abstract",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-180.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P2",
+    "authors_complete": false,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N23",
+    "catalog_added_at": "2026-10-08"
+  },
+  {
+    "id": "UFWI-160",
+    "title": "Multi-Parameter Viscoelastic Full Waveform Inversion (Q-FWI) for CO2 Saturation Monitoring: Leveraging Velocity and Attenuation Attributes",
+    "year": 2026,
+    "authors": [
+      "Sohini Dasgupta",
+      "Yujiang Xie",
+      "Mrinal K. Sen",
+      "Bhargav Boddupalli"
+    ],
+    "venue": "Interpretation",
+    "doi": "10.1190/int-2025-1037",
+    "url": "https://doi.org/10.1190/int-2025-1037",
+    "publication_type": "journal",
+    "scope": "geophysical_method",
+    "weekly_class": "weekly_new_publication",
+    "first_public_date": "2026-10-07",
+    "categories": [
+      "地球物理方法",
+      "journal",
+      "weekly_new_publication"
+    ],
+    "innovation": "将分阶段粘弹性FWI与岩石物理结合推断CO2饱和度。",
+    "methods": "顺序Vp、Vs、density，再联合Qκ、Qμ；modified-CPET连接饱和度。",
+    "evidence": "synthetic Sleipner，multi-component OBN；不是现场注入资料FWI验证。",
+    "limitations": "地球物理岩石模型和多分量弹性设置不可直接用于USCT。",
+    "relevance": "可借鉴参数敏感度分阶段更新；没有直接医学适用性证据。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://doi.org/10.1190/int-2025-1037",
+      "https://api.crossref.org/works/10.1190/int-2025-1037"
+    ],
+    "priority_hint": 4,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "",
+    "retrieved_at": "2026-10-08",
+    "publication_status": "published_online",
+    "date_evidence": {
+      "published_online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            7
+          ]
+        ]
+      },
+      "published_print": null,
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            7
+          ]
+        ],
+        "date-time": "2026-10-07T12:43:21Z",
+        "timestamp": 1791377001000
+      }
+    },
+    "is_verified_weekly_first_publication": true,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-160.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P2",
+    "authors_complete": true,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N03",
+    "catalog_added_at": "2026-10-08",
+    "author_metadata_source": "Full author list checked against primary publication/arXiv/official IUS session records in the independent 2026-10-08 audit."
   },
   {
     "id": "UFWI-130",
@@ -4323,7 +6172,62 @@
     "group": "Imperial及国际医学FWI",
     "notes": "检索核验日期2026-09-26。v1 2026-03-04，v2 2026-03-06；未查到对应正式版。",
     "note_path": "papers/UFWI-130.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-130",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-175",
+    "title": "Physics-Constrained Data-Driven Transcranial Ultrasound Full Waveform Inversion with Realistic 3D Acoustic Simulation",
+    "year": 2026,
+    "authors": [
+      "Yinan Feng",
+      "Mohammad Mehrmohammadi",
+      "Yan Yan",
+      "Youzuo Lin"
+    ],
+    "venue": "2026 IEEE International Ultrasonics Symposium (IUS)",
+    "doi": "",
+    "url": "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=8417",
+    "publication_type": "conference",
+    "scope": "medical_fwi",
+    "weekly_class": "weekly_conference_event",
+    "first_public_date": null,
+    "categories": [
+      "医学USCT/FWI",
+      "conference",
+      "weekly_conference_event"
+    ],
+    "innovation": "结合realistic3D skull模拟与physics-consistent learning。",
+    "methods": "作者摘要未披露具体network、损失及实验规模。",
+    "evidence": "仅摘要概念与动机；未给可验证实验结果。",
+    "limitations": "不能由标题推断实测、弹性mode conversion或三维反演已验证。",
+    "relevance": "本周会议观察项，证据较弱，不进必读首位。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=8417",
+      "https://epapers2.org/ius2026/ESR/session_view.php?session_id=110"
+    ],
+    "priority_hint": 4,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "本周会议安排已核；首次公开/正式proceedings上线日与DOI未核，不能归入本周首次发表数量。",
+    "retrieved_at": "2026-10-08",
+    "event_date": "2026-10-05",
+    "conference_paper_id": "8417",
+    "publication_status": "conference_program_and_abstract",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-175.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P2",
+    "authors_complete": false,
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N18",
+    "catalog_added_at": "2026-10-08"
   },
   {
     "id": "UFWI-135",
@@ -4369,7 +6273,122 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2026-05-26；卷期2026 May。 剪切波弹性FWI独立类别：观测剪切位移，目标弹性/黏度，不与USCT高频纵波声速分辨率直接排名。",
     "note_path": "papers/UFWI-135.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2026-05-26"
+    "epmc_publication_date": "2026-05-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-135",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-161",
+    "title": "Robust Ensemble Guidance for Scientific Inverse Problems",
+    "year": 2026,
+    "authors": [
+      "Zixiang Li",
+      "Wei Wang",
+      "Yunchao Wei",
+      "Yao Zhao",
+      "Yue Song"
+    ],
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2610.05371",
+    "url": "https://arxiv.org/abs/2610.05371",
+    "publication_type": "preprint",
+    "scope": "geophysical_method",
+    "weekly_class": "weekly_new_publication",
+    "first_public_date": null,
+    "categories": [
+      "地球物理方法",
+      "preprint",
+      "weekly_new_publication"
+    ],
+    "innovation": "对ensemble guidance做预测离散度加权与标准化残差自适应裁剪。",
+    "methods": "预训练diffusion prior+黑盒正演；复用已有粒子与预测；线性Gaussian局部风险分析。",
+    "evidence": "Navier–Stokes、黑洞、acoustic FWI数值任务；摘要已核。",
+    "limitations": "依赖预训练扩散与ensemble；不因两项校正无额外正演就认为整个反演廉价；无USCT证据。",
+    "relevance": "跟踪生成式反演的鲁棒数据校正；评估完整正演成本与先验依赖。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://arxiv.org/abs/2610.05371"
+    ],
+    "priority_hint": 3,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "；本周/边界分类依arXiv v1提交记录，北京时间已换算；未将精确提交时刻冒充首次公告时刻。",
+    "retrieved_at": "2026-10-08",
+    "preprint_version": "v1",
+    "date_evidence": {
+      "submitted_utc": "2026-10-04T16:54:37Z",
+      "submitted_beijing": "2026-10-05T00:54:37+08:00"
+    },
+    "is_verified_weekly_first_publication": false,
+    "submission_timestamp_utc": "2026-10-04T16:54:37+00:00",
+    "submission_timestamp_beijing": "2026-10-05T00:54:37+08:00",
+    "date_basis": "arXiv v1 submission history; exact first announcement timestamp not independently verified",
+    "date_timezone": "Asia/Shanghai",
+    "first_public_date_verified": false,
+    "window_reference_date": "2026-10-05",
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-161.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P2",
+    "authors_complete": true,
+    "publication_status": "preprint",
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N04",
+    "catalog_added_at": "2026-10-08",
+    "author_metadata_source": "Full author list checked against primary publication/arXiv/official IUS session records in the independent 2026-10-08 audit."
+  },
+  {
+    "id": "UFWI-169",
+    "title": "Structure-dependent failure modes of neural priors in acoustic full-waveform inversion",
+    "year": 2026,
+    "authors": [
+      "Ziye Yu",
+      "Xin Liu",
+      "Yuqi Cai"
+    ],
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2609.31251",
+    "url": "https://arxiv.org/abs/2609.31251",
+    "publication_type": "preprint",
+    "scope": "geophysical_method",
+    "weekly_class": "earlier_supplement",
+    "first_public_date": null,
+    "categories": [
+      "地球物理方法",
+      "preprint",
+      "earlier_supplement"
+    ],
+    "innovation": "并列模型恢复、未见shot预测和等预算负结果，显示神经先验结构依赖。",
+    "methods": "固定SWEEP离散，1500 shot–model gradients；Grid+TV/SIREN/frozen generator+fullgrid residual；2–10Hz。",
+    "evidence": "三个公开synthetic targets；generative residual部分RMSE较好但Grid+TV的holdout waveform更好；摘要核验。",
+    "limitations": "3个exposed合成样本不足通用机制结论；fullgrid residual妨碍归因于generator。",
+    "relevance": "支持同时报告留出预测、结构误差、等预算对照与负结果；不是 USCT 实测。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://arxiv.org/abs/2609.31251"
+    ],
+    "priority_hint": 3,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "",
+    "retrieved_at": "2026-10-08",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-169.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P2",
+    "authors_complete": false,
+    "publication_status": "preprint",
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N12",
+    "catalog_added_at": "2026-10-08",
+    "window_reference_date": "2026-09-25",
+    "first_public_date_verified": false,
+    "date_basis": "arXiv v1 submission history; exact first announcement timestamp not independently verified",
+    "date_timezone": "UTC"
   },
   {
     "id": "UFWI-129",
@@ -4408,7 +6427,12 @@
     "group": "Imperial及国际医学FWI",
     "notes": "检索核验日期2026-09-26。v1 2026-04-17；未查到对应正式版。",
     "note_path": "papers/UFWI-129.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-129",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-092",
@@ -4451,7 +6475,12 @@
     "group": "地球物理可迁移方法",
     "notes": "本轮核验；创新为文献贡献概括，迁移价值/局限含本库评估，不是全球首创证明。",
     "note_path": "papers/UFWI-092.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-092",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-042",
@@ -4497,7 +6526,12 @@
     "group": "Imperial及国际医学FWI",
     "notes": "检索核验日期2026-09-26。online2025-11-25，正式2026卷73(1):3–13；不应混写为TUFFC期刊名。",
     "note_path": "papers/UFWI-042.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-042",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-137",
@@ -4541,7 +6575,65 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2026-06-07；卷期2026 Nov。",
     "note_path": "papers/UFWI-137.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2026-06-07"
+    "epmc_publication_date": "2026-06-07",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-137",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-167",
+    "title": "Ultrasound computer tomography using single-element directivity measurements",
+    "year": 2026,
+    "authors": [
+      "Nathan Meulenbroek",
+      "Samuel Pichardo"
+    ],
+    "venue": "Journal of Medical Imaging",
+    "doi": "10.1117/1.jmi.13.5.057001",
+    "url": "https://doi.org/10.1117/1.JMI.13.5.057001",
+    "publication_type": "journal",
+    "scope": "adjacent_ultrasound",
+    "weekly_class": "earlier_supplement",
+    "first_public_date": "2026-10-01",
+    "categories": [
+      "相邻超声方法",
+      "journal",
+      "earlier_supplement"
+    ],
+    "innovation": "用direction-of-arrival而非TOF进行弯曲射线声速重建。",
+    "methods": "单元DOA测量；bent-ray UCT；viscoelastic FDTD生成数据；128环阵。",
+    "evidence": "2D Shepp–Logan及乳腺数字phantom；350/600kHz操作频率；作者摘要已核。",
+    "limitations": "不是FWI或源/RX校准；没有实测；10/2是PubMed录入，10/1为电子发表；Sepissue日不能解释成真正9/1online。",
+    "relevance": "DOA/几何信息可作邻近初值思路；不计本周新文。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://doi.org/10.1117/1.JMI.13.5.057001",
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:42825011&format=json&resultType=core"
+    ],
+    "priority_hint": 4,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "",
+    "retrieved_at": "2026-10-08",
+    "date_evidence": {
+      "electronic_publication": "2026-10-01",
+      "issue": "2026-09",
+      "pubmed_creation": "2026-10-02",
+      "first_index": "2026-10-03"
+    },
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-167.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P2",
+    "authors_complete": true,
+    "publication_status": "published",
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N10",
+    "catalog_added_at": "2026-10-08",
+    "author_metadata_source": "Full author list checked against primary publication/arXiv/official IUS session records in the independent 2026-10-08 audit."
   },
   {
     "id": "UFWI-023",
@@ -4578,7 +6670,12 @@
     "group": "旧库系统背景",
     "notes": "作者只列可靠首作者；完整作者请以正式文献为准。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-023.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-023",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-106",
@@ -4624,7 +6721,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2025-04-25；正式卷期 2025 Jul。",
     "note_path": "papers/UFWI-106.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2025-04-25"
+    "epmc_publication_date": "2025-04-25",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-106",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-149",
@@ -4669,7 +6771,12 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2025-02-28；卷期2025 Apr。",
     "note_path": "papers/UFWI-149.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2025-02-28"
+    "epmc_publication_date": "2025-02-28",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-149",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-045",
@@ -4705,7 +6812,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-045.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-045",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-139",
@@ -4749,7 +6861,12 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2025-04-01；卷期2025 Apr。 剪切波弹性FWI独立类别：观测剪切位移，目标弹性/黏度，不与USCT高频纵波声速分辨率直接排名。",
     "note_path": "papers/UFWI-139.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2025-04-01"
+    "epmc_publication_date": "2025-04-01",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-139",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-052",
@@ -4786,7 +6903,73 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-052.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-052",
+    "catalog_added_at": "2026-09-26"
+  },
+  {
+    "id": "UFWI-168",
+    "title": "OpenBreastUS: Benchmarking Neural Operators for Wave Imaging Using Breast Ultrasound Computed Tomography",
+    "year": 2025,
+    "authors": [
+      "Zhijun Zeng",
+      "Youjia Zheng",
+      "Hao Hu",
+      "Zeyuan Dong",
+      "Yihang Zheng",
+      "Xinliang Liu",
+      "Jinzhuo Wang",
+      "Zuoqiang Shi",
+      "Linfeng Zhang",
+      "Yubing Li",
+      "He Sun"
+    ],
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2507.15035",
+    "url": "https://arxiv.org/abs/2507.15035",
+    "publication_type": "preprint",
+    "scope": "medical_fwi",
+    "weekly_class": "earlier_supplement",
+    "first_public_date": null,
+    "categories": [
+      "医学USCT/FWI",
+      "preprint",
+      "earlier_supplement"
+    ],
+    "innovation": "提供解剖乳腺场景neural wave operator benchmark及inverse imaging评测。",
+    "methods": "8000phantoms；超过1600万frequency-domain simulations；forward/inverse neural operator benchmark。",
+    "evidence": "摘要称in-vivo human breast示范；仅摘要与版本页核验，未核训练集独立性。",
+    "limitations": "依赖大规模模拟数据与预训练；神经正演 benchmark 不等于传统 PDE FWI 的独立验证。",
+    "relevance": "李玉冰团队此前漏项；数据方法库可收，非本周更新。",
+    "verification": "primary_abstract",
+    "source_urls": [
+      "https://arxiv.org/abs/2507.15035",
+      "https://ai4scientificimaging.org/OpenBreastUS/"
+    ],
+    "priority_hint": 3,
+    "group": "2026-10-02至10-08周检索",
+    "notes": "",
+    "retrieved_at": "2026-10-08",
+    "preprint_version": "v1",
+    "is_verified_weekly_first_publication": false,
+    "record_action_20261008": "new_record",
+    "note_path": "papers/UFWI-168.md",
+    "rank": null,
+    "ranking_reason": "",
+    "priority": "P2",
+    "authors_complete": true,
+    "publication_status": "preprint",
+    "verified_at": "2026-10-08",
+    "source_record_id": "WL20261008-N11",
+    "catalog_added_at": "2026-10-08",
+    "window_reference_date": "2025-07-20",
+    "first_public_date_verified": false,
+    "date_basis": "arXiv v1 submission history; exact first announcement timestamp not independently verified",
+    "date_timezone": "UTC",
+    "author_metadata_source": "Full author list checked against primary publication/arXiv/official IUS session records in the independent 2026-10-08 audit."
   },
   {
     "id": "UFWI-054",
@@ -4835,7 +7018,12 @@
     "notes": "摘要性创新总结不包含全球首创判断。已核对原论文首页及Crossref出版社注册书目中的DOI、卷期年与作者；内容层级仍为历史笔记，未据书目补核上调。",
     "note_path": "papers/UFWI-054.md",
     "verified_at": null,
-    "metadata_checked_at": "2026-09-26"
+    "metadata_checked_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-054",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-044",
@@ -4871,7 +7059,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-044.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-044",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-086",
@@ -4907,7 +7100,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-086.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-086",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-050",
@@ -4943,7 +7141,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-050.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-050",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-144",
@@ -4990,7 +7193,12 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2024-06-20；卷期2024 Jun。",
     "note_path": "papers/UFWI-144.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2024-06-20"
+    "epmc_publication_date": "2024-06-20",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-144",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-143",
@@ -5034,7 +7242,12 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2024-06-20；卷期2024 Jun。",
     "note_path": "papers/UFWI-143.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2024-06-20"
+    "epmc_publication_date": "2024-06-20",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-143",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-079",
@@ -5070,7 +7283,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-079.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-079",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-109",
@@ -5116,7 +7334,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2024-11-27；正式卷期 2024 Nov。",
     "note_path": "papers/UFWI-109.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2024-11-27"
+    "epmc_publication_date": "2024-11-27",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-109",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-078",
@@ -5152,7 +7375,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-078.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-078",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-150",
@@ -5196,7 +7424,12 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2024-12-11；卷期2024 Dec。 剪切波弹性FWI独立类别：观测剪切位移，目标弹性/黏度，不与USCT高频纵波声速分辨率直接排名。",
     "note_path": "papers/UFWI-150.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2024-12-11"
+    "epmc_publication_date": "2024-12-11",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-150",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-080",
@@ -5232,7 +7465,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-080.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-080",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-085",
@@ -5268,7 +7506,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-085.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-085",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-066",
@@ -5305,7 +7548,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-066.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-066",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-083",
@@ -5341,7 +7589,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-083.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-083",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-147",
@@ -5385,7 +7638,12 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2024-07-01；卷期2024 Jul。",
     "note_path": "papers/UFWI-147.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2024-07-01"
+    "epmc_publication_date": "2024-07-01",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-147",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-081",
@@ -5421,7 +7679,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-081.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-081",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-071",
@@ -5457,7 +7720,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-071.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-071",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-060",
@@ -5494,7 +7762,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-060.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-060",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-067",
@@ -5529,7 +7802,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-067.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-067",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-077",
@@ -5565,7 +7843,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-077.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-077",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-070",
@@ -5601,7 +7884,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-070.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-070",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-072",
@@ -5635,7 +7923,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-072.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-072",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-058",
@@ -5671,7 +7964,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-058.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-058",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-145",
@@ -5716,7 +8014,12 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2023-12-18；卷期2023 Dec。",
     "note_path": "papers/UFWI-145.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2023-12-18"
+    "epmc_publication_date": "2023-12-18",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-145",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-076",
@@ -5753,7 +8056,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-076.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-076",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-068",
@@ -5789,7 +8097,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-068.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-068",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-075",
@@ -5825,7 +8138,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-075.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-075",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-132",
@@ -5869,7 +8187,12 @@
     "group": "Imperial及国际医学FWI",
     "notes": "检索核验日期2026-09-26。online2023-02-24，卷30(11):2674–2685；scope按全文逆散射系统路线列medical_fwi，技术强度低于完整PDE-FWI。",
     "note_path": "papers/UFWI-132.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-132",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-148",
@@ -5915,7 +8238,12 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2022-07-01；卷期2022 Jul。 前作关联10.1016/j.ultras.2024.107392；本条保留会议类型。",
     "note_path": "papers/UFWI-148.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2022-07-01"
+    "epmc_publication_date": "2022-07-01",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-148",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-153",
@@ -5957,7 +8285,12 @@
     "notes": "仅核验EuropePMC缓存中完整作者摘要和书目；未全文精读。最早公开2022-03-11；卷期2022 Mar。",
     "note_path": "papers/UFWI-153.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2022-03-11"
+    "epmc_publication_date": "2022-03-11",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-153",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-020",
@@ -5997,7 +8330,12 @@
     "group": "旧库核心笔记",
     "notes": "创新/方法总结据旧笔记重新收敛表述；本轮未外部复核，不继承旧笔记的全球首创或超分辨绝对断言。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-020.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-020",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-046",
@@ -6039,7 +8377,12 @@
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-046.md",
     "verified_at": null,
-    "epmc_publication_date": "2022-01-01"
+    "epmc_publication_date": "2022-01-01",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-046",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-112",
@@ -6081,7 +8424,12 @@
     "notes": "核验作者原始摘要（出版社页面或PubMed/EuropePMC原文摘要）；非全文精读。最早公开日 2021-11-23；正式卷期 2021 Dec。",
     "note_path": "papers/UFWI-112.md",
     "verified_at": "2026-09-26",
-    "epmc_publication_date": "2021-11-23"
+    "epmc_publication_date": "2021-11-23",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-112",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-063",
@@ -6117,7 +8465,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-063.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-063",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-094",
@@ -6157,7 +8510,12 @@
     "group": "地球物理可迁移方法",
     "notes": "本轮核验；创新为文献贡献概括，迁移价值/局限含本库评估，不是全球首创证明。",
     "note_path": "papers/UFWI-094.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-094",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-021",
@@ -6204,7 +8562,12 @@
     "group": "旧库核心笔记",
     "notes": "创新/方法总结据旧笔记重新收敛表述；本轮未外部复核，不继承旧笔记的全球首创或超分辨绝对断言。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-021.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-021",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-065",
@@ -6241,7 +8604,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-065.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-065",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-053",
@@ -6277,7 +8645,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-053.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-053",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-133",
@@ -6318,7 +8691,12 @@
     "group": "Imperial及国际医学FWI",
     "notes": "检索核验日期2026-09-26。会议2017-11-01；书目有2018出版记录可能，保留会议年份2017。",
     "note_path": "papers/UFWI-133.md",
-    "verified_at": "2026-09-26"
+    "verified_at": "2026-09-26",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-133",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-049",
@@ -6354,7 +8732,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-049.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-049",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-051",
@@ -6390,7 +8773,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-051.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-051",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-057",
@@ -6426,7 +8814,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-057.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-057",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-048",
@@ -6462,7 +8855,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-048.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-048",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-047",
@@ -6498,7 +8896,12 @@
     "group": "旧清单PDF身份恢复",
     "notes": "作者通常仅列首页可靠首作者，不代表完整作者表；摘要性创新总结不包含全球首创判断。；本地PDF前1–2页的首页题名/DOI已核对，未据此上调外部证据等级。",
     "note_path": "papers/UFWI-047.md",
-    "verified_at": null
+    "verified_at": null,
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-047",
+    "catalog_added_at": "2026-09-26"
   },
   {
     "id": "UFWI-117",
@@ -6542,6 +8945,11 @@
     "notes": "WITHDRAWN / superseded_by=10.48550/arXiv.2508.12226；从主阅读排名排除。",
     "note_path": "papers/UFWI-117.md",
     "verified_at": "2026-09-26",
-    "related_work": "10.48550/arXiv.2508.12226"
+    "related_work": "10.48550/arXiv.2508.12226",
+    "record_action": "inherited_without_new_review",
+    "record_action_20261008": "inherited_without_new_review",
+    "weekly_class": "existing_not_reviewed",
+    "source_record_id": "UFWI-117",
+    "catalog_added_at": "2026-09-26"
   }
 ]

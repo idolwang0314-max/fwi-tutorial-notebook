@@ -23,12 +23,13 @@ No prior FWI knowledge required — concepts are introduced as they show up.
 
 ## Ultrasound FWI literature library / 超声 FWI 文献库
 
-[Browse the literature library](literature/ultrasound-fwi/README.md): **151 records**
+[Browse the literature library](literature/ultrasound-fwi/README.md): **179 records**
 with contributions, methods, validation evidence, limitations, and public sources.
 The Chinese research review combines earlier literature work with searches through
-**September 26, 2026**, focusing on Ultrasonics, IEEE TUFFC/TUSON, Geophysics/GJI,
+**October 8, 2026**, focusing on Ultrasonics, IEEE TUFFC/TUSON, Geophysics/GJI,
 Imperial College, and Yubing Li.
 
+- [本周更新](literature/ultrasound-fwi/WEEKLY_REVIEW_CN.md) · [12 篇专题顺序](literature/ultrasound-fwi/PROJECT_READING_20261008.md)
 - [研究综述](literature/ultrasound-fwi/REVIEW_CN.md) · [26 篇精读排序](literature/ultrasound-fwi/READING_RANKING.md)
 - [总索引](literature/ultrasound-fwi/INDEX.md) · [分类](literature/ultrasound-fwi/CLASSIFICATION.md) · [作者路线](literature/ultrasound-fwi/AUTHOR_MAP.md)
 - [CSV](literature/ultrasound-fwi/library.csv) · [BibTeX](literature/ultrasound-fwi/references.bib) · [JSON](literature/ultrasound-fwi/library.json)

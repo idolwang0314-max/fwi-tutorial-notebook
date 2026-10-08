@@ -1,0 +1,341 @@
+{
+  "audited_at": "2026-10-08T15:57:09.057370+00:00",
+  "review_status": "WARN_resolved_for_public_merge",
+  "public_count": 179,
+  "incremental_new_records": 28,
+  "weekly_new_records": 24,
+  "existing_reviewed_records": 9,
+  "excluded_or_unverified": 8,
+  "weekly_classes": {
+    "weekly_new_publication": 3,
+    "earlier_supplement": 8,
+    "weekly_boundary_preprint": 1,
+    "weekly_conference_event": 12
+  },
+  "corrections_applied": [
+    "eDWI first_online=2026-09-15 and earlier_supplement, including limitations text",
+    "Accepted manuscript status retained for ggag418",
+    "ggag376 print conflict preserved separately",
+    "arXiv submission timestamps separated from first-publication confirmation",
+    "7 public author arrays deduplicated preserving order"
+  ],
+  "record_checks": [
+    {
+      "title": "An unsupervised physics-constrained velocity inversion method based on spectral normalization adversarial learning",
+      "doi": "10.1093/gji/ggag418",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_publisher_metadata_and_abstract",
+      "official_sources": [
+        "https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggag418/8875690?searchresult=1"
+      ],
+      "weekly_class_after_review": "weekly_new_publication",
+      "source_record_id": "WL20261008-N01",
+      "id": "UFWI-158"
+    },
+    {
+      "title": "Inversion of elastic properties of stratified layered media using elastic direct waveform inversion",
+      "doi": "10.1190/geo-2025-0147",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_publisher_metadata_and_abstract",
+      "official_sources": [
+        "https://pubs.geoscienceworld.org/seg/geophysics/article-abstract/91/6/R317/782916/Inversion-of-elastic-properties-of-stratified?redirectedFrom=fulltext"
+      ],
+      "weekly_class_after_review": "earlier_supplement",
+      "source_record_id": "WL20261008-N02",
+      "id": "UFWI-159"
+    },
+    {
+      "title": "Multi-Parameter Viscoelastic Full Waveform Inversion (Q-FWI) for CO2 Saturation Monitoring: Leveraging Velocity and Attenuation Attributes",
+      "doi": "10.1190/int-2025-1037",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_publisher_metadata_and_abstract",
+      "official_sources": [
+        "https://api.crossref.org/works/10.1190/int-2025-1037",
+        "https://pubs.geoscienceworld.org/interpretation/article/doi/10.1190/INT-2025-1037/789688/Multi-Parameter-Viscoelastic-Full-Waveform"
+      ],
+      "weekly_class_after_review": "weekly_new_publication",
+      "source_record_id": "WL20261008-N03",
+      "id": "UFWI-160"
+    },
+    {
+      "title": "Robust Ensemble Guidance for Scientific Inverse Problems",
+      "doi": "10.48550/arxiv.2610.05371",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_preprint_metadata_and_abstract",
+      "official_sources": [
+        "https://arxiv.org/abs/2610.05371"
+      ],
+      "weekly_class_after_review": "weekly_new_publication",
+      "source_record_id": "WL20261008-N04",
+      "id": "UFWI-161"
+    },
+    {
+      "title": "Towards 3D fully randomized frequency-domain reconstruction of the speed of sound in breast ultrasound computed tomography",
+      "doi": "10.48550/arxiv.2610.01930",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_fulltext_targeted",
+      "official_sources": [
+        "https://arxiv.org/abs/2610.01930",
+        "https://arxiv.org/html/2610.01930v1"
+      ],
+      "weekly_class_after_review": "weekly_boundary_preprint",
+      "source_record_id": "WL20261008-N05",
+      "id": "UFWI-162"
+    },
+    {
+      "title": "Robust full-waveform inversion with Radon-domain matching filter",
+      "doi": "10.1190/geo2018-0347.1",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_publisher_metadata_and_abstract",
+      "official_sources": [
+        "https://faculty.kaust.edu.sa/en/publications/robust-full-waveform-inversion-with-radon-domain-matching-filter",
+        "https://repository.kaust.edu.sa/bitstreams/fe9372aa-94e1-4c73-a7ee-c5dd8c7c60d8/download"
+      ],
+      "weekly_class_after_review": "earlier_supplement",
+      "source_record_id": "WL20261008-N06",
+      "id": "UFWI-163"
+    },
+    {
+      "title": "A comprehensive review of strategies to mitigate non-convexity in full waveform inversion",
+      "doi": "10.1093/gji/ggag376",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_publisher_metadata_and_abstract",
+      "official_sources": [
+        "https://academic.oup.com/gji/article/247/2/ggag376/8802546"
+      ],
+      "weekly_class_after_review": "earlier_supplement",
+      "source_record_id": "WL20261008-N07",
+      "id": "UFWI-164"
+    },
+    {
+      "title": "Radon–full-waveform inversion for suppressing scalp reverberation and skull-induced aberration in transcranial photoacoustic computed tomography",
+      "doi": "10.1016/j.pacs.2026.100833",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_fulltext_targeted",
+      "official_sources": [
+        "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13156777/fullTextXML"
+      ],
+      "weekly_class_after_review": "earlier_supplement",
+      "source_record_id": "WL20261008-N08",
+      "id": "UFWI-165"
+    },
+    {
+      "title": "Coarse-to-fine multi-resolution hash encoding for implicit full waveform inversion",
+      "doi": "10.48550/arxiv.2610.01081",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_preprint_metadata_and_abstract",
+      "official_sources": [
+        "https://arxiv.org/abs/2610.01081"
+      ],
+      "weekly_class_after_review": "earlier_supplement",
+      "source_record_id": "WL20261008-N09",
+      "id": "UFWI-166"
+    },
+    {
+      "title": "Ultrasound computer tomography using single-element directivity measurements",
+      "doi": "10.1117/1.jmi.13.5.057001",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_publisher_metadata_and_abstract",
+      "official_sources": [
+        "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:42825011&format=json"
+      ],
+      "weekly_class_after_review": "earlier_supplement",
+      "source_record_id": "WL20261008-N10",
+      "id": "UFWI-167"
+    },
+    {
+      "title": "OpenBreastUS: Benchmarking Neural Operators for Wave Imaging Using Breast Ultrasound Computed Tomography",
+      "doi": "10.48550/arxiv.2507.15035",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_preprint_metadata_and_abstract",
+      "official_sources": [
+        "https://arxiv.org/abs/2507.15035"
+      ],
+      "weekly_class_after_review": "earlier_supplement",
+      "source_record_id": "WL20261008-N11",
+      "id": "UFWI-168"
+    },
+    {
+      "title": "Structure-dependent failure modes of neural priors in acoustic full-waveform inversion",
+      "doi": "10.48550/arxiv.2609.31251",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_preprint_metadata_and_abstract",
+      "official_sources": [
+        "https://arxiv.org/abs/2609.31251"
+      ],
+      "weekly_class_after_review": "earlier_supplement",
+      "source_record_id": "WL20261008-N12",
+      "id": "UFWI-169"
+    },
+    {
+      "title": "Adaptive Waveform Inversion with Source Estimation for Ultrasound Tomography",
+      "doi": "",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_conference_abstract",
+      "official_sources": [
+        "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7143",
+        "https://epapers2.org/ius2026/ESR/session_view.php?session_id=68"
+      ],
+      "weekly_class_after_review": "weekly_conference_event",
+      "source_record_id": "WL20261008-N13",
+      "id": "UFWI-170"
+    },
+    {
+      "title": "Impact of Windowing on Full-Waveform Inversion for Ultrasound Tomography",
+      "doi": "",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_conference_abstract",
+      "official_sources": [
+        "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7384"
+      ],
+      "weekly_class_after_review": "weekly_conference_event",
+      "source_record_id": "WL20261008-N14",
+      "id": "UFWI-171"
+    },
+    {
+      "title": "Robust Full-Waveform Inversion Sparse-Array USCT: Overcoming Sparse-Sampling Artifacts with Phase-Enhanced Metric and Frequency-Wise Virtual Element Modeling",
+      "doi": "",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_conference_abstract",
+      "official_sources": [
+        "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7848"
+      ],
+      "weekly_class_after_review": "weekly_conference_event",
+      "source_record_id": "WL20261008-N15",
+      "id": "UFWI-172"
+    },
+    {
+      "title": "Efficient Mini-Batch Full Waveform Inversion for Transcranial Ultrasound Computed Tomography Using Adam Optimization",
+      "doi": "",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_conference_abstract",
+      "official_sources": [
+        "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7994"
+      ],
+      "weekly_class_after_review": "weekly_conference_event",
+      "source_record_id": "WL20261008-N16",
+      "id": "UFWI-173"
+    },
+    {
+      "title": "Differentiable Paraxial Full-Waveform Inversion for Fast Through-Transmission Speed-of-Sound Imaging",
+      "doi": "",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_conference_abstract",
+      "official_sources": [
+        "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=8151"
+      ],
+      "weekly_class_after_review": "weekly_conference_event",
+      "source_record_id": "WL20261008-N17",
+      "id": "UFWI-174"
+    },
+    {
+      "title": "Physics-Constrained Data-Driven Transcranial Ultrasound Full Waveform Inversion with Realistic 3D Acoustic Simulation",
+      "doi": "",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_conference_abstract",
+      "official_sources": [
+        "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=8417"
+      ],
+      "weekly_class_after_review": "weekly_conference_event",
+      "source_record_id": "WL20261008-N18",
+      "id": "UFWI-175"
+    },
+    {
+      "title": "Fourier Neural Operator-Enhanced Physics-Embedded Full Waveform Inversion for Transcranial Ultrasound Sound-Speed Measurement",
+      "doi": "",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_conference_abstract",
+      "official_sources": [
+        "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=8424"
+      ],
+      "weekly_class_after_review": "weekly_conference_event",
+      "source_record_id": "WL20261008-N19",
+      "id": "UFWI-176"
+    },
+    {
+      "title": "In-Vivo Musculoskeletal Ultrasound Full Waveform Inversion with Multi-Constraint Regularization",
+      "doi": "",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_conference_abstract",
+      "official_sources": [
+        "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7003",
+        "https://epapers2.org/ius2026/ESR/session_view.php?session_id=110"
+      ],
+      "weekly_class_after_review": "weekly_conference_event",
+      "source_record_id": "WL20261008-N20",
+      "id": "UFWI-177"
+    },
+    {
+      "title": "Quantitative Characterisation of Defects in Pipes Using Guided Wave Testing with Geometrical Full Waveform Inversion",
+      "doi": "",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_conference_abstract",
+      "official_sources": [
+        "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7019"
+      ],
+      "weekly_class_after_review": "weekly_conference_event",
+      "source_record_id": "WL20261008-N21",
+      "id": "UFWI-178"
+    },
+    {
+      "title": "A Bayesian Cramér–Rao Framework for Evaluating Pulse-Echo Speed-of-Sound Reconstruction",
+      "doi": "",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_conference_abstract",
+      "official_sources": [
+        "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=8247"
+      ],
+      "weekly_class_after_review": "weekly_conference_event",
+      "source_record_id": "WL20261008-N22",
+      "id": "UFWI-179"
+    },
+    {
+      "title": "Minimum Transmit Sampling for Resolution Preservation in Ultrasound Tomography",
+      "doi": "",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_conference_abstract",
+      "official_sources": [
+        "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7242"
+      ],
+      "weekly_class_after_review": "weekly_conference_event",
+      "source_record_id": "WL20261008-N23",
+      "id": "UFWI-180"
+    },
+    {
+      "title": "Transcranial Ultrasound Tomography of Cadaveric Human Hemorrhage Models",
+      "doi": "",
+      "new_identity": true,
+      "baseline_doi_or_normalized_title_collision": false,
+      "independent_check_level": "primary_conference_abstract",
+      "official_sources": [
+        "https://epapers2.org/ius2026/ESR/paper_details.php?paper_id=7770"
+      ],
+      "weekly_class_after_review": "weekly_conference_event",
+      "source_record_id": "WL20261008-N24",
+      "id": "UFWI-181"
+    }
+  ]
+}

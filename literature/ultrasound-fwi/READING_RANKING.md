@@ -1,5 +1,7 @@
 # 最值得精读的论文：排序与阅读路线
 
+主榜保留 2026-09-26 的 26 篇次序。当前主题阅读另见 [2026-10-08 十二篇专题顺序](PROJECT_READING_20261008.md)，不是主榜重排。
+
 这是围绕环阵超声FWI、三维重建、AWI和声源校准的阅读优先级，不是影响因子/引用量榜。主榜按相关性、可辨识的技术贡献、实测验证、可复用方法综合人工判断；具体理由逐篇列出，避免给尚未深读的文章伪精确分数。2020年前奠基论文另列；新预印本单列前沿观察。
 
 | 顺序 | 论文 | 核心贡献 | 为什么排在这里 |
@@ -45,19 +47,27 @@
 
 - [Hybrid Full Waveform Inversion Assisted by Rytov Approximation for Musculoskeletal Ultrasound Computed Tomography](papers/UFWI-114.md)（2026，preprint）：2026李玉冰主线最值得关注的新方法，可与CCAFWI/AWI/OT公平比较。
 - [Simulation-to-Real First-Break Segmentation for Efficient Inversion in Musculoskeletal Ultrasound Tomography](papers/UFWI-115.md)（2026，preprint）：关注真实系统弱信号及初模构建，属于算法链条而非单一损失函数创新。
+- [Towards 3D fully randomized frequency-domain reconstruction of the speed of sound in breast ultrasound computed tomography](papers/UFWI-162.md)（2026，preprint）：直接医学 FWI 的三维计算预印本，用于研究随机编码及源几何边界。
 - [Ultrasonic Medical Tissue Imaging Using Probabilistic Inversion: Leveraging Variational Inference for Speed Reconstruction and Uncertainty Quantification](papers/UFWI-131.md)（2025，preprint）：与Bates2022 mean-field SVI构成直接方法比较。
 - [Ultrasound Tomography of Musculoskeletal Tissues with Generative Neural Physics](papers/UFWI-116.md)（2025，preprint）：李玉冰团队最新重点观察项，建议与Rytov物理FWI并列看而分开证据级别。
 - [Adaptive traveltime inversion](papers/UFWI-003.md)（2019，journal）：保留原AWI/USCT知识链供新检索对照。
 - [Adaptive waveform inversion: Practice](papers/UFWI-006.md)（2019，journal）：设计独立于训练misfit的质量指标；避免误把损失下降当成正确成像。
 - [Improving full-waveform inversion by wavefield reconstruction with the alternating direction method of multipliers](papers/UFWI-093.md)（2019，journal）：缺低频与强对比USCT的备选框架，先与更便宜目标修改比较。
 - [Retrieving Low-Wavenumber Information in FWI: An Efficient Solution for Cycle Skipping](papers/UFWI-012.md)（2019，journal）：保留原AWI/USCT知识链供新检索对照。
+- [Robust full-waveform inversion with Radon-domain matching filter](papers/UFWI-163.md)（2019，journal）：Radon-domain matching 的直接方法先例，宜连同几何、频带和结构验证条件阅读。
 - [The application of an optimal transport to a preconditioned data matching function for robust waveform inversion](papers/UFWI-009.md)（2019，journal）：保留原AWI/USCT知识链供新检索对照。
 - [Automated Salt-Model Building Using Constrained FWI](papers/UFWI-005.md)（2018，conference）：保留原AWI/USCT知识链供新检索对照。
 - [3-D Nonlinear Acoustic Inverse Scattering: Algorithm and Quantitative Results](papers/UFWI-028.md)（2017，journal）：说明“近似 3D forward + 频率递进”可在真实大体积数据上形成定量结果；如果目标是先改善 z 连续性，可以把 paraxial/phase-screen 作为低成本 3D baseline，而不是一开始就全带宽精确 FDTD。
+- [Salt Reconstruction in Full-Waveform Inversion with a Parametric Level-Set Method](papers/UFWI-154.md)（2017，journal）：几何先验与 level-set 参数化的地球物理基线；应与医学骨先例成对阅读。
 - [Time domain reconstruction of sound speed and attenuation in ultrasound computed tomography using full wave inversion](papers/UFWI-073.md)（2017，journal）：多参数FWI及黏声正演的基础参考。
 - [Adaptive waveform inversion: Theory](papers/UFWI-010.md)（2016，journal）：AWI理论根文献；应在LAWI和FDWI之前建立公式与归一化约定。
 - [Building good starting models for full-waveform inversion using adaptive matching filtering misfit](papers/UFWI-001.md)（2016，journal）：保留原AWI/USCT知识链供新检索对照。
 - [Waveform inversion with source encoding for breast sound speed reconstruction in ultrasound computed tomography](papers/UFWI-030.md)（2015，journal）：源编码主线的奠基必读，供2025涡旋和2026频域编码溯源。
+- [The variable projection method for waveform inversion with an unknown source function](papers/UFWI-156.md)（2013，journal）：未知源波形消元的数学基线，用于分析介质和源的耦合。
+- [Coarse-to-fine multi-resolution hash encoding for implicit full waveform inversion](papers/UFWI-166.md)（2026，preprint）：模型参数化渐进策略近邻；不能把粗到细神经参数化单独当原创。
 - [Physics Informed Deep Unfolded Full Waveform Inversion for Edema Detection](papers/UFWI-130.md)（2026，preprint）：扩展应用从乳腺/脑转向常规探头低对比定量成像。
+- [Robust Ensemble Guidance for Scientific Inverse Problems](papers/UFWI-161.md)（2026，preprint）：跟踪生成式反演的鲁棒数据校正；评估完整正演成本与先验依赖。
+- [Structure-dependent failure modes of neural priors in acoustic full-waveform inversion](papers/UFWI-169.md)（2026，preprint）：支持同时报告留出预测、结构误差、等预算对照与负结果；不是 USCT 实测。
 - [TV-Regularized Frequency-Domain Full-Waveform Inversion for Single-Sided Linear Ultrasound Array Data](papers/UFWI-129.md)（2026，preprint）：有限孔径研究新入口，需与2020–2024既有线阵方法对照。
+- [OpenBreastUS: Benchmarking Neural Operators for Wave Imaging Using Breast Ultrasound Computed Tomography](papers/UFWI-168.md)（2025，preprint）：李玉冰团队此前漏项；数据方法库可收，非本周更新。
 - [Seismic Full-Waveform Inversion Using Deep Learning Tools and Techniques](papers/UFWI-053.md)（2018，preprint）：补齐原始文献清单；是否优先阅读按直接FWI相关性与证据评定。

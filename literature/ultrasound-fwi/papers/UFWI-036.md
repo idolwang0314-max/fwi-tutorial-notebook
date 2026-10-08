@@ -2,7 +2,7 @@
 
 [总索引](../INDEX.md) · [可筛选网页](../index.html) · [阅读排序](../READING_RANKING.md)
 
-- 作者：Carlos Cueto; Javier Cudeiro; Oscar Calderon Agudo; Lluis Guasch; Meng-Xing Tang; Meng-Xing Tang
+- 作者：Carlos Cueto; Javier Cudeiro; Oscar Calderon Agudo; Lluis Guasch; Meng-Xing Tang
 - 年份 / 期刊：2021 / IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC)
 - 发表类型 / 状态：journal / published
 - 研究类型：医学超声 FWI
@@ -11,6 +11,12 @@
 - 优先级：P1
 - DOI：[10.1109/tuffc.2020.3015583](https://doi.org/10.1109/tuffc.2020.3015583)
 - Europe PMC日期（可能为卷期日；差异见备注）：2020-12-23
+- 2026-10-08 分类：existing_reviewed
+- 2026-10-08 专题阅读：第 5 篇，见 [专题顺序](../PROJECT_READING_20261008.md)；不改变历史主榜。
+
+2026-10-08 复核备注：现库Imperial SRI先例；本轮未新增全文核验，引用基库证据。
+
+2026-10-08 专题阅读理由：SRI 发射与接收校准的经典对照；理解物理校准与自由逐道拟合的差别。
 
 ## 创新点 / 主要贡献
 
