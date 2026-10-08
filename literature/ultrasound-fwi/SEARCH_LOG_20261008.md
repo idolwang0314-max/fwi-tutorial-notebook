@@ -21,3 +21,7 @@
 主要源：ScienceDirect/Elsevier、OUP、Crossref出版商提交元数据、EuropePMC作者摘要、arXiv及API、IEEE IUS官方epapers2、KAUST/Dundee作者机构。PubMed网页偶有简化空响应，改用EuropePMC；OUP/DOI部分访问错误，使用同出版商可访问URL或Crossref原始abstract。未以ResearchGate、JoVE、新闻、搜索抓取日期支持技术或发表日期。会议列表可能更新，检索日状态单独记录。
 
 Crossref/EuropePMC/arXiv结构化查询URL、返回数和命名候选去向保存在[SEARCH_EVENTS_20261008.json](SEARCH_EVENTS_20261008.json)；未保存全文大段拷贝、会议登录信息或任何凭据。
+
+## 历史机制定向补漏
+
+沿Marty/Fichtner作者主页、ETH机构库、SPIE/IEEE DOI元数据、作者上传全文，查核2021声弹FWI、2022弹性FWI+OT、2024离体骨表征、2025OT会议报告、2026颅骨物理消融。另以arXiv原文核Symes2024理论稿及其2025不同数值论文关系；将SAWI/MDWI/Guasch旧全文笔记重新对照primary段落。结果6条历史新增、3条已有更正；证据类型逐卡保留，未全库重审。

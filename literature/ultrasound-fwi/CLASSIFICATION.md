@@ -13,11 +13,13 @@
 - [UFWI-136 · Review of Current Advances in Ultrasound Computed Tomography for Medical Imaging](papers/UFWI-136.md)（2026，P1）
 - [UFWI-142 · SSI-Net: a hybrid physics-constrained deep learning framework for quantitative ultrasound speed-of-sound reconstruction](papers/UFWI-142.md)（2026，P1）
 - [UFWI-056 · A viscoacoustic wave equation solver using modified Born series](papers/UFWI-056.md)（2025，P1）
+- [UFWI-183 · Towards elastic bone characterization in transcranial ultrasound](papers/UFWI-183.md)（2024，P1）
 - [UFWI-151 · open-UST: An Open-Source Ultrasound Tomography Transducer Array System](papers/UFWI-151.md)（2023，P1）
 - [UFWI-024 · 3D Large-Scale Subwavelength-Resolution Sound Sheet Tomography Based on an Active and Programmable Circular Meta-Array](papers/UFWI-024.md)（2026，P2）
 - [UFWI-146 · CUCT-Net: End-to-End Signal-to-Image Learning for Quantized Speed-of-Sound Estimation and Tissue Segmentation in Ultrasound Computed Tomography](papers/UFWI-146.md)（2026，P2）
 - [UFWI-101 · Deep-Learning Inversion for Bone Ultrasound Tomography](papers/UFWI-101.md)（2026，P2）
 - [UFWI-105 · High-precision wavefield simulation and deep learning-based sound speed reconstruction for transcranial ultrasound imaging](papers/UFWI-105.md)（2026，P2）
+- [UFWI-182 · Impact of skull modeling in spectral element simulations of transcranial focused ultrasound](papers/UFWI-182.md)（2026，P2）
 - [UFWI-180 · Minimum Transmit Sampling for Resolution Preservation in Ultrasound Tomography](papers/UFWI-180.md)（2026，P2）
 - [UFWI-042 · UltraWave: An Open-source Multi-GPU Full-wave Simulator for Acoustic and Elastic Wave Scattering in 3-D Heterogeneous Media](papers/UFWI-042.md)（2026，P2）
 - [UFWI-167 · Ultrasound computer tomography using single-element directivity measurements](papers/UFWI-167.md)（2026，P2）
@@ -51,6 +53,7 @@
 - [UFWI-088 · Designing full waveform inverse problems: a combined data and model approach](papers/UFWI-088.md)（2025，P1）
 - [UFWI-091 · Optimal transport-based full-waveform inversion for shallow seismic data](papers/UFWI-091.md)（2025，P1）
 - [UFWI-155 · A single level set function approach for multiple material-phases applied to full-waveform inversion in the time domain](papers/UFWI-155.md)（2024，P1）
+- [UFWI-187 · Adaptive waveform inversion for transmitted wave data](papers/UFWI-187.md)（2024，P1）
 - [UFWI-004 · Full Strata Seismic Waveform Inversion With Adaptive Iteration](papers/UFWI-004.md)（2024，P1）
 - [UFWI-090 · Comment on ‘Geophysical inversion and optimal transport’ by M. Sambridge, A. Jackson and A. P. Valentine](papers/UFWI-090.md)（2023，P1）
 - [UFWI-095 · Wave-based inversion at scale on GPUs with randomized trace estimation](papers/UFWI-095.md)（2023，P1）
@@ -134,6 +137,7 @@
 - [UFWI-038 · Full-Waveform Inversion for Breast Ultrasound Tomography Using Line-Shape Modeled Elements](papers/UFWI-038.md)（2023，P1）
 - [UFWI-016 · Three-dimensional time-domain full-waveform inversion for ring-array-based ultrasound computed tomography](papers/UFWI-016.md)（2023，P1）
 - [UFWI-126 · Design and Construction of a Low-Frequency Ultrasound Acquisition Device for 2-D Brain Imaging Using Full-Waveform Inversion](papers/UFWI-126.md)（2022，P1）
+- [UFWI-185 · Elastic Full-Waveform Inversion for Transcranial Ultrasound Computed Tomography using Optimal Transport](papers/UFWI-185.md)（2022，P1）
 - [UFWI-041 · Stride: A flexible software platform for high-performance ultrasound computed tomography](papers/UFWI-041.md)（2022，P1）
 - [UFWI-107 · Transcranial Ultrasound Imaging With Decomposition Descent Learning-Based Full Waveform Inversion](papers/UFWI-107.md)（2022，P1）
 - [UFWI-074 · Deep-Learning-Driven Full-Waveform Inversion for Ultrasound Breast Imaging](papers/UFWI-074.md)（2021，P1）
@@ -170,8 +174,10 @@
 - [UFWI-068 · Shape optimization for transcranial ultrasound computed tomography](papers/UFWI-068.md)（2023，P2）
 - [UFWI-132 · Whole-Body Imaging Using Low Frequency Transmission Ultrasound](papers/UFWI-132.md)（2023，P2）
 - [UFWI-148 · Cross-correlation Full Waveform Inversion for Sound Speed Reconstruction in Ultrasound Computed Tomography](papers/UFWI-148.md)（2022，P2）
+- [UFWI-186 · Acoustoelastic full-waveform inversion for transcranial ultrasound computed tomography](papers/UFWI-186.md)（2021，P2）
 - [UFWI-133 · 3D imaging of the breast using full-waveform inversion](papers/UFWI-133.md)（2017，P2）
 - [UFWI-049 · Ultrasonic computed tomography based on full-waveform inversion for bone quantitative imaging](papers/UFWI-049.md)（2017，P2）
+- [UFWI-184 · Optimal transport in transcranial ultrasound (Conference Presentation)](papers/UFWI-184.md)（2025，P3）
 
 ### 超声 NDT / 导波 FWI
 
@@ -196,6 +202,10 @@
 - [UFWI-112 · Guided Wave Tomography Based on Supervised Descent Method for Quantitative Corrosion Imaging](papers/UFWI-112.md)（2021，P2）
 
 ## 期刊 / 来源
+
+### 2022 IEEE International Ultrasonics Symposium (IUS)
+
+- [UFWI-185 · Elastic Full-Waveform Inversion for Transcranial Ultrasound Computed Tomography using Optimal Transport](papers/UFWI-185.md)（2022，P1）
 
 ### 2026 IEEE International Ultrasonics Symposium (IUS)
 
@@ -412,6 +422,22 @@
 
 - [UFWI-138 · High-fidelity three-dimensional reconstruction of musculoskeletal tissues via diffusion based ultrasonic computed tomography](papers/UFWI-138.md)（2026，P1）
 
+### Medical Imaging 2021: Ultrasonic Imaging and Tomography
+
+- [UFWI-186 · Acoustoelastic full-waveform inversion for transcranial ultrasound computed tomography](papers/UFWI-186.md)（2021，P2）
+
+### Medical Imaging 2024: Ultrasonic Imaging and Tomography
+
+- [UFWI-183 · Towards elastic bone characterization in transcranial ultrasound](papers/UFWI-183.md)（2024，P1）
+
+### Medical Imaging 2025: Ultrasonic Imaging and Tomography
+
+- [UFWI-184 · Optimal transport in transcranial ultrasound (Conference Presentation)](papers/UFWI-184.md)（2025，P3）
+
+### Medical Imaging 2026: Ultrasonic Imaging and Tomography
+
+- [UFWI-182 · Impact of skull modeling in spectral element simulations of transcranial focused ultrasound](papers/UFWI-182.md)（2026，P2）
+
 ### Medical Physics
 
 - [UFWI-127 · Transcranial ultrasound tomography for brain imaging: Ex vivo results and potential for stroke imaging](papers/UFWI-127.md)（2025，P0）
@@ -533,6 +559,7 @@
 - [UFWI-162 · Towards 3D fully randomized frequency-domain reconstruction of the speed of sound in breast ultrasound computed tomography](papers/UFWI-162.md)（2026，P1）
 - [UFWI-131 · Ultrasonic Medical Tissue Imaging Using Probabilistic Inversion: Leveraging Variational Inference for Speed Reconstruction and Uncertainty Quantification](papers/UFWI-131.md)（2025，P1）
 - [UFWI-116 · Ultrasound Tomography of Musculoskeletal Tissues with Generative Neural Physics](papers/UFWI-116.md)（2025，P1）
+- [UFWI-187 · Adaptive waveform inversion for transmitted wave data](papers/UFWI-187.md)（2024，P1）
 - [UFWI-166 · Coarse-to-fine multi-resolution hash encoding for implicit full waveform inversion](papers/UFWI-166.md)（2026，P2）
 - [UFWI-130 · Physics Informed Deep Unfolded Full Waveform Inversion for Edema Detection](papers/UFWI-130.md)（2026，P2）
 - [UFWI-161 · Robust Ensemble Guidance for Scientific Inverse Problems](papers/UFWI-161.md)（2026，P2）
@@ -586,6 +613,14 @@
 - [UFWI-154 · Salt Reconstruction in Full-Waveform Inversion with a Parametric Level-Set Method](papers/UFWI-154.md)（2017，P1）
 - [UFWI-156 · The variable projection method for waveform inversion with an unknown source function](papers/UFWI-156.md)（2013，P1）
 
+### ETH / Fichtner and collaborators
+
+- [UFWI-183 · Towards elastic bone characterization in transcranial ultrasound](papers/UFWI-183.md)（2024，P1）
+- [UFWI-185 · Elastic Full-Waveform Inversion for Transcranial Ultrasound Computed Tomography using Optimal Transport](papers/UFWI-185.md)（2022，P1）
+- [UFWI-182 · Impact of skull modeling in spectral element simulations of transcranial focused ultrasound](papers/UFWI-182.md)（2026，P2）
+- [UFWI-186 · Acoustoelastic full-waveform inversion for transcranial ultrasound computed tomography](papers/UFWI-186.md)（2021，P2）
+- [UFWI-184 · Optimal transport in transcranial ultrasound (Conference Presentation)](papers/UFWI-184.md)（2025，P3）
+
 ### Imperial / 地球物理奠基
 
 - [UFWI-006 · Adaptive waveform inversion: Practice](papers/UFWI-006.md)（2019，P1）
@@ -624,6 +659,10 @@
 ### Rochester / Duric / Ali
 
 - [UFWI-097 · Frequency-differencing strategy to kickstart full-waveform inversion without cycle skipping](papers/UFWI-097.md)（2025，P0）
+
+### Symes / waveform inversion theory
+
+- [UFWI-187 · Adaptive waveform inversion for transmitted wave data](papers/UFWI-187.md)（2024，P1）
 
 ### journals
 
@@ -790,6 +829,10 @@
 - [UFWI-006 · Adaptive waveform inversion: Practice](papers/UFWI-006.md)（2019，P1）
 - [UFWI-010 · Adaptive waveform inversion: Theory](papers/UFWI-010.md)（2016，P1）
 
+### AWI理论
+
+- [UFWI-187 · Adaptive waveform inversion for transmitted wave data](papers/UFWI-187.md)（2024，P1）
+
 ### AWI相关
 
 - [UFWI-113 · Quantitative ultrasound brain imaging with multiscale deconvolutional waveform inversion](papers/UFWI-113.md)（2023，P0）
@@ -884,6 +927,10 @@
 
 - [UFWI-061 · Application of full waveform inversion algorithm in Laplace-Fourier domain for high-contrast ultrasonic bone quantitative imaging](papers/UFWI-061.md)（2023，P1）
 
+### MSWI
+
+- [UFWI-187 · Adaptive waveform inversion for transmitted wave data](papers/UFWI-187.md)（2024，P1）
+
 ### NDT
 
 - [UFWI-100 · Quantitative comparison of the total focusing method, reverse time migration, and full waveform inversion for ultrasonic imaging](papers/UFWI-100.md)（2025，P0）
@@ -909,6 +956,10 @@
 
 - [UFWI-055 · Agent-Physics-Informed Neural Network solving frequency-domain Helmholtz equation related forward and inverse problems](papers/UFWI-055.md)（2025，P1）
 - [UFWI-140 · LSWNet: A physics-informed neural network for ultrasonic wavefield prediction and elastic constant inversion in unidirectional CFRP](papers/UFWI-140.md)（2026，P2）
+
+### RTM
+
+- [UFWI-183 · Towards elastic bone characterization in transcranial ultrasound](papers/UFWI-183.md)（2024，P1）
 
 ### Radon预处理
 
@@ -953,6 +1004,10 @@
 - [UFWI-167 · Ultrasound computer tomography using single-element directivity measurements](papers/UFWI-167.md)（2026，P2）
 - [UFWI-168 · OpenBreastUS: Benchmarking Neural Operators for Wave Imaging Using Breast Ultrasound Computed Tomography](papers/UFWI-168.md)（2025，P2）
 
+### graph-space optimal transport
+
+- [UFWI-185 · Elastic Full-Waveform Inversion for Transcranial Ultrasound Computed Tomography using Optimal Transport](papers/UFWI-185.md)（2022，P1）
+
 ### journal
 
 - [UFWI-163 · Robust full-waveform inversion with Radon-domain matching filter](papers/UFWI-163.md)（2019，P1）
@@ -977,6 +1032,10 @@
 ### review
 
 - [UFWI-164 · A comprehensive review of strategies to mitigate non-convexity in full waveform inversion](papers/UFWI-164.md)（2026，P1）
+
+### spectral element
+
+- [UFWI-186 · Acoustoelastic full-waveform inversion for transcranial ultrasound computed tomography](papers/UFWI-186.md)（2021，P2）
 
 ### variable projection
 
@@ -1115,6 +1174,10 @@
 ### 会议前作
 
 - [UFWI-148 · Cross-correlation Full Waveform Inversion for Sound Speed Reconstruction in Ultrasound Computed Tomography](papers/UFWI-148.md)（2022，P2）
+
+### 会议报告
+
+- [UFWI-184 · Optimal transport in transcranial ultrasound (Conference Presentation)](papers/UFWI-184.md)（2025，P3）
 
 ### 传感器校准
 
@@ -1289,6 +1352,10 @@
 - [UFWI-114 · Hybrid Full Waveform Inversion Assisted by Rytov Approximation for Musculoskeletal Ultrasound Computed Tomography](papers/UFWI-114.md)（2026，P1）
 - [UFWI-033 · Full-Waveform Inversion With Low-frequency Extrapolation Based on Sparse Deconvolution for Ultrasound Computed Tomography](papers/UFWI-033.md)（2025，P1）
 
+### 固定颅骨先验
+
+- [UFWI-185 · Elastic Full-Waveform Inversion for Transcranial Ultrasound Computed Tomography using Optimal Transport](papers/UFWI-185.md)（2022，P1）
+
 ### 图网络
 
 - [UFWI-120 · Graph neural networks for full waveform inversion](papers/UFWI-120.md)（2026，P1）
@@ -1335,6 +1402,15 @@
 
 - [UFWI-155 · A single level set function approach for multiple material-phases applied to full-waveform inversion in the time domain](papers/UFWI-155.md)（2024，P1）
 
+### 声弹耦合
+
+- [UFWI-183 · Towards elastic bone characterization in transcranial ultrasound](papers/UFWI-183.md)（2024，P1）
+- [UFWI-182 · Impact of skull modeling in spectral element simulations of transcranial focused ultrasound](papers/UFWI-182.md)（2026，P2）
+
+### 声弹耦合FWI
+
+- [UFWI-186 · Acoustoelastic full-waveform inversion for transcranial ultrasound computed tomography](papers/UFWI-186.md)（2021，P2）
+
 ### 声源校准
 
 - [UFWI-081 · Waveform inversion with calibrated source-time functions for improving in-vivo ultrasound computed tomography](papers/UFWI-081.md)（2024，P2）
@@ -1350,6 +1426,10 @@
 ### 多分辨率
 
 - [UFWI-150 · Multi-acquisition multi-resolution full-waveform shear wave elastography for reconstructing tissue viscoelasticity](papers/UFWI-150.md)（2024，P2）
+
+### 多到达
+
+- [UFWI-187 · Adaptive waveform inversion for transmitted wave data](papers/UFWI-187.md)（2024，P1）
 
 ### 多参数
 
@@ -1506,6 +1586,10 @@
 - [UFWI-060 · Correlation-based full-waveform shear wave elastography](papers/UFWI-060.md)（2023，P2）
 - [UFWI-058 · Full waveform inversion for arterial viscoelasticity](papers/UFWI-058.md)（2023，P2）
 
+### 弹性FWI
+
+- [UFWI-185 · Elastic Full-Waveform Inversion for Transcranial Ultrasound Computed Tomography using Optimal Transport](papers/UFWI-185.md)（2022，P1）
+
 ### 弹性传播
 
 - [UFWI-165 · Radon–full-waveform inversion for suppressing scalp reverberation and skull-induced aberration in transcranial photoacoustic computed tomography](papers/UFWI-165.md)（2026，P1）
@@ -1525,6 +1609,10 @@
 ### 形状反演
 
 - [UFWI-068 · Shape optimization for transcranial ultrasound computed tomography](papers/UFWI-068.md)（2023，P2）
+
+### 形状梯度
+
+- [UFWI-183 · Towards elastic bone characterization in transcranial ultrasound](papers/UFWI-183.md)（2024，P1）
 
 ### 影像组学
 
@@ -1641,6 +1729,7 @@
 - [UFWI-089 · Geophysical inversion and optimal transport](papers/UFWI-089.md)（2022，P1）
 - [UFWI-087 · Robust full-waveform inversion with graph-space optimal transport: Application to 3D ocean-bottom cable Valhall data](papers/UFWI-087.md)（2022，P1）
 - [UFWI-092 · Target-oriented full waveform inversion based on optimal transport theory](papers/UFWI-092.md)（2026，P2）
+- [UFWI-184 · Optimal transport in transcranial ultrasound (Conference Presentation)](papers/UFWI-184.md)（2025，P3）
 
 ### 有限孔径
 
@@ -1685,6 +1774,7 @@
 - [UFWI-031 · Sobolev space norm regularized full waveform inversion for ultrasound computed tomography](papers/UFWI-031.md)（2025，P0）
 - [UFWI-122 · Dual-decoder network regularization for ultrasonic guided-wave full waveform inversion](papers/UFWI-122.md)（2026，P1）
 - [UFWI-165 · Radon–full-waveform inversion for suppressing scalp reverberation and skull-induced aberration in transcranial photoacoustic computed tomography](papers/UFWI-165.md)（2026，P1）
+- [UFWI-187 · Adaptive waveform inversion for transmitted wave data](papers/UFWI-187.md)（2024，P1）
 - [UFWI-129 · TV-Regularized Frequency-Domain Full-Waveform Inversion for Single-Sided Linear Ultrasound Array Data](papers/UFWI-129.md)（2026，P2）
 - [UFWI-139 · Estimation of shear viscoelasticity via time-domain elastic full waveform inversion in ultrasound shear wave elastography](papers/UFWI-139.md)（2025，P2）
 - [UFWI-066 · Regularized full waveform inversion for low frequency ultrasound tomography with a structural similarity EIT prior](papers/UFWI-066.md)（2024，P2）
@@ -1696,6 +1786,10 @@
 ### 正演求解器
 
 - [UFWI-056 · A viscoacoustic wave equation solver using modified Born series](papers/UFWI-056.md)（2025，P1）
+
+### 正演消融
+
+- [UFWI-182 · Impact of skull modeling in spectral element simulations of transcranial focused ultrasound](papers/UFWI-182.md)（2026，P2）
 
 ### 正演软件
 
@@ -1769,6 +1863,10 @@
 
 - [UFWI-156 · The variable projection method for waveform inversion with an unknown source function](papers/UFWI-156.md)（2013，P1）
 
+### 源标定
+
+- [UFWI-183 · Towards elastic bone characterization in transcranial ultrasound](papers/UFWI-183.md)（2024，P1）
+
 ### 源校准
 
 - [UFWI-040 · Quantitative in-vivo full-waveform ultrasound tomography workflow integrating reflection imaging and resolution analysis](papers/UFWI-040.md)（2026，P0）
@@ -1781,6 +1879,7 @@
 - [UFWI-019 · Cross-correlation adjustment full-waveform inversion with source encoding in ultrasound computed tomography](papers/UFWI-019.md)（2024，P0）
 - [UFWI-034 · Frequency-Domain Reconstruction of the Speed of Sound in Ring-Array Ultrasound Computed Tomography With Stochastic Phase Encoding](papers/UFWI-034.md)（2026，P0）
 - [UFWI-022 · Vortex-encoded full-waveform inversion-based ultrasound computed tomography](papers/UFWI-022.md)（2025，P1）
+- [UFWI-185 · Elastic Full-Waveform Inversion for Transcranial Ultrasound Computed Tomography using Optimal Transport](papers/UFWI-185.md)（2022，P1）
 - [UFWI-027 · Source encoding for viscoacoustic ultrasound computed tomography](papers/UFWI-027.md)（2020，P1）
 - [UFWI-030 · Waveform inversion with source encoding for breast sound speed reconstruction in ultrasound computed tomography](papers/UFWI-030.md)（2015，P1）
 - [UFWI-148 · Cross-correlation Full Waveform Inversion for Sound Speed Reconstruction in Ultrasound Computed Tomography](papers/UFWI-148.md)（2022，P2）
@@ -1913,6 +2012,10 @@
 
 - [UFWI-152 · Quantitative Sound Speed Imaging of Cortical Bone and Soft Tissue: Results From Observational Data Sets](papers/UFWI-152.md)（2022，P0）
 
+### 离体颅骨
+
+- [UFWI-183 · Towards elastic bone characterization in transcranial ultrasound](papers/UFWI-183.md)（2024，P1）
+
 ### 离网格源
 
 - [UFWI-063 · A consistent implementation of point sources on finite-difference grids](papers/UFWI-063.md)（2020，P2）
@@ -1949,10 +2052,13 @@
 - [UFWI-181 · Transcranial Ultrasound Tomography of Cadaveric Human Hemorrhage Models](papers/UFWI-181.md)（2026，P1）
 - [UFWI-118 · Stabilized adaptive waveform inversion for enhanced robustness in Gaussian penalty matrix parameterization and transcranial ultrasound imaging](papers/UFWI-118.md)（2025，P1）
 - [UFWI-082 · Deep Learning With Physics-Embedded Neural Network for Full Waveform Ultrasonic Brain Imaging](papers/UFWI-082.md)（2024，P1）
+- [UFWI-185 · Elastic Full-Waveform Inversion for Transcranial Ultrasound Computed Tomography using Optimal Transport](papers/UFWI-185.md)（2022，P1）
 - [UFWI-107 · Transcranial Ultrasound Imaging With Decomposition Descent Learning-Based Full Waveform Inversion](papers/UFWI-107.md)（2022，P1）
 - [UFWI-105 · High-precision wavefield simulation and deep learning-based sound speed reconstruction for transcranial ultrasound imaging](papers/UFWI-105.md)（2026，P2）
 - [UFWI-147 · The influence of ignoring the acoustic attenuation parameter during full waveform inversion of transcranial ultrasound data - Preliminary Study](papers/UFWI-147.md)（2024，P2）
 - [UFWI-068 · Shape optimization for transcranial ultrasound computed tomography](papers/UFWI-068.md)（2023，P2）
+- [UFWI-186 · Acoustoelastic full-waveform inversion for transcranial ultrasound computed tomography](papers/UFWI-186.md)（2021，P2）
+- [UFWI-184 · Optimal transport in transcranial ultrasound (Conference Presentation)](papers/UFWI-184.md)（2025，P3）
 
 ### 综述
 
@@ -2110,6 +2216,10 @@
 - [UFWI-142 · SSI-Net: a hybrid physics-constrained deep learning framework for quantitative ultrasound speed-of-sound reconstruction](papers/UFWI-142.md)（2026，P1）
 - [UFWI-085 · Nonlinear Medical Ultrasound Tomography: 3D Modeling of Sound Wave Propagation in Human Tissues](papers/UFWI-085.md)（2024，P2）
 
+### 颅骨物理失配
+
+- [UFWI-182 · Impact of skull modeling in spectral element simulations of transcranial focused ultrasound](papers/UFWI-182.md)（2026，P2）
+
 ### 频域
 
 - [UFWI-069 · Frequency-domain full-waveform inversion-based musculoskeletal ultrasound computed tomography](papers/UFWI-069.md)（2023，P0）
@@ -2146,6 +2256,10 @@
 - [UFWI-101 · Deep-Learning Inversion for Bone Ultrasound Tomography](papers/UFWI-101.md)（2026，P2）
 - [UFWI-106 · A multi-task neural network for full waveform ultrasonic bone imaging](papers/UFWI-106.md)（2025，P2）
 
+### 骨先验
+
+- [UFWI-186 · Acoustoelastic full-waveform inversion for transcranial ultrasound computed tomography](papers/UFWI-186.md)（2021，P2）
+
 ### 骨周组织
 
 - [UFWI-017 · Full wave 3D inverse scattering transmission ultrasound tomography in the presence of high contrast](papers/UFWI-017.md)（2020，P1）
@@ -2164,6 +2278,10 @@
 ### 高性能计算
 
 - [UFWI-041 · Stride: A flexible software platform for high-performance ultrasound computed tomography](papers/UFWI-041.md)（2022，P1）
+
+### 高频渐近
+
+- [UFWI-187 · Adaptive waveform inversion for transmitted wave data](papers/UFWI-187.md)（2024，P1）
 
 ### 黏声
 

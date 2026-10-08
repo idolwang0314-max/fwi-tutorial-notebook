@@ -38,7 +38,7 @@ for r in records:
  if r.get('project_reading_rank_20261008'):lines.append('- 2026-10-08 专题阅读：第 '+str(r['project_reading_rank_20261008'])+' 篇，见 [专题顺序](../PROJECT_READING_20261008.md)；不改变历史主榜。')
  if r.get('date_resolution'):lines += ['', '日期冲突处理：', '', '```json', json.dumps(r['date_resolution'],ensure_ascii=False,indent=2), '```']
  if r.get('date_evidence'):lines += ['', '公开来源原始日期字段（冲突时采用上方处理说明）：', '', '```json', json.dumps(r['date_evidence'],ensure_ascii=False,indent=2), '```']
- for field,label in [('review_note_20261004','2026-10-04 复核备注'),('weekly_review_note','2026-10-08 复核备注'),('project_reading_reason_20261008','2026-10-08 专题阅读理由')]:
+ for field,label in [('review_note_20261004','2026-10-04 复核备注'),('weekly_review_note','2026-10-08 复核备注'),('read_coverage','一手材料阅读范围'),('project_reading_reason_20261008','2026-10-08 专题阅读理由')]:
   if r.get(field):lines += ['',label+'：'+str(r[field])]
 
  for title,field in [('创新点 / 主要贡献','innovation'),('技术手段','methods'),('验证证据','evidence'),('局限与评估','limitations'),('研究相关性','relevance')]:lines += ['',f'## {title}','',str(r.get(field) or '尚未核验；不根据标题推断。')]
@@ -69,6 +69,7 @@ for r in records:
  elif typ=='incollection':f['booktitle']=r.get('venue','').replace(' (book chapter)','')
  bibnotes=[]
  if r.get('publication_type')=='preprint':bibnotes.append('Preprint; peer review not verified')
+ if r.get('publication_type')=='conference_presentation':bibnotes.append('Conference presentation; metadata only, slides and research-paper content not reviewed')
  if r.get('publication_status')=='conference_program_and_abstract':bibnotes.append('Official conference program and abstract; proceedings DOI and first-publication date unverified')
  if r.get('publication_status') in ('accepted_manuscript_online','in_press_journal_preproof'):bibnotes.append(r['publication_status'].replace('_',' '))
  if not r.get('authors_complete'):bibnotes.append('Author list incomplete; verify before citation')

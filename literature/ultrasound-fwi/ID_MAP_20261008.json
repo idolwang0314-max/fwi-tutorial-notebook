@@ -1,10 +1,10 @@
 {
   "updated_at": "2026-10-08",
   "previous_public_count": 151,
-  "new_public_records": 28,
-  "current_count": 179,
-  "allocation": "Existing public IDs and gaps preserved; new IDs UFWI-154 through UFWI-181.",
-  "source_aggregate_sha256": "2ceea5972ee2fb69cd5af8f4f71a74a043a3657e8aadf87336186b1b246d9554",
+  "new_public_records": 34,
+  "current_count": 185,
+  "allocation": "Existing public IDs and gaps preserved; first increment UFWI-154..181, historical mechanism supplement UFWI-182..187.",
+  "source_aggregate_sha256": "8ecaa99d2d1e7d69576eaa0fbfaa0922f79e085704700e494e3a9640be397ca9",
   "records": [
     {
       "source_record_id": "UFWI-013",
@@ -1258,6 +1258,49 @@
       "title": "Transcranial Ultrasound Tomography of Cadaveric Human Hemorrhage Models",
       "doi": "",
       "action": "new_public_id"
+    },
+    {
+      "source_record_id": "HIST20261008-M01",
+      "public_id": "UFWI-182",
+      "title": "Impact of skull modeling in spectral element simulations of transcranial focused ultrasound",
+      "doi": "10.1117/12.3082193",
+      "action": "historical_mechanism_supplement"
+    },
+    {
+      "source_record_id": "HIST20261008-M02",
+      "public_id": "UFWI-183",
+      "title": "Towards elastic bone characterization in transcranial ultrasound",
+      "doi": "10.1117/12.3006769",
+      "action": "historical_mechanism_supplement"
+    },
+    {
+      "source_record_id": "HIST20261008-M03",
+      "public_id": "UFWI-184",
+      "title": "Optimal transport in transcranial ultrasound (Conference Presentation)",
+      "doi": "10.1117/12.3046989",
+      "action": "historical_mechanism_supplement"
+    },
+    {
+      "source_record_id": "HIST20261008-M04",
+      "public_id": "UFWI-185",
+      "title": "Elastic Full-Waveform Inversion for Transcranial Ultrasound Computed Tomography using Optimal Transport",
+      "doi": "10.1109/ius54386.2022.9957394",
+      "action": "historical_mechanism_supplement"
+    },
+    {
+      "source_record_id": "HIST20261008-M05",
+      "public_id": "UFWI-186",
+      "title": "Acoustoelastic full-waveform inversion for transcranial ultrasound computed tomography",
+      "doi": "10.1117/12.2581029",
+      "action": "historical_mechanism_supplement"
+    },
+    {
+      "source_record_id": "HIST20261008-M06",
+      "public_id": "UFWI-187",
+      "title": "Adaptive waveform inversion for transmitted wave data",
+      "doi": "10.48550/arxiv.2402.17696",
+      "action": "historical_mechanism_supplement"
     }
-  ]
+  ],
+  "mechanism_supplement_count": 6
 }

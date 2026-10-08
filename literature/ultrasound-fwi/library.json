@@ -355,10 +355,10 @@
       "三维",
       "奠基"
     ],
-    "innovation": "把AWI初始化与低频三维FWI连起来，展示完整头颅的高分辨率定量成像潜力。",
-    "methods": "三维变密度声学有限差分；水模型经AWI得到初模，再多频带FWI。",
-    "evidence": "三维脑及出血图像来自数值仿真；另有真人与离体颅骨透射信号实验验证穿透/SNR。",
-    "limitations": "没有完成活体三维脑FWI图像；弹性、吸收、校准和规模成本仍需处理；原Fullwave3D为商业代码。",
+    "innovation": "展示脑部超声定量 FWI 潜力：二维无颅骨先验 AWI→FWI，与已有真实颅骨初模的三维高分辨 FWI 分别验证。",
+    "methods": "变密度声学有限差分。二维水初模以中心100 kHz单频带 AWI初始化，平滑后320 kHz至约850 kHz的L2-FWI；三维示例初模含真实颅骨、软组织均匀。",
+    "evidence": "Fig.4无骨先验 AWI→FWI为二维合成；Fig.3三维重建依赖真实颅骨初模。另有真人/离体颅骨透射波形实验验证穿透与SNR，不是实测脑FWI图像。",
+    "limitations": "不能把二维无骨先验结果表述成已完成水初模三维AWI脑重建；没有活体脑FWI图像。3D数据用2D反演的失效提示离面物理问题；弹性/吸收/标定及计算规模仍是限制，原Fullwave3D为商业代码。",
     "relevance": "AWI在医学超声中最重要的动机论文之一，必须按证据层级阅读。",
     "verification": "primary_fulltext",
     "source_urls": [
@@ -370,15 +370,18 @@
     "rank": 7,
     "ranking_reason": "Imperial超声FWI跨领域里程碑，值得读其数值验证和颅骨建模条件，避免把题名误解为临床已实现。",
     "group": "Imperial及国际医学FWI",
-    "notes": "检索核验日期2026-09-26。正式2020-03-06；已读方法、实验、代码可用性段落。",
+    "notes": "保留原书目与2020-03-06出版日期；本轮修正二维AWI流程与三维骨先验示例被串接的证据边界。",
     "note_path": "papers/UFWI-124.md",
-    "verified_at": "2026-09-26",
+    "verified_at": "2026-10-08",
     "epmc_publication_date": "2020-03-06",
     "record_action": "inherited_without_new_review",
     "record_action_20261008": "inherited_without_new_review",
-    "weekly_class": "existing_not_reviewed",
+    "weekly_class": "existing_fulltext_reverification",
     "source_record_id": "UFWI-124",
-    "catalog_added_at": "2026-09-26"
+    "catalog_added_at": "2026-09-26",
+    "read_coverage": "本轮重新核 Nature 主文 Fig.1(a)、Fig.3/4/5 及其 Results，Methods In silico modelling / FWI iteration；与旧2026-09-27笔记交叉核对。",
+    "reviewed_at": "2026-10-08",
+    "weekly_review_note": "全文边界复核：本轮重新核 Nature 主文 Fig.1(a)、Fig.3/4/5 及其 Results，Methods In silico modelling / FWI iteration；与旧2026-09-27笔记交叉核对。"
   },
   {
     "id": "UFWI-007",
@@ -1276,29 +1279,32 @@
       "经颅",
       "多尺度"
     ],
-    "innovation": "以有限长度Wiener匹配滤波器衡量波形差异，构造多尺度解卷积超声反演。",
-    "methods": "时域波动正演；有限长度Wiener滤波；多尺度优化。",
-    "evidence": "人体脑模型数值实验展示颅内声速定量成像及亚毫米潜力。",
-    "limitations": "数值演示，不是人体在体；有限滤波长度和AWI等价性需细读推导。",
+    "innovation": "以有限长度 Wiener filter 的 lag 支撑递减实现四阶段 MDWI，由大尺度到细节完成同一目标家族的重建，无需末尾改为 L2-FWI。",
+    "methods": "二维常密度声学；观测→预测反卷积；目标分子为 T(τ)w²、T=|τ|/τmax；四阶段各100迭代，均用100–300 kHz；源峰200 kHz，均匀水速1500 m/s初模，反演逐源估波形。",
+    "evidence": "两张 CT 派生二维脑模型的合成超声实验；48源/288接收；§3.5明确不需换目标精化。",
+    "limitations": "非超声实测或3D/弹性验证；CT来源不使超声重建变为在体验证。PDF014303-5同时写初始lag5μs、四阶段25/12.5/5/2.5μs及每阶段减半，三者不一致，不能擅自选一组当复现参数。有限长度求解/稳定化披露仍不足；频带100–300 kHz不能外推到严格≥0.5 MHz。",
     "relevance": "与AWI机理研究直接相关，是李玉冰方法主线必读。",
-    "verification": "primary_abstract",
+    "verification": "primary_fulltext",
     "source_urls": [
-      "https://cpb.iphy.ac.cn/EN/10.1088/1674-1056/ac6dad",
-      "https://doi.org/10.1088/1674-1056/ac6dad"
+      "https://cpb.iphy.ac.cn/en/article/doi/10.1088/1674-1056/ac6dad",
+      "https://cpb.iphy.ac.cn/en/article/pdf/preview/10.1088/1674-1056/ac6dad.pdf"
     ],
     "priority_hint": 1,
     "priority": "P0",
     "rank": 24,
     "ranking_reason": "李玉冰团队解卷积波形反演与AWI最接近的必查先行工作，创新定位不能跳过。",
     "group": "李玉冰 Yubing Li（中科院声学所相关作者线）",
-    "notes": "在线2022-05-07，正式Chin.Phys.B32(1)014303为2023；原刊署名明确李玉冰。",
+    "notes": "正式Chin. Phys. B32(1)014303为2023；online2022-05-07保留原记录。本轮新增全文方法/局限核验，未另改日期。§3.5为MDWI-only，不能归为AWI→L2。",
     "note_path": "papers/UFWI-113.md",
-    "verified_at": "2026-09-26",
+    "verified_at": "2026-10-08",
     "record_action": "inherited_without_new_review",
     "record_action_20261008": "inherited_without_new_review",
-    "weekly_class": "existing_not_reviewed",
+    "weekly_class": "existing_fulltext_reverification",
     "source_record_id": "UFWI-113",
-    "catalog_added_at": "2026-09-26"
+    "catalog_added_at": "2026-09-26",
+    "read_coverage": "本轮重读既有正式 PDF 提取文本 pp.014303-5/6/9/10（§2.3、§3.1、§3.5），核期刊作者/摘要页；2026-09-27 原 PDF 视觉审阅已排除 HTML 多余字符，不声称本轮再次视觉检查。",
+    "reviewed_at": "2026-10-08",
+    "weekly_review_note": "全文边界复核：本轮重读既有正式 PDF 提取文本 pp.014303-5/6/9/10（§2.3、§3.1、§3.5），核期刊作者/摘要页；2026-09-27 原 PDF 视觉审阅已排除 HTML 多余字符，不声称本轮再次视觉检查。"
   },
   {
     "id": "UFWI-099",
@@ -3031,29 +3037,42 @@
       "经颅",
       "稳定性"
     ],
-    "innovation": "通过用户指定Wiener滤波零时延位置，降低AWI对Gaussian惩罚矩阵参数的敏感性。",
-    "methods": "SAWI；零填充/零时延控制；AWI目标及伴随源。",
-    "evidence": "数值经颅及Gaussian参数设置中，SAWI在AWI失败条件下仍成功。",
-    "limitations": "仅数值证据；零时延移动与滤波长度/边界效应应仔细区分，不能推出一般超分辨结论。",
+    "innovation": "通过观测零填充改变 Wiener filter 的零 lag 位置：先边缘 zero-lag 构造初模，再居中 zero-lag 常规 AWI 精修，改善特定 Gaussian penalty 参数下稳定性。",
+    "methods": "预测→观测的正则 Wiener filter，Gaussian 加权归一化能量最大化；edge→center AWI 两阶段。经颅 50 kHz 低通 pre/post 各128迭代，再100 kHz 低通 AWI256迭代；block 对照使用0–100 kHz→100–200 kHz。",
+    "evidence": "全部二维声学数值：128点换能器，正演含密度、仅更新声速；最终精修仍为 AWI，L2-FWI 为独立对照。",
+    "limitations": "500 kHz 为三周期 tone-burst 源中心，不是最低反演频率；经颅验证依赖50/100 kHz低通，未验证严格≥0.5 MHz数据。无实测/黏弹性验证；首阶段初始声速场、固定密度取值及逐实验 λ 未充分披露。高频 block 阶段 FWI 的 MSE 可更低；SAWI未消除 polarity ambiguity。",
     "relevance": "与AWI机理研究高度相关，适合直接复核匹配滤波器和惩罚参数作用。",
-    "verification": "primary_abstract",
+    "verification": "primary_fulltext",
     "source_urls": [
-      "https://cpb.iphy.ac.cn/EN/10.1088/1674-1056/add4f3",
-      "https://doi.org/10.1088/1674-1056/add4f3"
+      "https://www.cpsjournals.cn/en/article/doi/10.1088/1674-1056/add4f3",
+      "https://cpb.iphy.ac.cn/en/article/pdf/preview/10.1088/1674-1056/add4f3.pdf",
+      "https://api.crossref.org/works/10.1088/1674-1056/add4f3"
     ],
     "priority_hint": 1,
     "priority": "P1",
     "rank": null,
     "ranking_reason": "",
     "group": "journals",
-    "notes": "Chin.Phys.B34(8)084301；online2025-05-07；非李玉冰团队。",
+    "notes": "Chin. Phys. B 34(8)084301。正式PDF写 accepted manuscript online 2025-05-07；期刊当前HTML Available Online与Crossref published-print为2025-08-01。保留两个日期含义，不能据Crossref created独立判定首发。非李玉冰团队。",
     "note_path": "papers/UFWI-118.md",
-    "verified_at": "2026-09-26",
+    "verified_at": "2026-10-08",
     "record_action": "inherited_without_new_review",
     "record_action_20261008": "inherited_without_new_review",
-    "weekly_class": "existing_not_reviewed",
+    "weekly_class": "existing_fulltext_reverification",
     "source_record_id": "UFWI-118",
-    "catalog_added_at": "2026-09-26"
+    "catalog_added_at": "2026-09-26",
+    "date_resolution": {
+      "accepted_manuscript_online": "2025-05-07",
+      "accepted_manuscript_online_source": "正式PDF首页（封面后，084301-1）",
+      "issue_date": "2025-08-01",
+      "publisher_html_available_online": "2025-08-01",
+      "crossref_published_print": "2025-08-01",
+      "crossref_created": "2025-05-07T06:47:41Z",
+      "first_publication_interpretation": "May7由正式PDF明确支持为accepted-manuscript上线；Aug1为正式期/现网站标签，不抹去May7。"
+    },
+    "read_coverage": "本轮重读正式 PDF 首页、期刊 HTML §2.2–2.6、§3.2–3.5、§4；继承并复核 2026-09-27 医学 AWI 审计相同位置。",
+    "reviewed_at": "2026-10-08",
+    "weekly_review_note": "全文边界复核：本轮重读正式 PDF 首页、期刊 HTML §2.2–2.6、§3.2–3.5、§4；继承并复核 2026-09-27 医学 AWI 审计相同位置。"
   },
   {
     "id": "UFWI-131",
@@ -3350,6 +3369,63 @@
     "catalog_added_at": "2026-10-04"
   },
   {
+    "title": "Adaptive waveform inversion for transmitted wave data",
+    "authors": [
+      "William W. Symes"
+    ],
+    "authors_complete": true,
+    "year": 2024,
+    "doi": "10.48550/arxiv.2402.17696",
+    "url": "https://arxiv.org/abs/2402.17696",
+    "venue": "arXiv",
+    "publication_type": "preprint",
+    "publication_status": "preprint",
+    "scope": "geophysical_method",
+    "categories": [
+      "AWI理论",
+      "MSWI",
+      "多到达",
+      "高频渐近",
+      "正则化"
+    ],
+    "verification": "primary_fulltext",
+    "priority_hint": 1,
+    "innovation": "在指定光滑声学单到达条件下，建立单位范数匹配滤波 AWI 与走时均方误差的高频渐近联系；解释多到达破坏该联系。",
+    "methods": "正则化逐道 matching filter；Hadamard/几何光学渐近；AWI/MSWI 并列分析；§3.5 取 prewhitening σ=rλ（λ为波长尺度，区别于 penalty α）。",
+    "evidence": "数学理论及多到达分析；§2 的 Exponential Decay、Single Arrival、No Return 等假设明确。",
+    "limitations": "已知常密度、光滑声学与点源/点接收，不能直接外推骨弹性/有限孔径或医学实测；不是 AWI 普遍无效或任何目标全局收敛的证明。高频渐近也不等于有限频带必然成功。",
+    "relevance": "优先阅读以解释多到达下逐道匹配目标的适用条件；仅提供机制假说，不能诊断某一具体实验失败原因。",
+    "source_urls": [
+      "https://arxiv.org/abs/2402.17696",
+      "https://arxiv.org/html/2402.17696v3",
+      "https://api.crossref.org/works?query.title=Adaptive%20waveform%20inversion%20for%20transmitted%20wave%20data&rows=5"
+    ],
+    "date_resolution": {
+      "first_preprint": "2024-02-27",
+      "latest_version": "2024-12-10",
+      "latest_version_identifier": "v3",
+      "journal_status_note": "arXiv 当前未列 journal-ref，限定 Crossref/title 检索未找到同题名正式刊物。未检出不等于证明从未发表。"
+    },
+    "read_coverage": "arXiv v3 HTML §1–2、§3.5、§5–6；未逐行复核全部定理证明。",
+    "arxiv_id": "2402.17696",
+    "related_existing_ids": [
+      "UFWI-006",
+      "UFWI-010"
+    ],
+    "id": "UFWI-187",
+    "source_record_id": "HIST20261008-M06",
+    "priority": "P1",
+    "rank": null,
+    "ranking_reason": "",
+    "note_path": "papers/UFWI-187.md",
+    "weekly_class": "historical_backfill",
+    "catalog_added_at": "2026-10-08",
+    "verified_at": "2026-10-08",
+    "reviewed_at": "2026-10-08",
+    "group": "Symes / waveform inversion theory",
+    "notes": "本轮历史机制补漏，不是2026-10-02至10-08新发表。阅读范围：arXiv v3 HTML §1–2、§3.5、§5–6；未逐行复核全部定理证明。 当前限定检索未识别同文正式期刊版。2025 Inverse Problems 10.1088/1361-6420/ade182 是不同的MSWI数值论文，不与本记录合并。"
+  },
+  {
     "id": "UFWI-082",
     "title": "Deep Learning With Physics-Embedded Neural Network for Full Waveform Ultrasonic Brain Imaging",
     "year": 2024,
@@ -3614,6 +3690,67 @@
     "weekly_class": "existing_not_reviewed",
     "source_record_id": "UFWI-018",
     "catalog_added_at": "2026-09-26"
+  },
+  {
+    "title": "Towards elastic bone characterization in transcranial ultrasound",
+    "authors": [
+      "Patrick Marty",
+      "Trevor M. Mitcham",
+      "Rehman Ali",
+      "Christian Boehm",
+      "Nebojsa Duric",
+      "Andreas Fichtner"
+    ],
+    "authors_complete": true,
+    "year": 2024,
+    "doi": "10.1117/12.3006769",
+    "url": "https://doi.org/10.1117/12.3006769",
+    "venue": "Medical Imaging 2024: Ultrasonic Imaging and Tomography",
+    "publication_type": "conference",
+    "publication_status": "published",
+    "scope": "adjacent_ultrasound",
+    "categories": [
+      "离体颅骨",
+      "RTM",
+      "声弹耦合",
+      "源标定",
+      "形状梯度"
+    ],
+    "verification": "primary_fulltext",
+    "priority_hint": 1,
+    "innovation": "将水槽源标定、RTM 骨界面估计与耦合声弹背景建模串接，改善颅内目标定位，并展示材料/形状敏感度。",
+    "methods": "1024 元环阵离体颅骨数据；逐源反卷积标定；RTM 定界；贴合界面网格与 coupled acoustic-viscoelastic SEM；在修正背景重新 RTM。",
+    "evidence": "水填充/凝胶及包涵体两种离体配置；§4 展示 Vs 梯度与 shape derivatives。",
+    "limitations": "§3.4 明确初模尚未经过 FWI 优化；已展示的是 RTM 与梯度，§4–5 的交替 FWI/shape 优化属后续路线；2D、单颅骨，材料多取文献值，残余伪影。",
+    "relevance": "防止把 RTM 初模和敏感度图误报成实测定量骨 FWI；也界定 shape/FWI 先例。",
+    "source_urls": [
+      "https://doi.org/10.1117/12.3006769",
+      "https://www.researchgate.net/publication/379501192_Towards_elastic_bone_characterization_in_transcranial_ultrasound",
+      "https://pmarty.ch/publications/"
+    ],
+    "date_resolution": {
+      "published": "2024-04-01",
+      "basis": "Crossref proceedings publication",
+      "event_start": "2024-02-18",
+      "event_end": "2024-02-23"
+    },
+    "read_coverage": "作者上传的完整 14 页论文；重点 §2、§3.1–3.4、§4、§5 与 Fig.10。",
+    "related_existing_ids": [
+      "UFWI-068",
+      "UFWI-081"
+    ],
+    "id": "UFWI-183",
+    "source_record_id": "HIST20261008-M02",
+    "priority": "P1",
+    "rank": null,
+    "ranking_reason": "",
+    "note_path": "papers/UFWI-183.md",
+    "weekly_class": "historical_backfill",
+    "catalog_added_at": "2026-10-08",
+    "verified_at": "2026-10-08",
+    "reviewed_at": "2026-10-08",
+    "group": "ETH / Fichtner and collaborators",
+    "notes": "本轮历史机制补漏，不是2026-10-02至10-08新发表。阅读范围：作者上传的完整 14 页论文；重点 §2、§3.1–3.4、§4、§5 与 Fig.10。"
   },
   {
     "id": "UFWI-015",
@@ -4057,6 +4194,66 @@
     "weekly_class": "existing_not_reviewed",
     "source_record_id": "UFWI-126",
     "catalog_added_at": "2026-09-26"
+  },
+  {
+    "title": "Elastic Full-Waveform Inversion for Transcranial Ultrasound Computed Tomography using Optimal Transport",
+    "authors": [
+      "Patrick Marty",
+      "Christian Boehm",
+      "Andreas Fichtner"
+    ],
+    "authors_complete": true,
+    "year": 2022,
+    "doi": "10.1109/ius54386.2022.9957394",
+    "url": "https://doi.org/10.1109/IUS54386.2022.9957394",
+    "venue": "2022 IEEE International Ultrasonics Symposium (IUS)",
+    "publication_type": "conference",
+    "publication_status": "published",
+    "scope": "medical_fwi",
+    "categories": [
+      "弹性FWI",
+      "经颅",
+      "graph-space optimal transport",
+      "源编码",
+      "固定颅骨先验"
+    ],
+    "verification": "primary_fulltext",
+    "priority_hint": 1,
+    "innovation": "在耦合声弹经颅 FWI 中使用 graph-space optimal transport 缓解相位失配，并利用源编码减少正演。",
+    "methods": "Salvus SEM/贴体全四边形网格；RTM 构造颅骨轮廓；graph-space OT；500 kHz Ricker、多尺度低通、梯度平滑和 OT 最大时移递减；512 源编码为16个 supersources。",
+    "evidence": "MIDA 派生二维合成脑模型；实际执行脑内参数 FWI。",
+    "limitations": "§III-C 和 Fig.3 明确固定头皮/颅骨材料与颅骨形状，仅更新脑内部；非骨参数联合恢复、非实测验证，不能据此证明未知颅骨条件下稳健。",
+    "relevance": "最直接的经颅 elastic FWI+OT 方法先例；用于拆分物理准确性与强结构先验。",
+    "source_urls": [
+      "https://doi.org/10.1109/IUS54386.2022.9957394",
+      "https://ieeexplore.ieee.org/document/9957394/",
+      "https://www.researchgate.net/publication/365942138_Elastic_Full-Waveform_Inversion_for_Transcranial_Ultrasound_Computed_Tomography_using_Optimal_Transport",
+      "https://pmarty.ch/publications/"
+    ],
+    "date_resolution": {
+      "published": "2022-10-10",
+      "basis": "Crossref published-print (proceedings date)",
+      "crossref_created": "2022-12-01T20:54:16Z",
+      "event_start": "2022-10-10",
+      "event_end": "2022-10-13",
+      "note": "不将 DOI 登记时间误作首次公开日；未另核 Xplore 首次上线日。"
+    },
+    "read_coverage": "作者上传完整 4 页；重点 §II、§III-A–C、Fig.3 与结论。",
+    "related_existing_ids": [
+      "UFWI-068"
+    ],
+    "id": "UFWI-185",
+    "source_record_id": "HIST20261008-M04",
+    "priority": "P1",
+    "rank": null,
+    "ranking_reason": "",
+    "note_path": "papers/UFWI-185.md",
+    "weekly_class": "historical_backfill",
+    "catalog_added_at": "2026-10-08",
+    "verified_at": "2026-10-08",
+    "reviewed_at": "2026-10-08",
+    "group": "ETH / Fichtner and collaborators",
+    "notes": "本轮历史机制补漏，不是2026-10-02至10-08新发表。阅读范围：作者上传完整 4 页；重点 §II、§III-A–C、Fig.3 与结论。"
   },
   {
     "id": "UFWI-089",
@@ -5870,6 +6067,69 @@
     "weekly_class": "existing_not_reviewed",
     "source_record_id": "UFWI-105",
     "catalog_added_at": "2026-09-26"
+  },
+  {
+    "title": "Impact of skull modeling in spectral element simulations of transcranial focused ultrasound",
+    "authors": [
+      "Isha Lohan",
+      "Patrick Marty",
+      "Ya Gao",
+      "Beat Werner",
+      "Beatrice Lauber",
+      "Giovanni Colacicco",
+      "Daniel Razansky",
+      "Hector Estrada",
+      "Andreas Fichtner"
+    ],
+    "authors_complete": true,
+    "year": 2026,
+    "doi": "10.1117/12.3082193",
+    "url": "https://doi.org/10.1117/12.3082193",
+    "venue": "Medical Imaging 2026: Ultrasonic Imaging and Tomography",
+    "publication_type": "conference",
+    "publication_status": "published",
+    "scope": "adjacent_ultrasound",
+    "categories": [
+      "颅骨物理失配",
+      "声弹耦合",
+      "正演消融"
+    ],
+    "verification": "primary_abstract",
+    "priority_hint": 2,
+    "innovation": "比较颅骨建模简化对经颅聚焦超声预测的影响，将异质性、剪切波与衰减分别作为受控因素。",
+    "methods": "耦合声学–黏弹性 spectral-element 正演；以异质、含衰减固体颅骨为参考，对均质化、忽略剪切或衰减等简化作比较。",
+    "evidence": "已核作者/机构摘要和书目；属于正演误差研究。",
+    "limitations": "本轮未取得全文，摘要误差百分比的指标定义与归一化未核，不纳入定量证据；不是 FWI 重建或临床验证。",
+    "relevance": "物理省略机制控制的直接背景。",
+    "source_urls": [
+      "https://doi.org/10.1117/12.3082193",
+      "https://www.research-collection.ethz.ch/entities/publication/32801a15-65b7-428e-9421-859c0191c9f2",
+      "https://pmarty.ch/publications/"
+    ],
+    "date_resolution": {
+      "published": "2026-04-02",
+      "basis": "Crossref published-print; SPIE proceedings",
+      "event_start": "2026-02-15",
+      "event_end": "2026-02-20",
+      "note": "会议日期不作为论文首次公开日期。"
+    },
+    "read_coverage": "ETH 摘要、作者主页引文、Crossref 元数据；未读全文。",
+    "related_existing_ids": [
+      "UFWI-040",
+      "UFWI-068"
+    ],
+    "id": "UFWI-182",
+    "source_record_id": "HIST20261008-M01",
+    "priority": "P2",
+    "rank": null,
+    "ranking_reason": "",
+    "note_path": "papers/UFWI-182.md",
+    "weekly_class": "historical_backfill",
+    "catalog_added_at": "2026-10-08",
+    "verified_at": "2026-10-08",
+    "reviewed_at": "2026-10-08",
+    "group": "ETH / Fichtner and collaborators",
+    "notes": "本轮历史机制补漏，不是2026-10-02至10-08新发表。阅读范围：ETH 摘要、作者主页引文、Crossref 元数据；未读全文。"
   },
   {
     "id": "UFWI-159",
@@ -8385,6 +8645,64 @@
     "catalog_added_at": "2026-09-26"
   },
   {
+    "title": "Acoustoelastic full-waveform inversion for transcranial ultrasound computed tomography",
+    "authors": [
+      "Patrick Marty",
+      "Christian Boehm",
+      "Andreas Fichtner"
+    ],
+    "authors_complete": true,
+    "year": 2021,
+    "doi": "10.1117/12.2581029",
+    "url": "https://doi.org/10.1117/12.2581029",
+    "venue": "Medical Imaging 2021: Ultrasonic Imaging and Tomography",
+    "publication_type": "conference",
+    "publication_status": "published",
+    "scope": "medical_fwi",
+    "categories": [
+      "声弹耦合FWI",
+      "经颅",
+      "spectral element",
+      "骨先验"
+    ],
+    "verification": "primary_abstract",
+    "priority_hint": 2,
+    "innovation": "为经颅 USCT 将流体声学与固体弹性在 spectral-element 模型中耦合，讨论以局部骨弹性建模改善反演物理。",
+    "methods": "固液耦合 SEM、立方体网格；机构摘要记载 in-silico 正演及反演，使用 acoustoelastic skull prior。",
+    "evidence": "ETH 官方机构摘要明确合成正演/反演；书目信息已核。",
+    "limitations": "本轮未成功取得全文：旧 bitstream 返回 HTML，现代公开 API 的元数据可读但后续 bitstream 请求限流。更新参数、具体频带及对照未核，不扩写全文结论；不是实测临床验证。",
+    "relevance": "2021 年已存在 acoustoelastic transcranial FWI，不能把声弹迁移本身称新方法。",
+    "source_urls": [
+      "https://doi.org/10.1117/12.2581029",
+      "https://www.research-collection.ethz.ch/entities/publication/0b4d655b-5947-4ddb-9e5e-cab9ed38f784",
+      "https://www.research-collection.ethz.ch/server/api/pid/find?id=20.500.11850/499222",
+      "https://pmarty.ch/publications/"
+    ],
+    "date_resolution": {
+      "published": "2021-02-15",
+      "basis": "Crossref published + ETH dc.date.published",
+      "crossref_created": "2021-02-12T23:40:36Z",
+      "note": "机构副本 DOI 归并到同一 SPIE 论文；不新增第二条。"
+    },
+    "read_coverage": "ETH 官方 DSpace item metadata/abstract + Crossref/作者引文；未读全文。",
+    "repository_alias_doi": "10.3929/ethz-b-000499222",
+    "related_existing_ids": [
+      "UFWI-068"
+    ],
+    "id": "UFWI-186",
+    "source_record_id": "HIST20261008-M05",
+    "priority": "P2",
+    "rank": null,
+    "ranking_reason": "",
+    "note_path": "papers/UFWI-186.md",
+    "weekly_class": "historical_backfill",
+    "catalog_added_at": "2026-10-08",
+    "verified_at": "2026-10-08",
+    "reviewed_at": "2026-10-08",
+    "group": "ETH / Fichtner and collaborators",
+    "notes": "本轮历史机制补漏，不是2026-10-02至10-08新发表。阅读范围：ETH 官方 DSpace item metadata/abstract + Crossref/作者引文；未读全文。"
+  },
+  {
     "id": "UFWI-112",
     "title": "Guided Wave Tomography Based on Supervised Descent Method for Quantitative Corrosion Imaging",
     "year": 2021,
@@ -8902,6 +9220,64 @@
     "weekly_class": "existing_not_reviewed",
     "source_record_id": "UFWI-047",
     "catalog_added_at": "2026-09-26"
+  },
+  {
+    "title": "Optimal transport in transcranial ultrasound (Conference Presentation)",
+    "authors": [
+      "Patrick Marty",
+      "Christian Boehm",
+      "Trevor M. Mitcham",
+      "Rehman Ali",
+      "Nebojsa Duric",
+      "Andreas Fichtner"
+    ],
+    "authors_complete": true,
+    "year": 2025,
+    "doi": "10.1117/12.3046989",
+    "url": "https://doi.org/10.1117/12.3046989",
+    "venue": "Medical Imaging 2025: Ultrasonic Imaging and Tomography",
+    "publication_type": "conference_presentation",
+    "publication_status": "published_presentation",
+    "scope": "medical_fwi",
+    "categories": [
+      "会议报告",
+      "最优传输",
+      "经颅"
+    ],
+    "verification": "metadata_only",
+    "priority_hint": 3,
+    "innovation": "未取得报告内容，不能仅据题名建立独立创新结论。",
+    "methods": "题名表明 optimal transport / transcranial ultrasound；具体目标、实验与参数尚未核验。",
+    "evidence": "Crossref 题名明确 Conference Presentation，作者主页明确标为 PowerPoint。",
+    "limitations": "本轮未取得 slides 或完整方法论文；DOI/Crossref 的 proceedings-article 类型不代表已核验全文论文。不得用该报告承载定量方法优越性结论。",
+    "relevance": "保留作者路线索引，不纳入最值得精读的研究论文排名。",
+    "source_urls": [
+      "https://doi.org/10.1117/12.3046989",
+      "https://pmarty.ch/publications/"
+    ],
+    "date_resolution": {
+      "published": "2025-04-10",
+      "basis": "Crossref publication",
+      "presentation_date": "2025-02-19",
+      "presentation_date_source": "author publication page",
+      "note": "报告举行日不等于 DOI 论文首次发表日。"
+    },
+    "read_coverage": "作者主页引文与 Crossref 元数据；无内容级审阅。",
+    "related_existing_ids": [
+      "UFWI-068"
+    ],
+    "id": "UFWI-184",
+    "source_record_id": "HIST20261008-M03",
+    "priority": "P3",
+    "rank": null,
+    "ranking_reason": "",
+    "note_path": "papers/UFWI-184.md",
+    "weekly_class": "historical_backfill",
+    "catalog_added_at": "2026-10-08",
+    "verified_at": "2026-10-08",
+    "reviewed_at": "2026-10-08",
+    "group": "ETH / Fichtner and collaborators",
+    "notes": "本轮历史机制补漏，不是2026-10-02至10-08新发表。阅读范围：作者主页引文与 Crossref 元数据；无内容级审阅。"
   },
   {
     "id": "UFWI-117",

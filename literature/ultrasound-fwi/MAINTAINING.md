@@ -58,7 +58,7 @@ python literature/ultrasound-fwi/validate.py
 
 ## 2026-10-08 增量字段与报告
 
-- 现有 151 条 ID 不变；本次 28 个新 ID 为 UFWI-154—UFWI-181，`source_record_id` 与 [ID_MAP_20261008.json](ID_MAP_20261008.json) 保存完整映射。后续从最大数字继续分配，不填旧间隔。
+- 原有 151 条 ID 不变；首批 28 个新 ID 为 UFWI-154—UFWI-181，第二批 6 个历史机制补漏为 UFWI-182—UFWI-187，合计新增 34 条、当前 185 条。`source_record_id` 与 [ID_MAP_20261008.json](ID_MAP_20261008.json) 保存完整映射。后续从最大数字继续分配，不填旧间隔。
 - `rank`/`priority` 是历史主榜；`project_reading_rank_20261008`/`project_reading_reason_20261008` 对应 [独立专题顺序](PROJECT_READING_20261008.md)，不得覆盖历史 rank。
 - `weekly_class`、`date_evidence`、`date_resolution`、`date_basis`、`date_timezone`、`window_reference_date`、提交时间与会议日期保留独立语义。原始日期冲突不可只删掉，应说明采用哪个来源及原因。
 - `first_public_date=null` 表示首次公开日期未确认；arXiv v1 submission 时间不自动等于精确公告时间。会议 event_date 不得填入首次发表日。

@@ -12,7 +12,7 @@
 | 4 | [Optimal transport assisted full waveform inversion for multiparameter imaging of soft tissues in ultrasound computed tomography](papers/UFWI-104.md)（2025，Ultrasonics） | graph-space OT缓解皮肤超临界反射造成的局部极小，重建声速与阻抗。 | 重点作者线与Ultrasonics直接交汇：OT、强反射和声速/阻抗多参数；有离体实验。 |
 | 5 | [Frequency-differencing strategy to kickstart full-waveform inversion without cycle skipping](papers/UFWI-097.md)（2025，JASA Express Letters） | 利用高频之间的差频内容构建低频起始信息，为常规FWI提供可用初模。 | 直接应对缺低频，且已从会议发展为有实验的正式期刊文；与频域AWI研究直接相关。 |
 | 6 | [Quantitative in-vivo full-waveform ultrasound tomography workflow integrating reflection imaging and resolution analysis](papers/UFWI-040.md)（2026，Physics in Medicine & Biology） | 将有效源估计、graph-space OT及局部分辨率分析组织为在体FWI工作流。 | 2026新工作把源估计、GSOT、反射像与分辨率评价组成在体流程；动物证据明确，便于设计完整验证链。 |
-| 7 | [Full-waveform inversion imaging of the human brain](papers/UFWI-124.md)（2020，npj Digital Medicine） | 把AWI初始化与低频三维FWI连起来，展示完整头颅的高分辨率定量成像潜力。 | Imperial超声FWI跨领域里程碑，值得读其数值验证和颅骨建模条件，避免把题名误解为临床已实现。 |
+| 7 | [Full-waveform inversion imaging of the human brain](papers/UFWI-124.md)（2020，npj Digital Medicine） | 展示脑部超声定量 FWI 潜力：二维无颅骨先验 AWI→FWI，与已有真实颅骨初模的三维高分辨 FWI 分别验证。 | Imperial超声FWI跨领域里程碑，值得读其数值验证和颅骨建模条件，避免把题名误解为临床已实现。 |
 | 8 | [Localized adaptive waveform inversion: theory and numerical verification](papers/UFWI-007.md)（2023，Geophysical Journal International） | 用局部时频反卷积处理不同事件不同时间偏移，针对全道AWI的非平稳失配。 | AWI研究最关键的方法补课之一：多到时非平稳性为何使全局滤波失效，以及局部化如何补救。 |
 | 9 | [Localized adaptive waveform inversion: regularizations for Gabor deconvolution and 3-D field data application](papers/UFWI-008.md)（2023，Geophysical Journal International） | 比较零型与delta型滤波器先验，并把LAWI用于三维北海实测。 | 接续理论篇看滤波器先验与三维实测；正则项如何影响稳定性和分辨率与AWI研究直接相关。 |
 | 10 | [Ultrasound computed tomography based on full waveform inversion with source directivity calibration](papers/UFWI-037.md)（2023，Ultrasonics） | 用无目标水槽FMC自检换能器方向性，再以加权虚拟点阵表示源。 | 水槽校准与虚拟点源权重有明确实现路径和环阵实测，是声源方向性建模的实用对照。 |
@@ -29,7 +29,7 @@
 | 21 | [A probabilistic approach to tomography and adjoint state methods, with an application to full waveform inversion in medical ultrasound](papers/UFWI-125.md)（2022，Inverse Problems） | 在常见近似下，以几乎不增加FWI计算量的方式估计逐像素声速方差。 | 把不确定性加入FWI质量评价，避免只看图像或loss；需理解mean-field近似限制。 |
 | 22 | [Automatic Skull-Template Alignment Without a Guidance Image](papers/UFWI-134.md)（2026，Ultrasound in Medicine & Biology） | MOFI直接通过超声RF数据配准颅骨模板，去掉同步MRI指导配准需求。 | MOFI以RF波形直接优化模板旋转平移，与几何参数反演高度相关；仍需已有模板。 |
 | 23 | [Dual-Probe Transcranial Full-Waveform Inversion: A Brain Phantom Feasibility Study](papers/UFWI-039.md)（2023，Ultrasound in Medicine & Biology） | 用可获得的双探头与旋转采集探索低成本经颅FWI实验路径。 | Imperial透颅双探头实体体模验证，帮助区分大孔径理论理想化与受限采集的实际难度。 |
-| 24 | [Quantitative ultrasound brain imaging with multiscale deconvolutional waveform inversion](papers/UFWI-113.md)（2023，Chinese Physics B） | 以有限长度Wiener匹配滤波器衡量波形差异，构造多尺度解卷积超声反演。 | 李玉冰团队解卷积波形反演与AWI最接近的必查先行工作，创新定位不能跳过。 |
+| 24 | [Quantitative ultrasound brain imaging with multiscale deconvolutional waveform inversion](papers/UFWI-113.md)（2023，Chinese Physics B） | 以有限长度 Wiener filter 的 lag 支撑递减实现四阶段 MDWI，由大尺度到细节完成同一目标家族的重建，无需末尾改为 L2-FWI。 | 李玉冰团队解卷积波形反演与AWI最接近的必查先行工作，创新定位不能跳过。 |
 | 25 | [Waveform inversion of sound speed and acoustic attenuation for ring-array ultrasound tomography based on optimal transport framework](papers/UFWI-099.md)（2026，Ultrasonics） | 将Sigmoid数据映射与2-Wasserstein目标结合，同时重建声速和衰减。 | 2026声速/衰减OT工作值得关注，但摘要与Highlights的对照方式不一致，阅读时需审原始实验细节。 |
 | 26 | [Quantitative comparison of the total focusing method, reverse time migration, and full waveform inversion for ultrasonic imaging](papers/UFWI-100.md)（2025，Ultrasonics） | 用统一样本和分割指标量化TFM、RTM与两阶段FWI性能。 | NDT方向优先读这一实测对比，用统一定量指标判断FWI相比TFM/RTM的收益，而非只看好看的图。 |
 
@@ -50,6 +50,7 @@
 - [Towards 3D fully randomized frequency-domain reconstruction of the speed of sound in breast ultrasound computed tomography](papers/UFWI-162.md)（2026，preprint）：直接医学 FWI 的三维计算预印本，用于研究随机编码及源几何边界。
 - [Ultrasonic Medical Tissue Imaging Using Probabilistic Inversion: Leveraging Variational Inference for Speed Reconstruction and Uncertainty Quantification](papers/UFWI-131.md)（2025，preprint）：与Bates2022 mean-field SVI构成直接方法比较。
 - [Ultrasound Tomography of Musculoskeletal Tissues with Generative Neural Physics](papers/UFWI-116.md)（2025，preprint）：李玉冰团队最新重点观察项，建议与Rytov物理FWI并列看而分开证据级别。
+- [Adaptive waveform inversion for transmitted wave data](papers/UFWI-187.md)（2024，preprint）：优先阅读以解释多到达下逐道匹配目标的适用条件；仅提供机制假说，不能诊断某一具体实验失败原因。
 - [Adaptive traveltime inversion](papers/UFWI-003.md)（2019，journal）：保留原AWI/USCT知识链供新检索对照。
 - [Adaptive waveform inversion: Practice](papers/UFWI-006.md)（2019，journal）：设计独立于训练misfit的质量指标；避免误把损失下降当成正确成像。
 - [Improving full-waveform inversion by wavefield reconstruction with the alternating direction method of multipliers](papers/UFWI-093.md)（2019，journal）：缺低频与强对比USCT的备选框架，先与更便宜目标修改比较。

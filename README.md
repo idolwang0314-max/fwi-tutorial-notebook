@@ -23,7 +23,7 @@ No prior FWI knowledge required — concepts are introduced as they show up.
 
 ## Ultrasound FWI literature library / 超声 FWI 文献库
 
-[Browse the literature library](literature/ultrasound-fwi/README.md): **179 records**
+[Browse the literature library](literature/ultrasound-fwi/README.md): **185 records**
 with contributions, methods, validation evidence, limitations, and public sources.
 The Chinese research review combines earlier literature work with searches through
 **October 8, 2026**, focusing on Ultrasonics, IEEE TUFFC/TUSON, Geophysics/GJI,
