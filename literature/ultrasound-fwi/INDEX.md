@@ -2,7 +2,7 @@
 
 [阅读排序](READING_RANKING.md) · [研究综述](REVIEW_CN.md) · [筛选网页](index.html) · [CSV](library.csv) · [BibTeX](references.bib) · [检索口径](SEARCH_METHOD.md) · [合并说明](MERGE_NOTES.md)
 
-截至 2026-10-08，去重 185 条；包含直接FWI、地球物理方法及明确标记的相邻资料，不等同于同等数量的医学FWI期刊论文。
+截至 2026-10-08，去重 187 条；包含直接FWI、地球物理方法及明确标记的相邻资料，不等同于同等数量的医学FWI期刊论文。
 
 | ID | 排序 / 优先级 | 年份 | 题名 / 单篇卡片 | 期刊或来源 | 类型 | 核验 |
 |---|---|---|---|---|---|---|
@@ -178,12 +178,14 @@
 | UFWI-046 | — / P2 | 2022 | [Ultrasound Computed Tomography](papers/UFWI-046.md) | Bone Quantitative Ultrasound (book chapter) | 相邻超声方法 / 硬件 | 历史笔记，尚未复核结论 |
 | UFWI-186 | — / P2 | 2021 | [Acoustoelastic full-waveform inversion for transcranial ultrasound computed tomography](papers/UFWI-186.md) | Medical Imaging 2021: Ultrasonic Imaging and Tomography | 医学超声 FWI | 一手摘要 |
 | UFWI-112 | — / P2 | 2021 | [Guided Wave Tomography Based on Supervised Descent Method for Quantitative Corrosion Imaging](papers/UFWI-112.md) | IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC) | 超声 NDT / 导波 FWI | 一手摘要 |
+| UFWI-189 | — / P2 | 2021 | [Level Set–Based Shape Optimization Approach for Sharp-Interface Reconstructions in Time-Domain Full Waveform Inversion](papers/UFWI-189.md) | SIAM Journal on Applied Mathematics | 地球物理及可迁移方法 | 一手全文/相关段落 |
 | UFWI-063 | — / P2 | 2020 | [A consistent implementation of point sources on finite-difference grids](papers/UFWI-063.md) | Geophysical Journal International | 地球物理及可迁移方法 | 历史笔记，尚未复核结论 |
 | UFWI-094 | — / P2 | 2020 | [Robust wavefield inversion via phase retrieval](papers/UFWI-094.md) | Geophysical Journal International | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-021 | — / P2 | 2020 | [Super-Resolution Ultrasound Imaging](papers/UFWI-021.md) | Ultrasound in Medicine & Biology | 相邻超声方法 / 硬件 | 历史笔记，尚未复核结论 |
 | UFWI-065 | — / P2 | 2018 | [A Time-Domain Preconditioned Truncated Newton Approach to Visco-Acoustic Multiparameter Full Waveform Inversion](papers/UFWI-065.md) | SIAM Journal on Scientific Computing | 地球物理及可迁移方法 | 历史笔记，尚未复核结论 |
 | UFWI-053 | — / P2 | 2018 | [Seismic Full-Waveform Inversion Using Deep Learning Tools and Techniques](papers/UFWI-053.md) | arXiv | 地球物理及可迁移方法 | 历史笔记，尚未复核结论 |
 | UFWI-133 | — / P2 | 2017 | [3D imaging of the breast using full-waveform inversion](papers/UFWI-133.md) | International Workshop on Medical Ultrasound Tomography | 医学超声 FWI | 一手摘要 |
+| UFWI-188 | — / P2 | 2017 | [An adaptive meshless parameterization for full waveform inversion](papers/UFWI-188.md) | Engineering Analysis with Boundary Elements | 地球物理及可迁移方法 | 一手摘要 |
 | UFWI-049 | — / P2 | 2017 | [Ultrasonic computed tomography based on full-waveform inversion for bone quantitative imaging](papers/UFWI-049.md) | Physics in Medicine & Biology | 医学超声 FWI | 历史笔记，尚未复核结论 |
 | UFWI-051 | — / P2 | 2017 | [全走时反演及其应用](papers/UFWI-051.md) | 石油物探 | 地球物理及可迁移方法 | 历史笔记，尚未复核结论 |
 | UFWI-057 | — / P2 | 2015 | [Frequencies of the Ricker wavelet](papers/UFWI-057.md) | Geophysics | 地球物理及可迁移方法 | 历史笔记，尚未复核结论 |

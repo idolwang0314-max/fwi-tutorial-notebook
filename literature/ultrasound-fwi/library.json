@@ -8750,6 +8750,74 @@
     "catalog_added_at": "2026-09-26"
   },
   {
+    "title": "Level Set–Based Shape Optimization Approach for Sharp-Interface Reconstructions in Time-Domain Full Waveform Inversion",
+    "authors": [
+      "Yuri F. Albuquerque",
+      "Antoine Laurain",
+      "Irwin Yousept"
+    ],
+    "authors_complete": true,
+    "doi": "10.1137/20m1378090",
+    "year": 2021,
+    "venue": "SIAM Journal on Applied Mathematics",
+    "volume": "81",
+    "issue": "3",
+    "pages": "939-964",
+    "publication_type": "journal",
+    "publication_status": "published",
+    "verification": "primary_fulltext",
+    "priority_hint": 2,
+    "categories": [
+      "level-set",
+      "shape derivative",
+      "已知分区材料",
+      "地球物理可迁移方法"
+    ],
+    "innovation": "为含不连续系数的时域声学FWI建立形状优化框架，以distributed shape derivative和level-set恢复尖锐界面，避免一般平滑正则对界面的过度平滑。",
+    "methods": "已知分区常声速的声学波动方程；distributed shape derivative；H1椭圆问题求平滑下降向量场；level-set演化。数值示例使用10shots、80receivers、200×130网格。",
+    "evidence": "作者机构托管正式全文已核首页、引言及§6–7方法/算例；1/2/3盐体分别从1/2/3初始体开始。正文将声速区域值设为已知，不是材料常数与界面的联合恢复证据。",
+    "limitations": "只部分阅读全文，未逐行审定理证明或复现数值。地震声学合成例；已知分区材料且初始体数对应真值体数，不能用这些例子声称未知拓扑搜索、骨材料联合恢复或医学实测有效。",
+    "relevance": "时域level-set形状FWI及平滑形状下降方向已有直接方法先例；后续研究可比较有限预算路径与先验失效边界，但复杂度递进不能被包装为首个形状/level-set FWI。",
+    "read_coverage": "作者机构托管全文的首页、§1、§6、§7；关键公式/算例段核对，未对§2–5全部证明逐行精读。",
+    "source_urls": [
+      "https://doi.org/10.1137/20M1378090",
+      "https://www.uni-due.de/imperia/md/content/mathematik/agyousept/siap_aly2021.pdf"
+    ],
+    "related_existing_ids": [
+      "UFWI-154",
+      "UFWI-155",
+      "UFWI-068",
+      "UFWI-152"
+    ],
+    "related_existing_dois": [
+      "10.1109/TCI.2016.2640761",
+      "10.1088/1361-6420/ad2eca",
+      "10.1117/12.2654328",
+      "10.1109/TMI.2021.3115790"
+    ],
+    "date_resolution": {
+      "published_online": "2021-05-20",
+      "basis": "正式论文首页明确published electronically May 20, 2021；期刊81(3):939–964。",
+      "accepted": "2021-01-21",
+      "received": "2020-11-03",
+      "note": "本次Crossref单条请求返回429；作者名/DOI/卷页/日期由正式PDF直接核验，未将该请求记为核验成功。"
+    },
+    "url": "https://doi.org/10.1137/20M1378090",
+    "id": "UFWI-189",
+    "source_record_id": "HIST20261008-P02",
+    "scope": "geophysical_method",
+    "priority": "P2",
+    "rank": null,
+    "ranking_reason": "",
+    "note_path": "papers/UFWI-189.md",
+    "weekly_class": "historical_backfill",
+    "catalog_added_at": "2026-10-08",
+    "verified_at": "2026-10-08",
+    "reviewed_at": "2026-10-08",
+    "group": "Shape optimization and adaptive parameterization",
+    "notes": "历史方法先例补漏，不计入2026-10-02至10-08首次发表。阅读范围：作者机构托管全文的首页、§1、§6、§7；关键公式/算例段核对，未对§2–5全部证明逐行精读。"
+  },
+  {
     "id": "UFWI-063",
     "title": "A consistent implementation of point sources on finite-difference grids",
     "year": 2020,
@@ -9015,6 +9083,75 @@
     "weekly_class": "existing_not_reviewed",
     "source_record_id": "UFWI-133",
     "catalog_added_at": "2026-09-26"
+  },
+  {
+    "title": "An adaptive meshless parameterization for full waveform inversion",
+    "authors": [
+      "Franciane Conceição Peters",
+      "Edivaldo Figueiredo Fontes Junior",
+      "Webe João Mansur",
+      "Djalma Manoel Soares Filho",
+      "Cid da Silva Garcia Monteiro",
+      "Pedro Carvalho"
+    ],
+    "authors_complete": true,
+    "doi": "10.1016/j.enganabound.2017.07.006",
+    "year": 2017,
+    "venue": "Engineering Analysis with Boundary Elements",
+    "volume": "83",
+    "pages": "113-122",
+    "publication_type": "journal",
+    "publication_status": "published",
+    "verification": "primary_abstract",
+    "priority_hint": 2,
+    "categories": [
+      "模型参数化",
+      "自适应基函数",
+      "隐式正则",
+      "地球物理可迁移方法"
+    ],
+    "innovation": "以Wendland插值和非均匀基点分布构成自适应无网格参数化，分开正演网格与反演自由度，用较少参数及基函数平滑约束改善稳定性。",
+    "methods": "Wendland紧支撑径向基函数；均匀/非均匀基点；spring-analogy调整点分布，参考成像频率下的空间波长变化；声学合成FWI对比标准块参数化。",
+    "evidence": "出版社摘要、引言及方法/结果节预览说明少自由度的正则作用与合成声学示例；Crossref核完整作者、DOI、卷页及期刊日期。",
+    "limitations": "未取得完整正文，不能认定已核所有优化细节、迭代预算、噪声设定或定量优势。属于地球物理合成例，不是医学骨USCT验证；自适应点布局可依赖成像频率/波长，正演网格与反演参数分开不等于与频率完全无关。",
+    "relevance": "“少参数有正则作用”“反演参数网格独立于正演网格”已有明确先例；复杂度递进研究即使改善，也不能凭此宣称首个参数化FWI。",
+    "read_coverage": "出版社可见abstract、introduction及Methods/Results/Conclusions预览；未读取完整全文。Crossref JSON元数据已核。",
+    "source_urls": [
+      "https://doi.org/10.1016/j.enganabound.2017.07.006",
+      "https://www.sciencedirect.com/science/article/pii/S0955799717300073",
+      "https://api.crossref.org/works/10.1016/j.enganabound.2017.07.006"
+    ],
+    "related_existing_ids": [
+      "UFWI-154",
+      "UFWI-155",
+      "UFWI-068"
+    ],
+    "related_existing_dois": [
+      "10.1109/TCI.2016.2640761",
+      "10.1088/1361-6420/ad2eca",
+      "10.1117/12.2654328"
+    ],
+    "date_resolution": {
+      "published": "2017-10",
+      "basis": "Crossref published-print及出版社期刊卷期，只有年月。",
+      "crossref_created": "2017-08-04",
+      "published_online": null,
+      "note": "DOI登记日不等于首次上线日；本次未核首个online日期，不补猜具体日。"
+    },
+    "url": "https://doi.org/10.1016/j.enganabound.2017.07.006",
+    "id": "UFWI-188",
+    "source_record_id": "HIST20261008-P01",
+    "scope": "geophysical_method",
+    "priority": "P2",
+    "rank": null,
+    "ranking_reason": "",
+    "note_path": "papers/UFWI-188.md",
+    "weekly_class": "historical_backfill",
+    "catalog_added_at": "2026-10-08",
+    "verified_at": "2026-10-08",
+    "reviewed_at": "2026-10-08",
+    "group": "Shape optimization and adaptive parameterization",
+    "notes": "历史方法先例补漏，不计入2026-10-02至10-08首次发表。阅读范围：出版社可见abstract、introduction及Methods/Results/Conclusions预览；未读取完整全文。Crossref JSON元数据已核。"
   },
   {
     "id": "UFWI-049",

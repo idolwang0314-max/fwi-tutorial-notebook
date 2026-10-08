@@ -72,3 +72,4 @@
 - [TV-Regularized Frequency-Domain Full-Waveform Inversion for Single-Sided Linear Ultrasound Array Data](papers/UFWI-129.md)（2026，preprint）：有限孔径研究新入口，需与2020–2024既有线阵方法对照。
 - [OpenBreastUS: Benchmarking Neural Operators for Wave Imaging Using Breast Ultrasound Computed Tomography](papers/UFWI-168.md)（2025，preprint）：李玉冰团队此前漏项；数据方法库可收，非本周更新。
 - [Seismic Full-Waveform Inversion Using Deep Learning Tools and Techniques](papers/UFWI-053.md)（2018，preprint）：补齐原始文献清单；是否优先阅读按直接FWI相关性与证据评定。
+- [An adaptive meshless parameterization for full waveform inversion](papers/UFWI-188.md)（2017，journal）：“少参数有正则作用”“反演参数网格独立于正演网格”已有明确先例；复杂度递进研究即使改善，也不能凭此宣称首个参数化FWI。

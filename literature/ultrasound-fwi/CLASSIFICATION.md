@@ -79,10 +79,12 @@
 - [UFWI-169 · Structure-dependent failure modes of neural priors in acoustic full-waveform inversion](papers/UFWI-169.md)（2026，P2）
 - [UFWI-092 · Target-oriented full waveform inversion based on optimal transport theory](papers/UFWI-092.md)（2026，P2）
 - [UFWI-050 · An empirical study of large-scale data-driven full waveform inversion](papers/UFWI-050.md)（2024，P2）
+- [UFWI-189 · Level Set–Based Shape Optimization Approach for Sharp-Interface Reconstructions in Time-Domain Full Waveform Inversion](papers/UFWI-189.md)（2021，P2）
 - [UFWI-063 · A consistent implementation of point sources on finite-difference grids](papers/UFWI-063.md)（2020，P2）
 - [UFWI-094 · Robust wavefield inversion via phase retrieval](papers/UFWI-094.md)（2020，P2）
 - [UFWI-065 · A Time-Domain Preconditioned Truncated Newton Approach to Visco-Acoustic Multiparameter Full Waveform Inversion](papers/UFWI-065.md)（2018，P2）
 - [UFWI-053 · Seismic Full-Waveform Inversion Using Deep Learning Tools and Techniques](papers/UFWI-053.md)（2018，P2）
+- [UFWI-188 · An adaptive meshless parameterization for full waveform inversion](papers/UFWI-188.md)（2017，P2）
 - [UFWI-051 · 全走时反演及其应用](papers/UFWI-051.md)（2017，P2）
 - [UFWI-057 · Frequencies of the Ricker wavelet](papers/UFWI-057.md)（2015，P2）
 
@@ -270,6 +272,10 @@
 ### ECNDT2023 / Research and Review Journal of Nondestructive Testing
 
 - [UFWI-070 · Full Waveform Inversion for NDT using ultrasonic linear arrays](papers/UFWI-070.md)（2023，P2）
+
+### Engineering Analysis with Boundary Elements
+
+- [UFWI-188 · An adaptive meshless parameterization for full waveform inversion](papers/UFWI-188.md)（2017，P2）
 
 ### Geophysical Journal International
 
@@ -477,6 +483,10 @@
 - [UFWI-153 · DeepUCT: Complex cascaded deep learning network for improved ultrasound tomography](papers/UFWI-153.md)（2022，P2）
 - [UFWI-049 · Ultrasonic computed tomography based on full-waveform inversion for bone quantitative imaging](papers/UFWI-049.md)（2017，P2）
 
+### SIAM Journal on Applied Mathematics
+
+- [UFWI-189 · Level Set–Based Shape Optimization Approach for Sharp-Interface Reconstructions in Time-Domain Full Waveform Inversion](papers/UFWI-189.md)（2021，P2）
+
 ### SIAM Journal on Scientific Computing
 
 - [UFWI-065 · A Time-Domain Preconditioned Truncated Newton Approach to Visco-Acoustic Multiparameter Full Waveform Inversion](papers/UFWI-065.md)（2018，P2）
@@ -659,6 +669,11 @@
 ### Rochester / Duric / Ali
 
 - [UFWI-097 · Frequency-differencing strategy to kickstart full-waveform inversion without cycle skipping](papers/UFWI-097.md)（2025，P0）
+
+### Shape optimization and adaptive parameterization
+
+- [UFWI-189 · Level Set–Based Shape Optimization Approach for Sharp-Interface Reconstructions in Time-Domain Full Waveform Inversion](papers/UFWI-189.md)（2021，P2）
+- [UFWI-188 · An adaptive meshless parameterization for full waveform inversion](papers/UFWI-188.md)（2017，P2）
 
 ### Symes / waveform inversion theory
 
@@ -1020,6 +1035,7 @@
 
 - [UFWI-152 · Quantitative Sound Speed Imaging of Cortical Bone and Soft Tissue: Results From Observational Data Sets](papers/UFWI-152.md)（2022，P0）
 - [UFWI-154 · Salt Reconstruction in Full-Waveform Inversion with a Parametric Level-Set Method](papers/UFWI-154.md)（2017，P1）
+- [UFWI-189 · Level Set–Based Shape Optimization Approach for Sharp-Interface Reconstructions in Time-Domain Full Waveform Inversion](papers/UFWI-189.md)（2021，P2）
 
 ### preprint
 
@@ -1032,6 +1048,10 @@
 ### review
 
 - [UFWI-164 · A comprehensive review of strategies to mitigate non-convexity in full waveform inversion](papers/UFWI-164.md)（2026，P1）
+
+### shape derivative
+
+- [UFWI-189 · Level Set–Based Shape Optimization Approach for Sharp-Interface Reconstructions in Time-Domain Full Waveform Inversion](papers/UFWI-189.md)（2021，P2）
 
 ### spectral element
 
@@ -1379,6 +1399,11 @@
 - [UFWI-154 · Salt Reconstruction in Full-Waveform Inversion with a Parametric Level-Set Method](papers/UFWI-154.md)（2017，P1）
 - [UFWI-156 · The variable projection method for waveform inversion with an unknown source function](papers/UFWI-156.md)（2013，P1）
 
+### 地球物理可迁移方法
+
+- [UFWI-189 · Level Set–Based Shape Optimization Approach for Sharp-Interface Reconstructions in Time-Domain Full Waveform Inversion](papers/UFWI-189.md)（2021，P2）
+- [UFWI-188 · An adaptive meshless parameterization for full waveform inversion](papers/UFWI-188.md)（2017，P2）
+
 ### 地球物理方法
 
 - [UFWI-164 · A comprehensive review of strategies to mitigate non-convexity in full waveform inversion](papers/UFWI-164.md)（2026，P1）
@@ -1558,6 +1583,10 @@
 ### 工业层析
 
 - [UFWI-137 · Ultrasonic forward modeling of industrial oil-water two-phase flow](papers/UFWI-137.md)（2026，P2）
+
+### 已知分区材料
+
+- [UFWI-189 · Level Set–Based Shape Optimization Approach for Sharp-Interface Reconstructions in Time-Domain Full Waveform Inversion](papers/UFWI-189.md)（2021，P2）
 
 ### 建模误差
 
@@ -1747,6 +1776,10 @@
 ### 概念验证
 
 - [UFWI-135 · Proof of concept for full-waveform inversion in ultrasound time-harmonic shear-wave elastography](papers/UFWI-135.md)（2026，P2）
+
+### 模型参数化
+
+- [UFWI-188 · An adaptive meshless parameterization for full waveform inversion](papers/UFWI-188.md)（2017，P2）
 
 ### 模型失配
 
@@ -2117,6 +2150,10 @@
 
 - [UFWI-044 · Self-Supervised Optimization of RF Data Coherence for Improving Breast Reflection UCT Reconstruction](papers/UFWI-044.md)（2025，P2）
 
+### 自适应基函数
+
+- [UFWI-188 · An adaptive meshless parameterization for full waveform inversion](papers/UFWI-188.md)（2017，P2）
+
 ### 虚拟试验
 
 - [UFWI-149 · Breast cancer detection from ultrasound computed tomography imaging using radiomic analysis: in silico trial](papers/UFWI-149.md)（2025，P2）
@@ -2210,6 +2247,10 @@
 ### 随机源编码
 
 - [UFWI-025 · High resolution 3D ultrasonic breast imaging by time-domain full waveform inversion](papers/UFWI-025.md)（2022，P0）
+
+### 隐式正则
+
+- [UFWI-188 · An adaptive meshless parameterization for full waveform inversion](papers/UFWI-188.md)（2017，P2）
 
 ### 非线性声学
 

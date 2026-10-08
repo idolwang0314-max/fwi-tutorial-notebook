@@ -1,24 +1,24 @@
 {
   "cutoff": "2026-10-08",
-  "records": 185,
+  "records": 187,
   "ranked": 26,
-  "bibtex": 183,
-  "doi_unique": 172,
+  "bibtex": 185,
+  "doi_unique": 174,
   "scope": {
     "medical_fwi": 90,
-    "geophysical_method": 40,
+    "geophysical_method": 42,
     "ndt_fwi": 19,
     "adjacent_ultrasound": 36
   },
   "verification": {
-    "primary_fulltext": 24,
-    "primary_abstract": 112,
+    "primary_fulltext": 25,
+    "primary_abstract": 113,
     "legacy_note": 47,
     "primary_abstract_and_section_preview": 1,
     "metadata_only": 1
   },
   "type": {
-    "journal": 135,
+    "journal": 137,
     "conference": 31,
     "review": 3,
     "preprint": 14,
@@ -26,7 +26,7 @@
     "conference_presentation": 1
   },
   "status": {
-    "published": 152,
+    "published": 154,
     "conference_program_and_abstract": 12,
     "published_online": 4,
     "preprint": 13,
@@ -94,8 +94,10 @@
     "Academic Radiology": 1,
     "Bone Quantitative Ultrasound (book chapter)": 1,
     "Medical Imaging 2021: Ultrasonic Imaging and Tomography": 1,
+    "SIAM Journal on Applied Mathematics": 1,
     "SIAM Journal on Scientific Computing": 1,
     "International Workshop on Medical Ultrasound Tomography": 1,
+    "Engineering Analysis with Boundary Elements": 1,
     "石油物探": 1,
     "Japanese Journal of Applied Physics": 1,
     "Medical Imaging 2025: Ultrasonic Imaging and Tomography": 1

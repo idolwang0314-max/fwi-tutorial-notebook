@@ -2,11 +2,11 @@
 
 结果：PASS。
 
-- 文献 185 条；唯一非空 DOI 172；主榜 26；BibTeX 183 条。
+- 文献 187 条；唯一非空 DOI 174；主榜 26；BibTeX 185 条。
 - JSON/CSV/HTML 数据一致，必填字段、ID/DOI、排名和优先级、单篇卡片和索引通过检查。
 - 生成 Markdown 与 HTML 相对链接、公开来源 URL 格式及内部路径检查。
 - BibTeX 键、基础括号、部分作者提示、书章类型与撤回排除规则检查。
-- 68 项初版筛查快照、185 条来源 ID 映射、12 篇专题顺序及统计文件检查。
+- 68 项初版筛查快照、187 条来源 ID 映射、12 篇专题顺序及统计文件检查。
 - 本检查不联网核验 URL 存活，不等于重新核验文献结论；未使用 TeX 编译器或完整 BibTeX 解析器。
 
 ## 网页检查
@@ -16,20 +16,20 @@ Node.js 语法与最小 DOM 接口检查通过：检索、领域筛选、重置�
 
 ```json
 {
-  "records": 185,
-  "csv_rows": 185,
-  "unique_doi": 172,
+  "records": 187,
+  "csv_rows": 187,
+  "unique_doi": 174,
   "ranked": 26,
-  "bibtex_entries": 183,
+  "bibtex_entries": 185,
   "screened": 68,
-  "source_ids": 185,
+  "source_ids": 187,
   "project_ranked": 12,
   "checks_passed": true,
   "errors": [],
   "warnings": [],
   "js_smoke": {
-    "initial": 185,
-    "geophysical": 40,
+    "initial": 187,
+    "geophysical": 42,
     "search": true,
     "reset": true,
     "withdrawn": true

@@ -1,10 +1,10 @@
 {
   "updated_at": "2026-10-08",
   "previous_public_count": 151,
-  "new_public_records": 34,
-  "current_count": 185,
-  "allocation": "Existing public IDs and gaps preserved; first increment UFWI-154..181, historical mechanism supplement UFWI-182..187.",
-  "source_aggregate_sha256": "8ecaa99d2d1e7d69576eaa0fbfaa0922f79e085704700e494e3a9640be397ca9",
+  "new_public_records": 36,
+  "current_count": 187,
+  "allocation": "Existing public IDs and gaps preserved; UFWI-154..181 first increment, UFWI-182..187 mechanism supplement, UFWI-188..189 historical parameterization prior art.",
+  "source_aggregate_sha256": "d853b6532147815bd7337c50b503fe7121a494e4b633990a8a777ae8a8f2e79c",
   "records": [
     {
       "source_record_id": "UFWI-013",
@@ -1300,7 +1300,22 @@
       "title": "Adaptive waveform inversion for transmitted wave data",
       "doi": "10.48550/arxiv.2402.17696",
       "action": "historical_mechanism_supplement"
+    },
+    {
+      "source_record_id": "HIST20261008-P01",
+      "public_id": "UFWI-188",
+      "title": "An adaptive meshless parameterization for full waveform inversion",
+      "doi": "10.1016/j.enganabound.2017.07.006",
+      "action": "historical_parameterization_supplement"
+    },
+    {
+      "source_record_id": "HIST20261008-P02",
+      "public_id": "UFWI-189",
+      "title": "Level Set–Based Shape Optimization Approach for Sharp-Interface Reconstructions in Time-Domain Full Waveform Inversion",
+      "doi": "10.1137/20m1378090",
+      "action": "historical_parameterization_supplement"
     }
   ],
-  "mechanism_supplement_count": 6
+  "mechanism_supplement_count": 6,
+  "parameterization_supplement_count": 2
 }
